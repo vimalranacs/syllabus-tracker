@@ -151,7 +151,7 @@ export const useStudyStore = create<StudyState>((set, get) => ({
       itemId,
       itemTitle
     });
-    await updateLastActive(uid);
+    await updateLastActive();
   },
 
   updateItemPriority: async (itemId, priority) => {
