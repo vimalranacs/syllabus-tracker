@@ -1,0 +1,2414 @@
+{
+  "mockId": "preamble-100",
+  "title": "Preamble of India",
+  "category": "Indian Polity",
+  "description": "100-question Preamble mock covering basics, Objectives Resolution, key words, landmark cases and assertion-reason practice.",
+  "secondsPerQuestion": 51,
+  "tags": [
+    "polity",
+    "preamble",
+    "prelims"
+  ],
+  "questions": [
+    {
+      "id": "Q1",
+      "question": "The Preamble of the Indian Constitution begins with the words:",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"We, the Citizens of India\""
+        },
+        {
+          "id": "b",
+          "text": "\"We, the People of India\""
+        },
+        {
+          "id": "c",
+          "text": "\"We, the Sovereign People\""
+        },
+        {
+          "id": "d",
+          "text": "\"We, the Republic of India\""
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q2",
+      "question": "The Preamble declares India to be a:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Democratic Federal Republic"
+        },
+        {
+          "id": "b",
+          "text": "Sovereign Democratic Republic"
+        },
+        {
+          "id": "c",
+          "text": "Sovereign Socialist Secular Democratic Republic"
+        },
+        {
+          "id": "d",
+          "text": "Secular Federal Socialist Republic"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q3",
+      "question": "The word \"Socialist\" was added to the Preamble by which Constitutional Amendment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "42nd Amendment, 1976"
+        },
+        {
+          "id": "b",
+          "text": "44th Amendment, 1978"
+        },
+        {
+          "id": "c",
+          "text": "52nd Amendment, 1985"
+        },
+        {
+          "id": "d",
+          "text": "24th Amendment, 1971"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q4",
+      "question": "The word \"Secular\" was added to the Preamble by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "42nd Amendment, 1976"
+        },
+        {
+          "id": "b",
+          "text": "44th Amendment"
+        },
+        {
+          "id": "c",
+          "text": "46th Amendment"
+        },
+        {
+          "id": "d",
+          "text": "25th Amendment"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q5",
+      "question": "The Preamble to the Indian Constitution was adopted on:",
+      "options": [
+        {
+          "id": "a",
+          "text": "15 August 1947"
+        },
+        {
+          "id": "b",
+          "text": "26 January 1950"
+        },
+        {
+          "id": "c",
+          "text": "26 November 1949"
+        },
+        {
+          "id": "d",
+          "text": "22 January 1947"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q6",
+      "question": "The concept of \"Preamble\" in the Indian Constitution was borrowed from:",
+      "options": [
+        {
+          "id": "a",
+          "text": "UK"
+        },
+        {
+          "id": "b",
+          "text": "USA"
+        },
+        {
+          "id": "c",
+          "text": "Canada"
+        },
+        {
+          "id": "d",
+          "text": "Australia"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q7",
+      "question": "Who called the Preamble \"the key to open the minds of the makers\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B.R. Ambedkar"
+        },
+        {
+          "id": "b",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "c",
+          "text": "Ernest Barker"
+        },
+        {
+          "id": "d",
+          "text": "Granville Austin"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q8",
+      "question": "How many types of Justice are mentioned in the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two"
+        },
+        {
+          "id": "b",
+          "text": "Three  (Social, Economic, Political)"
+        },
+        {
+          "id": "c",
+          "text": "Four"
+        },
+        {
+          "id": "d",
+          "text": "Five"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q9",
+      "question": "Which types of Liberty are mentioned in the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thought, Expression, Belief, Faith, Worship"
+        },
+        {
+          "id": "b",
+          "text": "Speech, Movement, Assembly, Worship"
+        },
+        {
+          "id": "c",
+          "text": "Expression, Belief, Trade, Faith"
+        },
+        {
+          "id": "d",
+          "text": "Thought, Speech, Religion, Culture"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q10",
+      "question": "Which types of Equality are secured by the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Social and Legal"
+        },
+        {
+          "id": "b",
+          "text": "Political and Economic"
+        },
+        {
+          "id": "c",
+          "text": "Status and Opportunity"
+        },
+        {
+          "id": "d",
+          "text": "Religious and Political"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q11",
+      "question": "What is the terminal objective mentioned in the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To establish a Welfare State"
+        },
+        {
+          "id": "b",
+          "text": "To secure Fraternity assuring dignity of the individual and unity and integrity of the Nation"
+        },
+        {
+          "id": "c",
+          "text": "To promote international peace"
+        },
+        {
+          "id": "d",
+          "text": "To guarantee fundamental rights"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q12",
+      "question": "The word \"Integrity\" was added to the Preamble by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "40th Amendment"
+        },
+        {
+          "id": "b",
+          "text": "42nd Amendment"
+        },
+        {
+          "id": "c",
+          "text": "44th Amendment"
+        },
+        {
+          "id": "d",
+          "text": "24th Amendment"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q13",
+      "question": "The Preamble is part of the Indian Constitution — what does the Supreme Court say?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is not a part of the Constitution"
+        },
+        {
+          "id": "b",
+          "text": "It is a part of the Constitution  (Kesavananda Bharati case)"
+        },
+        {
+          "id": "c",
+          "text": "It has legal enforceability"
+        },
+        {
+          "id": "d",
+          "text": "It can be used to override Fundamental Rights"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q14",
+      "question": "In which case did the Supreme Court declare the Preamble as part of the Constitution?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Berubari Union Case, 1960"
+        },
+        {
+          "id": "b",
+          "text": "Kesavananda Bharati Case, 1973"
+        },
+        {
+          "id": "c",
+          "text": "Golaknath Case, 1967"
+        },
+        {
+          "id": "d",
+          "text": "Minerva Mills Case, 1980"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q15",
+      "question": "In the Berubari Union Case (1960), the Supreme Court held that:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Preamble is part of the Constitution"
+        },
+        {
+          "id": "b",
+          "text": "Preamble is not part of the Constitution"
+        },
+        {
+          "id": "c",
+          "text": "Preamble can be amended"
+        },
+        {
+          "id": "d",
+          "text": "Preamble overrides all articles"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q16",
+      "question": "Which word in the Preamble indicates that the source of authority of the Constitution is the people?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Sovereign\""
+        },
+        {
+          "id": "b",
+          "text": "\"Democratic\""
+        },
+        {
+          "id": "c",
+          "text": "\"We, the People of India\""
+        },
+        {
+          "id": "d",
+          "text": "\"Republic\""
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q17",
+      "question": "The Preamble describes India as a \"Republic.\" This means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "India has a written Constitution"
+        },
+        {
+          "id": "b",
+          "text": "The Head of State is elected, not hereditary"
+        },
+        {
+          "id": "c",
+          "text": "India follows a federal system"
+        },
+        {
+          "id": "d",
+          "text": "India has a parliamentary government"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q18",
+      "question": "The idea of \"Fraternity\" in the Preamble promotes:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Economic equality among citizens"
+        },
+        {
+          "id": "b",
+          "text": "A sense of brotherhood and dignity"
+        },
+        {
+          "id": "c",
+          "text": "Political freedom"
+        },
+        {
+          "id": "d",
+          "text": "Religious unity"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q19",
+      "question": "Which of the following is NOT mentioned in the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Justice"
+        },
+        {
+          "id": "b",
+          "text": "Liberty"
+        },
+        {
+          "id": "c",
+          "text": "Equality"
+        },
+        {
+          "id": "d",
+          "text": "Education"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q20",
+      "question": "The Preamble of India is also called:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Soul of the Constitution  (by some scholars)"
+        },
+        {
+          "id": "b",
+          "text": "Heart of the Constitution"
+        },
+        {
+          "id": "c",
+          "text": "Spine of the Constitution"
+        },
+        {
+          "id": "d",
+          "text": "Mirror of the Constitution"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Basic & Definitional"
+    },
+    {
+      "id": "Q21",
+      "question": "The \"Objectives Resolution\" was moved in the Constituent Assembly by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dr. B.R. Ambedkar"
+        },
+        {
+          "id": "b",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "c",
+          "text": "Rajendra Prasad"
+        },
+        {
+          "id": "d",
+          "text": "Sardar Patel"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q22",
+      "question": "On which date was the Objectives Resolution moved?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9 December 1946"
+        },
+        {
+          "id": "b",
+          "text": "15 August 1947"
+        },
+        {
+          "id": "c",
+          "text": "26 January 1948"
+        },
+        {
+          "id": "d",
+          "text": "22 January 1947"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q23",
+      "question": "On which date was the Objectives Resolution adopted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13 December 1946"
+        },
+        {
+          "id": "b",
+          "text": "22 January 1947"
+        },
+        {
+          "id": "c",
+          "text": "26 November 1949"
+        },
+        {
+          "id": "d",
+          "text": "15 August 1947"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q24",
+      "question": "The Preamble is based on the:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Government of India Act, 1935"
+        },
+        {
+          "id": "b",
+          "text": "Objectives Resolution"
+        },
+        {
+          "id": "c",
+          "text": "Indian Independence Act, 1947"
+        },
+        {
+          "id": "d",
+          "text": "Motilal Nehru Report, 1928"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q25",
+      "question": "Granville Austin described the Preamble as:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Key to the Constitution"
+        },
+        {
+          "id": "b",
+          "text": "A horoscope of the Constitution"
+        },
+        {
+          "id": "c",
+          "text": "\"Hopes and aspirations of the Constituent Assembly\""
+        },
+        {
+          "id": "d",
+          "text": "The soul of the Constitution"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q26",
+      "question": "Who among the following said, \"Preamble is the soul of the Constitution\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alladi Krishnaswami Ayyar  (often attributed)"
+        },
+        {
+          "id": "b",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "c",
+          "text": "B.R. Ambedkar"
+        },
+        {
+          "id": "d",
+          "text": "K.M. Munshi"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q27",
+      "question": "The Preamble was amended only once. Which year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1971"
+        },
+        {
+          "id": "b",
+          "text": "1976"
+        },
+        {
+          "id": "c",
+          "text": "1978"
+        },
+        {
+          "id": "d",
+          "text": "1984"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q28",
+      "question": "Before 1976, the Preamble described India as:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sovereign Democratic Republic"
+        },
+        {
+          "id": "b",
+          "text": "Sovereign Socialist Secular Democratic Republic"
+        },
+        {
+          "id": "c",
+          "text": "Federal Democratic Republic"
+        },
+        {
+          "id": "d",
+          "text": "Sovereign Secular Republic"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q29",
+      "question": "The 42nd Amendment is called:",
+      "options": [
+        {
+          "id": "a",
+          "text": "People's Amendment"
+        },
+        {
+          "id": "b",
+          "text": "Mini Constitution"
+        },
+        {
+          "id": "c",
+          "text": "Democratic Amendment"
+        },
+        {
+          "id": "d",
+          "text": "Emergency Amendment"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q30",
+      "question": "Under which Prime Minister was the 42nd Amendment passed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rajiv Gandhi"
+        },
+        {
+          "id": "b",
+          "text": "Indira Gandhi"
+        },
+        {
+          "id": "c",
+          "text": "Lal Bahadur Shastri"
+        },
+        {
+          "id": "d",
+          "text": "Morarji Desai"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q31",
+      "question": "The Preamble states the date of adoption of the Constitution as:",
+      "options": [
+        {
+          "id": "a",
+          "text": "15 August 1947"
+        },
+        {
+          "id": "b",
+          "text": "26 November 1949"
+        },
+        {
+          "id": "c",
+          "text": "26 January 1950"
+        },
+        {
+          "id": "d",
+          "text": "22 January 1947"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q32",
+      "question": "26 November is celebrated as:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Republic Day"
+        },
+        {
+          "id": "b",
+          "text": "Constitution Day (Samvidhan Divas)"
+        },
+        {
+          "id": "c",
+          "text": "Law Day"
+        },
+        {
+          "id": "d",
+          "text": "Democracy Day"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q33",
+      "question": "The Preamble was inspired by the Preamble of which country's Constitution most closely in structure?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Australia"
+        },
+        {
+          "id": "b",
+          "text": "USA"
+        },
+        {
+          "id": "c",
+          "text": "Ireland"
+        },
+        {
+          "id": "d",
+          "text": "France"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q34",
+      "question": "Which of the following countries' revolutionary ideals directly influenced the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Russia"
+        },
+        {
+          "id": "b",
+          "text": "France  (Liberty, Equality, Fraternity)"
+        },
+        {
+          "id": "c",
+          "text": "USA"
+        },
+        {
+          "id": "d",
+          "text": "China"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q35",
+      "question": "The Preamble is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Justiciable in courts"
+        },
+        {
+          "id": "b",
+          "text": "Not justiciable"
+        },
+        {
+          "id": "c",
+          "text": "Enforceable like Fundamental Rights"
+        },
+        {
+          "id": "d",
+          "text": "Subject to Judicial Review directly"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Objectives Resolution & History"
+    },
+    {
+      "id": "Q36",
+      "question": "\"Sovereign\" in the Preamble means India:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is a member of the Commonwealth"
+        },
+        {
+          "id": "b",
+          "text": "Is free from external control"
+        },
+        {
+          "id": "c",
+          "text": "Has a federal structure"
+        },
+        {
+          "id": "d",
+          "text": "Has a bicameral legislature"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q37",
+      "question": "Does India being a member of the Commonwealth affect its sovereignty?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, it limits sovereignty"
+        },
+        {
+          "id": "b",
+          "text": "No, membership is voluntary"
+        },
+        {
+          "id": "c",
+          "text": "Yes, UK has overriding power"
+        },
+        {
+          "id": "d",
+          "text": "Partially"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q38",
+      "question": "\"Democratic\" in the Preamble refers to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Parliamentary democracy"
+        },
+        {
+          "id": "b",
+          "text": "Democracy in governance and social life"
+        },
+        {
+          "id": "c",
+          "text": "Only direct democracy"
+        },
+        {
+          "id": "d",
+          "text": "Federal democracy"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q39",
+      "question": "The word \"Republic\" in the Preamble implies:",
+      "options": [
+        {
+          "id": "a",
+          "text": "No monarchy; elected head of state"
+        },
+        {
+          "id": "b",
+          "text": "Single-party system"
+        },
+        {
+          "id": "c",
+          "text": "No Prime Minister"
+        },
+        {
+          "id": "d",
+          "text": "Unitary form of government"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q40",
+      "question": "\"Social Justice\" as used in the Preamble means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Equal distribution of wealth"
+        },
+        {
+          "id": "b",
+          "text": "No discrimination on grounds of caste, race, sex, religion"
+        },
+        {
+          "id": "c",
+          "text": "Free legal aid to all"
+        },
+        {
+          "id": "d",
+          "text": "Abolition of private property"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q41",
+      "question": "\"Economic Justice\" in the Preamble refers to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Equal salary for all"
+        },
+        {
+          "id": "b",
+          "text": "No discrimination based on economic status"
+        },
+        {
+          "id": "c",
+          "text": "Nationalization of banks"
+        },
+        {
+          "id": "d",
+          "text": "Minimum wages for all workers"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q42",
+      "question": "\"Political Justice\" in the Preamble means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Free and fair elections only"
+        },
+        {
+          "id": "b",
+          "text": "Equal political rights regardless of caste, religion, gender"
+        },
+        {
+          "id": "c",
+          "text": "Multi-party democracy"
+        },
+        {
+          "id": "d",
+          "text": "Right to contest elections"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q43",
+      "question": "\"Liberty of thought and expression\" is secured by which Fundamental Right?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 19(1)(a)"
+        },
+        {
+          "id": "b",
+          "text": "Article 21"
+        },
+        {
+          "id": "c",
+          "text": "Article 14"
+        },
+        {
+          "id": "d",
+          "text": "Article 25"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q44",
+      "question": "\"Liberty of Belief, Faith and Worship\" in the Preamble relates to which Article?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Articles 25–28"
+        },
+        {
+          "id": "b",
+          "text": "Article 19"
+        },
+        {
+          "id": "c",
+          "text": "Article 21"
+        },
+        {
+          "id": "d",
+          "text": "Article 14"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q45",
+      "question": "\"Equality of Status\" in the Preamble is reflected in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 14"
+        },
+        {
+          "id": "b",
+          "text": "Article 16"
+        },
+        {
+          "id": "c",
+          "text": "Article 21"
+        },
+        {
+          "id": "d",
+          "text": "Article 38"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q46",
+      "question": "\"Equality of Opportunity\" relates to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 14"
+        },
+        {
+          "id": "b",
+          "text": "Article 16"
+        },
+        {
+          "id": "c",
+          "text": "Article 19"
+        },
+        {
+          "id": "d",
+          "text": "Article 21"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q47",
+      "question": "\"Fraternity\" in the Preamble assures:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Economic equality"
+        },
+        {
+          "id": "b",
+          "text": "Dignity of the individual and unity/integrity of the nation"
+        },
+        {
+          "id": "c",
+          "text": "Freedom of religion"
+        },
+        {
+          "id": "d",
+          "text": "Social justice"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q48",
+      "question": "\"Socialist\" in the Preamble means India follows:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pure Marxist socialism"
+        },
+        {
+          "id": "b",
+          "text": "Mixed economy with democratic socialism"
+        },
+        {
+          "id": "c",
+          "text": "Soviet-style command economy"
+        },
+        {
+          "id": "d",
+          "text": "Laissez-faire capitalism"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q49",
+      "question": "\"Secular\" in the Preamble means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "India is anti-religion"
+        },
+        {
+          "id": "b",
+          "text": "The State has no official religion and treats all equally"
+        },
+        {
+          "id": "c",
+          "text": "Religion is banned from public life"
+        },
+        {
+          "id": "d",
+          "text": "Minorities have no rights"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q50",
+      "question": "The Preamble's phrase \"unity and integrity\" was added because of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Partition of India"
+        },
+        {
+          "id": "b",
+          "text": "Threat of secessionism and to strengthen national unity"
+        },
+        {
+          "id": "c",
+          "text": "Language conflict"
+        },
+        {
+          "id": "d",
+          "text": "Economic inequality"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q51",
+      "question": "The Preamble uses the phrase \"secure to all its citizens.\" The word \"secure\" here means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protect from foreign invasion"
+        },
+        {
+          "id": "b",
+          "text": "Guarantee and ensure"
+        },
+        {
+          "id": "c",
+          "text": "Earn economically"
+        },
+        {
+          "id": "d",
+          "text": "Provide militarily"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q52",
+      "question": "The phrase \"We, the People\" establishes:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Popular Sovereignty"
+        },
+        {
+          "id": "b",
+          "text": "Parliamentary Sovereignty"
+        },
+        {
+          "id": "c",
+          "text": "Constitutional Sovereignty"
+        },
+        {
+          "id": "d",
+          "text": "Judicial Sovereignty"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q53",
+      "question": "\"Democratic Republic\" together means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elected head + people's rule"
+        },
+        {
+          "id": "b",
+          "text": "Written constitution + elected Parliament"
+        },
+        {
+          "id": "c",
+          "text": "Federal structure + democracy"
+        },
+        {
+          "id": "d",
+          "text": "Separation of powers + elections"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q54",
+      "question": "Which term in the Preamble is NOT a goal but a character of the state?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Justice"
+        },
+        {
+          "id": "b",
+          "text": "Fraternity"
+        },
+        {
+          "id": "c",
+          "text": "Sovereign"
+        },
+        {
+          "id": "d",
+          "text": "Liberty"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q55",
+      "question": "Preamble mentions \"dignity of the individual.\" This is reflected in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 21"
+        },
+        {
+          "id": "b",
+          "text": "Article 14"
+        },
+        {
+          "id": "c",
+          "text": "Article 19"
+        },
+        {
+          "id": "d",
+          "text": "Article 25"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q56",
+      "question": "The Directive Principles most closely fulfil which objective of the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liberty"
+        },
+        {
+          "id": "b",
+          "text": "Fraternity"
+        },
+        {
+          "id": "c",
+          "text": "Social and Economic Justice"
+        },
+        {
+          "id": "d",
+          "text": "Political Justice"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q57",
+      "question": "Fundamental Rights most closely fulfil which Preamble objective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Social Justice"
+        },
+        {
+          "id": "b",
+          "text": "Liberty"
+        },
+        {
+          "id": "c",
+          "text": "Fraternity"
+        },
+        {
+          "id": "d",
+          "text": "Equality of opportunity"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q58",
+      "question": "\"Giving unto ourselves this Constitution\" in the Preamble signifies:",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Constituent Assembly was supreme"
+        },
+        {
+          "id": "b",
+          "text": "The Constitution is self-enacted by the people"
+        },
+        {
+          "id": "c",
+          "text": "No external help was taken"
+        },
+        {
+          "id": "d",
+          "text": "It was drafted by lawyers alone"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q59",
+      "question": "The Preamble of India is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "A directive to the President"
+        },
+        {
+          "id": "b",
+          "text": "A declaration of intent and purpose"
+        },
+        {
+          "id": "c",
+          "text": "A legal document enforceable in courts"
+        },
+        {
+          "id": "d",
+          "text": "Part of Fundamental Rights"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q60",
+      "question": "Which of the following is the correct order in the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Justice, Equality, Liberty, Fraternity"
+        },
+        {
+          "id": "b",
+          "text": "Liberty, Justice, Equality, Fraternity"
+        },
+        {
+          "id": "c",
+          "text": "Justice, Liberty, Equality, Fraternity"
+        },
+        {
+          "id": "d",
+          "text": "Equality, Justice, Liberty, Fraternity"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Key Words Analysis"
+    },
+    {
+      "id": "Q61",
+      "question": "Can the Preamble be amended?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, it is unamendable"
+        },
+        {
+          "id": "b",
+          "text": "Yes, under Article 368  (Kesavananda Bharati Case)"
+        },
+        {
+          "id": "c",
+          "text": "Only by referendum"
+        },
+        {
+          "id": "d",
+          "text": "Only by special constitutional body"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q62",
+      "question": "In Kesavananda Bharati Case, what was the court's ruling on the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Preamble cannot be amended"
+        },
+        {
+          "id": "b",
+          "text": "Preamble is part of the Constitution and can be amended but basic structure cannot be destroyed"
+        },
+        {
+          "id": "c",
+          "text": "Preamble has no legal value"
+        },
+        {
+          "id": "d",
+          "text": "Preamble is superior to all Articles"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q63",
+      "question": "The \"Basic Structure\" doctrine was propounded in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Golaknath Case"
+        },
+        {
+          "id": "b",
+          "text": "Shankari Prasad Case"
+        },
+        {
+          "id": "c",
+          "text": "Kesavananda Bharati Case"
+        },
+        {
+          "id": "d",
+          "text": "Minerva Mills Case"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q64",
+      "question": "Which of the following is part of the \"basic structure\" derived from the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parliamentary system"
+        },
+        {
+          "id": "b",
+          "text": "Sovereign, Democratic, Republic character"
+        },
+        {
+          "id": "c",
+          "text": "Bicameral legislature"
+        },
+        {
+          "id": "d",
+          "text": "Emergency provisions"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q65",
+      "question": "In which case was it confirmed that Secularism is a basic feature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Golaknath Case"
+        },
+        {
+          "id": "b",
+          "text": "S.R. Bommai Case, 1994"
+        },
+        {
+          "id": "c",
+          "text": "Minerva Mills Case"
+        },
+        {
+          "id": "d",
+          "text": "Berubari Union Case"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q66",
+      "question": "In S.R. Bommai Case, the Supreme Court held:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Governor's powers are absolute"
+        },
+        {
+          "id": "b",
+          "text": "Secularism is a basic feature and Article 356 can be judicially reviewed"
+        },
+        {
+          "id": "c",
+          "text": "Parliament is supreme over Judiciary"
+        },
+        {
+          "id": "d",
+          "text": "Emergency powers cannot be reviewed"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q67",
+      "question": "Which case ruled that the Preamble cannot be used to expand or restrict Article provisions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Minerva Mills Case"
+        },
+        {
+          "id": "b",
+          "text": "Kesavananda Bharati Case"
+        },
+        {
+          "id": "c",
+          "text": "In Re Berubari Union Case"
+        },
+        {
+          "id": "d",
+          "text": "Golaknath Case"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q68",
+      "question": "The Preamble can be used by courts for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Overriding Fundamental Rights"
+        },
+        {
+          "id": "b",
+          "text": "Interpreting ambiguous provisions"
+        },
+        {
+          "id": "c",
+          "text": "Striking down laws"
+        },
+        {
+          "id": "d",
+          "text": "Amending the Constitution"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q69",
+      "question": "In Minerva Mills Case (1980), what was struck down?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 368(4) and (5) which made Constitutional amendments non-justiciable"
+        },
+        {
+          "id": "b",
+          "text": "Emergency provisions"
+        },
+        {
+          "id": "c",
+          "text": "Abolition of privy purses"
+        },
+        {
+          "id": "d",
+          "text": "Bank nationalization"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q70",
+      "question": "The 42nd Amendment added which words to the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sovereign and Democratic"
+        },
+        {
+          "id": "b",
+          "text": "Socialist, Secular, and Integrity"
+        },
+        {
+          "id": "c",
+          "text": "Republic and Fraternity"
+        },
+        {
+          "id": "d",
+          "text": "Justice and Liberty"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q71",
+      "question": "Which Article of the Constitution deals with Amendment procedure?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 352"
+        },
+        {
+          "id": "b",
+          "text": "Article 360"
+        },
+        {
+          "id": "c",
+          "text": "Article 368"
+        },
+        {
+          "id": "d",
+          "text": "Article 356"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q72",
+      "question": "The Preamble was amended during:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normal period"
+        },
+        {
+          "id": "b",
+          "text": "Emergency period (Internal Emergency 1975–77)"
+        },
+        {
+          "id": "c",
+          "text": "Post-emergency"
+        },
+        {
+          "id": "d",
+          "text": "Partition period"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q73",
+      "question": "Who challenged the 42nd Amendment in court?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Opposition parties challenged various parts in Minerva Mills Case"
+        },
+        {
+          "id": "b",
+          "text": "Kesavananda Bharati"
+        },
+        {
+          "id": "c",
+          "text": "S.R. Bommai"
+        },
+        {
+          "id": "d",
+          "text": "I.C. Golaknath"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q74",
+      "question": "Preamble is NOT a source of power for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Legislature"
+        },
+        {
+          "id": "b",
+          "text": "Executive"
+        },
+        {
+          "id": "c",
+          "text": "Judiciary"
+        },
+        {
+          "id": "d",
+          "text": "All of the above  (Preamble is a source of guidance, not power)"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q75",
+      "question": "Which part of Preamble was considered \"basic structure\" in Kesavananda Bharati?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fraternity only"
+        },
+        {
+          "id": "b",
+          "text": "Sovereign, democratic, republican character"
+        },
+        {
+          "id": "c",
+          "text": "Socialist element"
+        },
+        {
+          "id": "d",
+          "text": "Secular character"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q76",
+      "question": "The Supreme Court in LIC of India Case (1995) held:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Preamble cannot be read with fundamental rights"
+        },
+        {
+          "id": "b",
+          "text": "Preamble is an integral part of the Constitution"
+        },
+        {
+          "id": "c",
+          "text": "Preamble overrides DPSP"
+        },
+        {
+          "id": "d",
+          "text": "Preamble is superior to all schedules"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q77",
+      "question": "Which right is NOT mentioned in the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liberty of thought"
+        },
+        {
+          "id": "b",
+          "text": "Liberty of expression"
+        },
+        {
+          "id": "c",
+          "text": "Liberty of worship"
+        },
+        {
+          "id": "d",
+          "text": "Right to Property"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q78",
+      "question": "The Preamble cannot be:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Interpreted"
+        },
+        {
+          "id": "b",
+          "text": "Discussed in Parliament"
+        },
+        {
+          "id": "c",
+          "text": "Enforced in courts"
+        },
+        {
+          "id": "d",
+          "text": "Amended"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q79",
+      "question": "Secularism in Indian context (as in Preamble) means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Western concept — separation of church and state"
+        },
+        {
+          "id": "b",
+          "text": "Sarva Dharma Sambhav — all religions are equal"
+        },
+        {
+          "id": "c",
+          "text": "No religion can be practiced"
+        },
+        {
+          "id": "d",
+          "text": "Majority religion gets state support"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q80",
+      "question": "Which case established that Democracy is a basic feature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kesavananda Bharati"
+        },
+        {
+          "id": "b",
+          "text": "Golaknath"
+        },
+        {
+          "id": "c",
+          "text": "S.R. Bommai"
+        },
+        {
+          "id": "d",
+          "text": "Minerva Mills"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Supreme Court Cases & Amendability"
+    },
+    {
+      "id": "Q81",
+      "question": "The Preamble mentions the date \"26 November 1949.\" Significance:",
+      "options": [
+        {
+          "id": "a",
+          "text": "India became a Republic"
+        },
+        {
+          "id": "b",
+          "text": "Constitution was adopted and enacted"
+        },
+        {
+          "id": "c",
+          "text": "Constitution came into force"
+        },
+        {
+          "id": "d",
+          "text": "India got Independence"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q82",
+      "question": "26 January 1950 is significant because:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Constitution was adopted"
+        },
+        {
+          "id": "b",
+          "text": "Constitution came into force"
+        },
+        {
+          "id": "c",
+          "text": "Preamble was written"
+        },
+        {
+          "id": "d",
+          "text": "India became independent"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q83",
+      "question": "Assertion (A): India is a Sovereign State. Reason (R): India is a member of the United Nations.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R are true, R explains A"
+        },
+        {
+          "id": "b",
+          "text": "A is true, R is false"
+        },
+        {
+          "id": "c",
+          "text": "Both are true but R does not explain A"
+        },
+        {
+          "id": "d",
+          "text": "A is false, R is true"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q84",
+      "question": "Assertion (A): India is a Secular State. Reason (R): India has no state religion and the state treats all religions equally.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R are true, R is the correct explanation"
+        },
+        {
+          "id": "b",
+          "text": "A is true, R is false"
+        },
+        {
+          "id": "c",
+          "text": "A is false, R is true"
+        },
+        {
+          "id": "d",
+          "text": "Both are false"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q85",
+      "question": "Which of these concepts is NOT explicitly used in the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Justice"
+        },
+        {
+          "id": "b",
+          "text": "Liberty"
+        },
+        {
+          "id": "c",
+          "text": "Welfare State"
+        },
+        {
+          "id": "d",
+          "text": "Fraternity"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q86",
+      "question": "The phrase \"dignity of the individual\" in Preamble is protected by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fundamental Duties"
+        },
+        {
+          "id": "b",
+          "text": "Fundamental Rights (especially Articles 14, 21)"
+        },
+        {
+          "id": "c",
+          "text": "DPSP"
+        },
+        {
+          "id": "d",
+          "text": "Constitutional Remedies only"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q87",
+      "question": "Which of the following is CORRECT about the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It can be used in courts to create new rights"
+        },
+        {
+          "id": "b",
+          "text": "It is used as an aid to interpretation of the Constitution"
+        },
+        {
+          "id": "c",
+          "text": "It has full legal force"
+        },
+        {
+          "id": "d",
+          "text": "It limits the powers of Parliament"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q88",
+      "question": "The Indian Preamble does NOT mention:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Equality of status"
+        },
+        {
+          "id": "b",
+          "text": "Political justice"
+        },
+        {
+          "id": "c",
+          "text": "Fraternity"
+        },
+        {
+          "id": "d",
+          "text": "Federal structure"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q89",
+      "question": "\"Unity of the Nation\" was changed to \"Unity and Integrity\" by the:",
+      "options": [
+        {
+          "id": "a",
+          "text": "24th Amendment"
+        },
+        {
+          "id": "b",
+          "text": "40th Amendment"
+        },
+        {
+          "id": "c",
+          "text": "42nd Amendment"
+        },
+        {
+          "id": "d",
+          "text": "44th Amendment"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q90",
+      "question": "Which of the following Preamble values is also a Fundamental Duty under Article 51A?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liberty"
+        },
+        {
+          "id": "b",
+          "text": "Economic Justice"
+        },
+        {
+          "id": "c",
+          "text": "Fraternity and Unity/Integrity of the Nation"
+        },
+        {
+          "id": "d",
+          "text": "Political Justice"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q91",
+      "question": "How many times has the Preamble been amended?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Never"
+        },
+        {
+          "id": "b",
+          "text": "Once  (42nd Amendment, 1976)"
+        },
+        {
+          "id": "c",
+          "text": "Twice"
+        },
+        {
+          "id": "d",
+          "text": "Three times"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q92",
+      "question": "Which freedom in the Preamble is NOT a Fundamental Right?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liberty of Thought"
+        },
+        {
+          "id": "b",
+          "text": "Liberty of Expression"
+        },
+        {
+          "id": "c",
+          "text": "Liberty of Faith"
+        },
+        {
+          "id": "d",
+          "text": "All are Fundamental Rights"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q93",
+      "question": "The Preamble of India most resembles the Preamble of which country?",
+      "options": [
+        {
+          "id": "a",
+          "text": "UK"
+        },
+        {
+          "id": "b",
+          "text": "USA"
+        },
+        {
+          "id": "c",
+          "text": "France"
+        },
+        {
+          "id": "d",
+          "text": "Australia"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q94",
+      "question": "Liberty of \"Worship\" in the Preamble is protected by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 19"
+        },
+        {
+          "id": "b",
+          "text": "Article 21"
+        },
+        {
+          "id": "c",
+          "text": "Article 25"
+        },
+        {
+          "id": "d",
+          "text": "Article 32"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q95",
+      "question": "What does \"giving unto ourselves this Constitution\" affirm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Constituent Assembly was sovereign"
+        },
+        {
+          "id": "b",
+          "text": "India drafted its own constitution without colonial interference"
+        },
+        {
+          "id": "c",
+          "text": "Citizens directly voted for the Constitution"
+        },
+        {
+          "id": "d",
+          "text": "It was given by the British Parliament"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q96",
+      "question": "Which of the following pairs is INCORRECT regarding the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sovereign — Free from external control"
+        },
+        {
+          "id": "b",
+          "text": "Democratic — People's rule"
+        },
+        {
+          "id": "c",
+          "text": "Republic — Hereditary Head of State  (Republic = ELECTED Head)"
+        },
+        {
+          "id": "d",
+          "text": "Secular — No state religion"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q97",
+      "question": "\"In the Constituent Assembly this 26th day of November 1949\" — this line indicates:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Date Constitution came into force"
+        },
+        {
+          "id": "b",
+          "text": "Date the Constitution was adopted"
+        },
+        {
+          "id": "c",
+          "text": "Date Nehru gave the Tryst with Destiny speech"
+        },
+        {
+          "id": "d",
+          "text": "Date India became independent"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q98",
+      "question": "Which is the correct sequence of ideals in the Preamble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liberty → Justice → Equality → Fraternity"
+        },
+        {
+          "id": "b",
+          "text": "Justice → Liberty → Equality → Fraternity"
+        },
+        {
+          "id": "c",
+          "text": "Equality → Liberty → Justice → Fraternity"
+        },
+        {
+          "id": "d",
+          "text": "Fraternity → Justice → Liberty → Equality"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q99",
+      "question": "Under which Constitutional provision was \"Socialist\" added to the Preamble made effective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 13"
+        },
+        {
+          "id": "b",
+          "text": "Article 368"
+        },
+        {
+          "id": "c",
+          "text": "Article 356"
+        },
+        {
+          "id": "d",
+          "text": "Article 370"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    },
+    {
+      "id": "Q100",
+      "question": "The Preamble of India can best be described as:",
+      "options": [
+        {
+          "id": "a",
+          "text": "A legal document enforceable in court"
+        },
+        {
+          "id": "b",
+          "text": "A political declaration without any legal significance"
+        },
+        {
+          "id": "c",
+          "text": "A guiding star for interpretation and a statement of objectives of the Constitution"
+        },
+        {
+          "id": "d",
+          "text": "A fundamental right of citizens"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Assertion-Reason & Tricky MCQs"
+    }
+  ]
+}

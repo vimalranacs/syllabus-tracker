@@ -46,7 +46,7 @@ export function StatusIcon({ status, size = 'md', interactive = false, onClick }
       disabled={!interactive}
       title={config.title}
       aria-label={config.title}
-      className={'${sizes[size]} rounded-full flex items-center justify-center flex-shrink-0 font-medium transition-all'}
+      className={sizes[size] + ' rounded-full flex items-center justify-center flex-shrink-0 font-medium transition-all ' + config.className + (interactive ? ' cursor-pointer' : ' cursor-default')}
     >
       <span className="leading-none select-none">{config.label}</span>
     </button>

@@ -16,6 +16,10 @@ import ManageSyllabus from './pages/ManageSyllabus';
 import ImportExport from './pages/ImportExport';
 import Settings from './pages/Settings';
 import AdminDashboard from './pages/AdminDashboard';
+import MocksPage from './pages/MocksPage';
+import MockRunnerPage from './pages/MockRunnerPage';
+import MockResultPage from './pages/MockResultPage';
+import MockHistoryPage from './pages/MockHistoryPage';
 
 function App() {
   const {
@@ -60,10 +64,15 @@ function App() {
           <Route path="/progress" element={<ProgressPage />} />
           <Route path="/revision" element={<RevisionPage />} />
           <Route path="/search" element={<SearchPage />} />
+          <Route path="/mocks" element={<MocksPage />} />
+          <Route path="/mocks/:mockId" element={<MockRunnerPage />} />
+          <Route path="/mocks/:mockId/result/:attemptId" element={<MockResultPage />} />
+          <Route path="/mock-history" element={<MockHistoryPage />} />
           <Route path="/manage" element={<ManageSyllabus />} />
           <Route path="/import-export" element={<ImportExport />} />
           <Route path="/settings" element={<Settings />} />
           <Route path="/admin" element={<AdminDashboard />} />
+          <Route path="/admin/mocks" element={<AdminDashboard initialTab="mocks" />} />
         </Route>
       </Routes>
     </BrowserRouter>

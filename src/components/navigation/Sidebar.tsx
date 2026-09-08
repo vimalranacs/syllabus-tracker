@@ -11,7 +11,9 @@ import {
   Shield,
   ChevronLeft,
   LogOut,
-  Sparkles
+  Sparkles,
+  ClipboardList,
+  History
 } from "lucide-react";
 import { useStudyStore } from "../../store/studyStore";
 import { revokeAccess } from "../../services/authService";
@@ -44,6 +46,13 @@ export function Sidebar({ collapsed, onToggle }: SidebarProps) {
       ]
     },
     {
+      title: "MOCKS",
+      items: [
+        { to: "/mocks", label: "Mocks", icon: ClipboardList },
+        { to: "/mock-history", label: "Mock History", icon: History },
+      ]
+    },
+    {
       title: "TOOLS",
       items: [
         { to: "/progress", label: "Progress", icon: BarChart3 },
@@ -62,7 +71,13 @@ export function Sidebar({ collapsed, onToggle }: SidebarProps) {
       title: "SETTINGS",
       items: [
         { to: "/settings", label: "Settings", icon: Settings },
-        { to: "/admin", label: "Admin Monitor", icon: Shield },
+      ]
+    },
+    {
+      title: "ADMIN",
+      items: [
+        { to: "/admin", label: "Overview", icon: Shield },
+        { to: "/admin/mocks", label: "Mock Performance", icon: ClipboardList },
       ]
     }
   ];

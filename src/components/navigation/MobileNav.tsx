@@ -11,6 +11,8 @@ import {
   FileDown,
   Settings,
   Shield,
+  ClipboardList,
+  History,
   LogOut
 } from "lucide-react";
 import { useState } from "react";
@@ -19,7 +21,7 @@ import { revokeAccess } from "../../services/authService";
 const bottomTabs = [
   { to: "/dashboard", label: "Home", icon: LayoutDashboard },
   { to: "/prelims", label: "Prelims", icon: BookOpen },
-  { to: "/progress", label: "Progress", icon: BarChart3 },
+  { to: "/mocks", label: "Mocks", icon: ClipboardList },
   { to: "/revision", label: "Revision", icon: RefreshCw },
   { to: "/search", label: "Search", icon: Search },
 ];
@@ -35,10 +37,13 @@ export function MobileNav() {
 
   const moreItems = [
     { to: "/mains", label: "Mains Syllabus", icon: GraduationCap },
+    { to: "/mock-history", label: "Mock History", icon: History },
+    { to: "/progress", label: "Progress Analytics", icon: BarChart3 },
     { to: "/manage", label: "Manage Syllabus", icon: Sparkles },
     { to: "/import-export", label: "Import / Export", icon: FileDown },
     { to: "/settings", label: "Settings", icon: Settings },
     { to: "/admin", label: "Admin Monitor", icon: Shield },
+    { to: "/admin/mocks", label: "Mock Performance", icon: ClipboardList },
   ];
 
   return (
