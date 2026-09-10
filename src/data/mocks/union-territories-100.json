@@ -1,0 +1,2414 @@
+{
+  "mockId": "union-territories-100",
+  "title": "Union Territories",
+  "category": "Indian Polity",
+  "description": "100 source-based MCQs on Union Territories covering constitutional articles, Delhi NCT provisions, J&K and Ladakh reorganisation, special facts, capitals, geography, High Courts, and assertion-reason questions.",
+  "secondsPerQuestion": 51,
+  "tags": [
+    "polity",
+    "union-territories",
+    "prelims"
+  ],
+  "questions": [
+    {
+      "id": "UT-Q1",
+      "question": "Union Territories are dealt with in which Part of the Constitution?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Part VI"
+        },
+        {
+          "id": "b",
+          "text": "Part VII"
+        },
+        {
+          "id": "c",
+          "text": "Part VIII"
+        },
+        {
+          "id": "d",
+          "text": "Part IX"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q2",
+      "question": "Part VIII of the Constitution covers Articles:",
+      "options": [
+        {
+          "id": "a",
+          "text": "235–240"
+        },
+        {
+          "id": "b",
+          "text": "239–242"
+        },
+        {
+          "id": "c",
+          "text": "240–245"
+        },
+        {
+          "id": "d",
+          "text": "236–241"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q3",
+      "question": "Under Article 239, Union Territories are administered by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prime Minister"
+        },
+        {
+          "id": "b",
+          "text": "Home Minister"
+        },
+        {
+          "id": "c",
+          "text": "President of India"
+        },
+        {
+          "id": "d",
+          "text": "Parliament directly"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q4",
+      "question": "Article 239 was amended to its current form by which Act?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5th Constitutional Amendment Act"
+        },
+        {
+          "id": "b",
+          "text": "7th Constitutional Amendment Act, 1956"
+        },
+        {
+          "id": "c",
+          "text": "42nd Constitutional Amendment Act"
+        },
+        {
+          "id": "d",
+          "text": "69th Constitutional Amendment Act"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q5",
+      "question": "Article 240 grants the President power to make regulations for the peace, progress and good government of which Union Territories?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi and Puducherry"
+        },
+        {
+          "id": "b",
+          "text": "Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, Puducherry"
+        },
+        {
+          "id": "c",
+          "text": "Only Andaman & Nicobar Islands"
+        },
+        {
+          "id": "d",
+          "text": "All Union Territories"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q6",
+      "question": "Article 241 empowers Parliament to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Create a new Union Territory"
+        },
+        {
+          "id": "b",
+          "text": "Constitute a High Court for a Union Territory"
+        },
+        {
+          "id": "c",
+          "text": "Abolish the Lieutenant Governor"
+        },
+        {
+          "id": "d",
+          "text": "Merge Union Territories with States"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q7",
+      "question": "Article 242 originally dealt with:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Puducherry's legislature"
+        },
+        {
+          "id": "b",
+          "text": "Administration of Coorg"
+        },
+        {
+          "id": "c",
+          "text": "Delhi's special status"
+        },
+        {
+          "id": "d",
+          "text": "Andaman Islands governance"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q8",
+      "question": "Article 242 was repealed by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "42nd Constitutional Amendment"
+        },
+        {
+          "id": "b",
+          "text": "7th Constitutional Amendment Act, 1956"
+        },
+        {
+          "id": "c",
+          "text": "44th Constitutional Amendment"
+        },
+        {
+          "id": "d",
+          "text": "69th Constitutional Amendment"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q9",
+      "question": "Article 239A empowers Parliament to create a Legislature or Council of Ministers for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi"
+        },
+        {
+          "id": "b",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "id": "c",
+          "text": "Puducherry"
+        },
+        {
+          "id": "d",
+          "text": "Chandigarh"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q10",
+      "question": "Article 239AA was inserted by which Constitutional Amendment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "42nd Amendment"
+        },
+        {
+          "id": "b",
+          "text": "52nd Amendment"
+        },
+        {
+          "id": "c",
+          "text": "69th Amendment, 1991"
+        },
+        {
+          "id": "d",
+          "text": "73rd Amendment"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q11",
+      "question": "Article 239AA came into effect on:",
+      "options": [
+        {
+          "id": "a",
+          "text": "26 January 1992"
+        },
+        {
+          "id": "b",
+          "text": "1 February 1992"
+        },
+        {
+          "id": "c",
+          "text": "15 August 1991"
+        },
+        {
+          "id": "d",
+          "text": "26 November 1991"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q12",
+      "question": "Article 239AB applies to which region?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Puducherry"
+        },
+        {
+          "id": "b",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "id": "c",
+          "text": "NCT of Delhi"
+        },
+        {
+          "id": "d",
+          "text": "Andaman & Nicobar Islands"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q13",
+      "question": "Article 239AB deals with:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Special provisions for Puducherry"
+        },
+        {
+          "id": "b",
+          "text": "President's Rule in NCT Delhi"
+        },
+        {
+          "id": "c",
+          "text": "Formation of High Court in UT"
+        },
+        {
+          "id": "d",
+          "text": "Regulation-making power of President"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q14",
+      "question": "Article 239B deals with:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi's special status"
+        },
+        {
+          "id": "b",
+          "text": "Power of Administrator to promulgate Ordinances when Legislature is not in session  (applicable to Puducherry and Delhi)"
+        },
+        {
+          "id": "c",
+          "text": "Formation of Union Territory"
+        },
+        {
+          "id": "d",
+          "text": "High Court for Union Territory"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q15",
+      "question": "Which Article says that Parliament has overriding power to make laws on any subject for Union Territories?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 240"
+        },
+        {
+          "id": "b",
+          "text": "Article 246(4)"
+        },
+        {
+          "id": "c",
+          "text": "Article 239"
+        },
+        {
+          "id": "d",
+          "text": "Article 241"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q16",
+      "question": "Under Article 239(1), the President administers a Union Territory through an administrator. The administrator can be designated as:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Governor"
+        },
+        {
+          "id": "b",
+          "text": "Lieutenant Governor or Administrator"
+        },
+        {
+          "id": "c",
+          "text": "Chief Commissioner only"
+        },
+        {
+          "id": "d",
+          "text": "Deputy Governor"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q17",
+      "question": "In which Union Territory is the administrator designated simply as \"Administrator\" (not Lt. Governor)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi"
+        },
+        {
+          "id": "b",
+          "text": "Puducherry"
+        },
+        {
+          "id": "c",
+          "text": "Chandigarh, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, Andaman & Nicobar"
+        },
+        {
+          "id": "d",
+          "text": "Jammu & Kashmir"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q18",
+      "question": "Union Territories without legislature fall under laws made by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "State Legislature"
+        },
+        {
+          "id": "b",
+          "text": "Parliament directly"
+        },
+        {
+          "id": "c",
+          "text": "President's Ordinances only"
+        },
+        {
+          "id": "d",
+          "text": "Local Governing Bodies"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q19",
+      "question": "Article 239A was inserted by which Amendment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "14th Amendment, 1962"
+        },
+        {
+          "id": "b",
+          "text": "42nd Amendment, 1976"
+        },
+        {
+          "id": "c",
+          "text": "69th Amendment, 1991"
+        },
+        {
+          "id": "d",
+          "text": "7th Amendment, 1956"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "SECTION 1: Constitutional Articles & Part VIII"
+    },
+    {
+      "id": "UT-Q20",
+      "question": "The 14th Constitutional Amendment (1962) was related to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Merger of French territories including Puducherry"
+        },
+        {
+          "id": "b",
+          "text": "Reorganisation of states"
+        },
+        {
+          "id": "c",
+          "text": "Addition of new UTs"
+        },
+        {
+          "id": "d",
+          "text": "Delhi's special status --- ## 🔷 SECTION 2: Delhi — NCT Special Provisions (Q21–40)"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q21",
+      "question": "The S. Balakrishnan Committee (1987) was set up to examine:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Merger of Puducherry with Tamil Nadu"
+        },
+        {
+          "id": "b",
+          "text": "Statehood demand for Delhi"
+        },
+        {
+          "id": "c",
+          "text": "Reorganisation of North-East UTs"
+        },
+        {
+          "id": "d",
+          "text": "Administration of Chandigarh"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q22",
+      "question": "The 69th Amendment redesignated Union Territory of Delhi as:",
+      "options": [
+        {
+          "id": "a",
+          "text": "State of Delhi"
+        },
+        {
+          "id": "b",
+          "text": "National Capital Territory of Delhi"
+        },
+        {
+          "id": "c",
+          "text": "Federal Territory of Delhi"
+        },
+        {
+          "id": "d",
+          "text": "Special Territory of Delhi"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q23",
+      "question": "Under Article 239AA, the Chief Minister of Delhi is appointed by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lieutenant Governor on his own discretion"
+        },
+        {
+          "id": "b",
+          "text": "President of India"
+        },
+        {
+          "id": "c",
+          "text": "Prime Minister"
+        },
+        {
+          "id": "d",
+          "text": "Speaker of Delhi Assembly"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q24",
+      "question": "Under Article 239AA, the Council of Ministers in Delhi cannot exceed what percentage of total Legislative Assembly members?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5%"
+        },
+        {
+          "id": "b",
+          "text": "10%"
+        },
+        {
+          "id": "c",
+          "text": "15%"
+        },
+        {
+          "id": "d",
+          "text": "20%"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q25",
+      "question": "Delhi Legislative Assembly members are filled by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Presidential nomination"
+        },
+        {
+          "id": "b",
+          "text": "Direct election"
+        },
+        {
+          "id": "c",
+          "text": "Indirect election through local bodies"
+        },
+        {
+          "id": "d",
+          "text": "Nomination by Lt. Governor"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q26",
+      "question": "Under Article 239AA(3)(a), Delhi Legislative Assembly CANNOT legislate on which entries of the State List?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agriculture and Education"
+        },
+        {
+          "id": "b",
+          "text": "Public Order, Police, and Land"
+        },
+        {
+          "id": "c",
+          "text": "Health and Local Government"
+        },
+        {
+          "id": "d",
+          "text": "Trade and Commerce"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q27",
+      "question": "In the landmark case Government of NCT of Delhi vs. Union of India (2018), what did the Supreme Court rule?",
+      "options": [
+        {
+          "id": "a",
+          "text": "LG is supreme over Delhi Government on all matters"
+        },
+        {
+          "id": "b",
+          "text": "Delhi Government has powers over all State List subjects"
+        },
+        {
+          "id": "c",
+          "text": "LG is bound by the aid and advice of the Council of Ministers on all matters except the three reserved subjects"
+        },
+        {
+          "id": "d",
+          "text": "Delhi should be granted full statehood"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q28",
+      "question": "The three reserved subjects where LG of Delhi has overriding power are:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Education, Health, Finance"
+        },
+        {
+          "id": "b",
+          "text": "Public Order, Police, Land"
+        },
+        {
+          "id": "c",
+          "text": "Water, Power, Transport"
+        },
+        {
+          "id": "d",
+          "text": "Trade, Industry, Agriculture"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q29",
+      "question": "Article 239AB empowers the President to suspend which provisions in Delhi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Legislative Assembly"
+        },
+        {
+          "id": "b",
+          "text": "Any provision relating to the Council of Ministers"
+        },
+        {
+          "id": "c",
+          "text": "High Court of Delhi"
+        },
+        {
+          "id": "d",
+          "text": "Lieutenant Governor's office"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q30",
+      "question": "Which Ordinance controversy (2023) related to Delhi's governance went to the Supreme Court?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi Land Laws Ordinance"
+        },
+        {
+          "id": "b",
+          "text": "Government of NCT (Amendment) Ordinance regarding services/IAS officers"
+        },
+        {
+          "id": "c",
+          "text": "Delhi Water Regulation Ordinance"
+        },
+        {
+          "id": "d",
+          "text": "Delhi Police Reform Ordinance"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q31",
+      "question": "The 2023 Supreme Court ruling in Government of NCT of Delhi vs. Union of India (Services case) held:",
+      "options": [
+        {
+          "id": "a",
+          "text": "LG has complete control over civil services in Delhi"
+        },
+        {
+          "id": "b",
+          "text": "Delhi government has control over services (except public order, police, land)"
+        },
+        {
+          "id": "c",
+          "text": "Parliament has exclusive power over Delhi administration"
+        },
+        {
+          "id": "d",
+          "text": "Delhi must be given full statehood"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q32",
+      "question": "After the 2023 Supreme Court ruling on Delhi services, Parliament passed which Amendment to restore Union control?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Constitution (106th Amendment) Act, 2023"
+        },
+        {
+          "id": "b",
+          "text": "Government of NCT of Delhi (Amendment) Act, 2023  (statutory, not constitutional amendment)"
+        },
+        {
+          "id": "c",
+          "text": "105th Constitutional Amendment Act"
+        },
+        {
+          "id": "d",
+          "text": "Delhi Special Administration Act"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q33",
+      "question": "Article 239B provisions apply to Delhi in a manner similar to their application to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandigarh"
+        },
+        {
+          "id": "b",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "id": "c",
+          "text": "Puducherry"
+        },
+        {
+          "id": "d",
+          "text": "Ladakh"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q34",
+      "question": "The total number of seats in Delhi Legislative Assembly is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "60"
+        },
+        {
+          "id": "b",
+          "text": "70"
+        },
+        {
+          "id": "c",
+          "text": "80"
+        },
+        {
+          "id": "d",
+          "text": "90"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q35",
+      "question": "Delhi High Court was established under:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 239"
+        },
+        {
+          "id": "b",
+          "text": "Article 241"
+        },
+        {
+          "id": "c",
+          "text": "Article 214"
+        },
+        {
+          "id": "d",
+          "text": "Article 239AA"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q36",
+      "question": "Who is the administrative head of NCT Delhi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chief Minister"
+        },
+        {
+          "id": "b",
+          "text": "President"
+        },
+        {
+          "id": "c",
+          "text": "Lieutenant Governor"
+        },
+        {
+          "id": "d",
+          "text": "Home Minister"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q37",
+      "question": "The GNCTD Act stands for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Government of National Capital Territory Delhi Act, 1991"
+        },
+        {
+          "id": "b",
+          "text": "General NCT Development Act"
+        },
+        {
+          "id": "c",
+          "text": "Governance of NCT Directorate Act"
+        },
+        {
+          "id": "d",
+          "text": "General Code of Territory Delhi Act"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q38",
+      "question": "Puducherry's legislature was created under which Article?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 239AA"
+        },
+        {
+          "id": "b",
+          "text": "Article 239A"
+        },
+        {
+          "id": "c",
+          "text": "Article 240"
+        },
+        {
+          "id": "d",
+          "text": "Article 241"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q39",
+      "question": "Which of the following Union Territories had its legislature created by the 14th Amendment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi"
+        },
+        {
+          "id": "b",
+          "text": "Puducherry"
+        },
+        {
+          "id": "c",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "d",
+          "text": "Chandigarh"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 2: Delhi — NCT Special Provisions"
+    },
+    {
+      "id": "UT-Q40",
+      "question": "Can Parliament legislate on matters in the State List for Union Territories?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, only State Legislatures can"
+        },
+        {
+          "id": "b",
+          "text": "Yes, under Article 246(4)"
+        },
+        {
+          "id": "c",
+          "text": "Only if the UT has no legislature"
+        },
+        {
+          "id": "d",
+          "text": "Only with President's special permission --- ## 🔷 SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation (Q41–60)"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q41",
+      "question": "Jammu & Kashmir was reorganised into two Union Territories on:",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 August 2019"
+        },
+        {
+          "id": "b",
+          "text": "26 October 2019"
+        },
+        {
+          "id": "c",
+          "text": "31 October 2019"
+        },
+        {
+          "id": "d",
+          "text": "26 January 2020"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q42",
+      "question": "Jammu & Kashmir Reorganisation was effected by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Constitutional Amendment"
+        },
+        {
+          "id": "b",
+          "text": "Jammu & Kashmir Reorganisation Act, 2019 (Parliamentary Legislation)"
+        },
+        {
+          "id": "c",
+          "text": "Presidential Order"
+        },
+        {
+          "id": "d",
+          "text": "Cabinet Resolution"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q43",
+      "question": "After reorganisation, Jammu & Kashmir became a UT:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Without legislature"
+        },
+        {
+          "id": "b",
+          "text": "With a legislature (Legislative Assembly)"
+        },
+        {
+          "id": "c",
+          "text": "With a bicameral legislature"
+        },
+        {
+          "id": "d",
+          "text": "Fully administered by the Army"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q44",
+      "question": "Ladakh became a Union Territory:",
+      "options": [
+        {
+          "id": "a",
+          "text": "With legislature"
+        },
+        {
+          "id": "b",
+          "text": "Without legislature"
+        },
+        {
+          "id": "c",
+          "text": "With a High Court"
+        },
+        {
+          "id": "d",
+          "text": "With a Legislative Council"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q45",
+      "question": "After J&K reorganisation, which State lost the most territory in terms of area to become a UT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "id": "c",
+          "text": "Punjab"
+        },
+        {
+          "id": "d",
+          "text": "Uttarakhand"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q46",
+      "question": "Article 370 that granted special status to J&K was effectively abrogated in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2016"
+        },
+        {
+          "id": "b",
+          "text": "2018"
+        },
+        {
+          "id": "c",
+          "text": "2019"
+        },
+        {
+          "id": "d",
+          "text": "2020"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q47",
+      "question": "Article 370 was a provision in which Part of the Constitution?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Part XXI (Temporary, Transitional and Special Provisions)"
+        },
+        {
+          "id": "b",
+          "text": "Part VIII"
+        },
+        {
+          "id": "c",
+          "text": "Part VI"
+        },
+        {
+          "id": "d",
+          "text": "Part XV"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q48",
+      "question": "The Supreme Court upheld the abrogation of Article 370 in which case?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prem Nath Koul Case"
+        },
+        {
+          "id": "b",
+          "text": "Dr. Farooq Abdullah Case"
+        },
+        {
+          "id": "c",
+          "text": "In Re Article 370 / Zahoor Ahmad Shah Watali Case"
+        },
+        {
+          "id": "d",
+          "text": "Jammu & Kashmir vs. Union of India (December 2023)"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q49",
+      "question": "How many seats does the Jammu & Kashmir Legislative Assembly have post-reorganisation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "87"
+        },
+        {
+          "id": "b",
+          "text": "90"
+        },
+        {
+          "id": "c",
+          "text": "83"
+        },
+        {
+          "id": "d",
+          "text": "111"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q50",
+      "question": "The High Court for J&K and Ladakh is located at:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jammu"
+        },
+        {
+          "id": "b",
+          "text": "Srinagar  (also has a bench at Jammu)"
+        },
+        {
+          "id": "c",
+          "text": "Leh"
+        },
+        {
+          "id": "d",
+          "text": "Kargil"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q51",
+      "question": "Dadra & Nagar Haveli and Daman & Diu were merged into a single UT by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dadra and Nagar Haveli and Daman and Diu (Merger of Union Territories) Act, 2019"
+        },
+        {
+          "id": "b",
+          "text": "Constitutional Amendment 2020"
+        },
+        {
+          "id": "c",
+          "text": "Presidential Order 2019"
+        },
+        {
+          "id": "d",
+          "text": "State Reorganisation Act 2019"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q52",
+      "question": "The merger of Dadra & Nagar Haveli with Daman & Diu was effective from:",
+      "options": [
+        {
+          "id": "a",
+          "text": "31 October 2019"
+        },
+        {
+          "id": "b",
+          "text": "26 January 2020"
+        },
+        {
+          "id": "c",
+          "text": "15 August 2019"
+        },
+        {
+          "id": "d",
+          "text": "5 August 2019"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q53",
+      "question": "After the merger of Dadra & Nagar Haveli and Daman & Diu, the total number of Union Territories in India became:",
+      "options": [
+        {
+          "id": "a",
+          "text": "9"
+        },
+        {
+          "id": "b",
+          "text": "7"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q54",
+      "question": "Which was the last state to be bifurcated into a state + UT before the J&K reorganisation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andhra Pradesh (Telangana carved out)"
+        },
+        {
+          "id": "b",
+          "text": "Uttarakhand"
+        },
+        {
+          "id": "c",
+          "text": "Jharkhand"
+        },
+        {
+          "id": "d",
+          "text": "Chhattisgarh"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q55",
+      "question": "The Anandpur Sahib Resolution demanded that Chandigarh be:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Made a full state"
+        },
+        {
+          "id": "b",
+          "text": "Transferred to Punjab"
+        },
+        {
+          "id": "c",
+          "text": "Merged with Haryana"
+        },
+        {
+          "id": "d",
+          "text": "Given UT status permanently"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q56",
+      "question": "Chandigarh serves as the capital of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Punjab only"
+        },
+        {
+          "id": "b",
+          "text": "Haryana only"
+        },
+        {
+          "id": "c",
+          "text": "Both Punjab and Haryana"
+        },
+        {
+          "id": "d",
+          "text": "Punjab, Haryana, and Himachal Pradesh"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q57",
+      "question": "Chandigarh became a Union Territory in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1956"
+        },
+        {
+          "id": "b",
+          "text": "1966  (when Punjab was reorganised and Haryana was created)"
+        },
+        {
+          "id": "c",
+          "text": "1972"
+        },
+        {
+          "id": "d",
+          "text": "1971"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q58",
+      "question": "Which UT has the highest population among all UTs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Puducherry"
+        },
+        {
+          "id": "b",
+          "text": "Chandigarh"
+        },
+        {
+          "id": "c",
+          "text": "Delhi"
+        },
+        {
+          "id": "d",
+          "text": "Jammu & Kashmir"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q59",
+      "question": "Which UT has the smallest area in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandigarh"
+        },
+        {
+          "id": "b",
+          "text": "Dadra & Nagar Haveli and Daman & Diu"
+        },
+        {
+          "id": "c",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "d",
+          "text": "Puducherry"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 3: Jammu & Kashmir, Ladakh & Reorganisation"
+    },
+    {
+      "id": "UT-Q60",
+      "question": "Which UT has the smallest population in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandigarh"
+        },
+        {
+          "id": "b",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "c",
+          "text": "Dadra & Nagar Haveli and Daman & Diu"
+        },
+        {
+          "id": "d",
+          "text": "Andaman & Nicobar Islands --- ## 🔷 SECTION 4: Special Facts, Capitals & Geography (Q61–80)"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q61",
+      "question": "Which Union Territories have their own Legislative Assemblies?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi and Chandigarh"
+        },
+        {
+          "id": "b",
+          "text": "Delhi, Puducherry, and Jammu & Kashmir"
+        },
+        {
+          "id": "c",
+          "text": "Delhi, Puducherry, and Lakshadweep"
+        },
+        {
+          "id": "d",
+          "text": "Delhi, Ladakh, and Puducherry"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q62",
+      "question": "The capital of Puducherry Union Territory is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Karaikal"
+        },
+        {
+          "id": "b",
+          "text": "Mahe"
+        },
+        {
+          "id": "c",
+          "text": "Puducherry"
+        },
+        {
+          "id": "d",
+          "text": "Yanam"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q63",
+      "question": "Puducherry consists of how many non-contiguous districts?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "4  (Puducherry, Karaikal, Mahe, Yanam)"
+        },
+        {
+          "id": "d",
+          "text": "5"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q64",
+      "question": "The Mahe district of Puducherry is an enclave within which state?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tamil Nadu"
+        },
+        {
+          "id": "b",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Kerala"
+        },
+        {
+          "id": "d",
+          "text": "Karnataka"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q65",
+      "question": "The Yanam district of Puducherry is an enclave within which state?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tamil Nadu"
+        },
+        {
+          "id": "b",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Odisha"
+        },
+        {
+          "id": "d",
+          "text": "Kerala"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q66",
+      "question": "Lakshadweep was formerly known as:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Minicoy Islands"
+        },
+        {
+          "id": "b",
+          "text": "Lacadive, Minicoy and Amindivis Islands"
+        },
+        {
+          "id": "c",
+          "text": "Maldive Islands"
+        },
+        {
+          "id": "d",
+          "text": "Coral Islands of India"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q67",
+      "question": "Lakshadweep became a UT in which year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1947"
+        },
+        {
+          "id": "b",
+          "text": "1956"
+        },
+        {
+          "id": "c",
+          "text": "1962"
+        },
+        {
+          "id": "d",
+          "text": "1971"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q68",
+      "question": "The capital of Lakshadweep is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Minicoy"
+        },
+        {
+          "id": "b",
+          "text": "Agatti"
+        },
+        {
+          "id": "c",
+          "text": "Kavaratti"
+        },
+        {
+          "id": "d",
+          "text": "Andrott"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q69",
+      "question": "Andaman & Nicobar Islands are located in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arabian Sea"
+        },
+        {
+          "id": "b",
+          "text": "Bay of Bengal"
+        },
+        {
+          "id": "c",
+          "text": "Indian Ocean"
+        },
+        {
+          "id": "d",
+          "text": "Andaman Sea only"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q70",
+      "question": "The Andaman and Nicobar Islands UT comprises how many islands, of which how many are inhabited?",
+      "options": [
+        {
+          "id": "a",
+          "text": "300 islands, 20 inhabited"
+        },
+        {
+          "id": "b",
+          "text": "572 islands, 38 inhabited"
+        },
+        {
+          "id": "c",
+          "text": "400 islands, 50 inhabited"
+        },
+        {
+          "id": "d",
+          "text": "650 islands, 45 inhabited"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q71",
+      "question": "The capital of Andaman & Nicobar Islands is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Car Nicobar"
+        },
+        {
+          "id": "b",
+          "text": "Port Blair"
+        },
+        {
+          "id": "c",
+          "text": "Little Andaman"
+        },
+        {
+          "id": "d",
+          "text": "Neil Island"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q72",
+      "question": "Which UT is located near the Strait of Malacca?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "b",
+          "text": "Andaman & Nicobar Islands"
+        },
+        {
+          "id": "c",
+          "text": "Puducherry"
+        },
+        {
+          "id": "d",
+          "text": "Dadra & Nagar Haveli"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q73",
+      "question": "India's southernmost point — Indira Point — is in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "b",
+          "text": "Andaman & Nicobar Islands"
+        },
+        {
+          "id": "c",
+          "text": "Puducherry"
+        },
+        {
+          "id": "d",
+          "text": "Kerala"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q74",
+      "question": "The capital of Chandigarh UT is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Panchkula"
+        },
+        {
+          "id": "b",
+          "text": "Mohali"
+        },
+        {
+          "id": "c",
+          "text": "Chandigarh"
+        },
+        {
+          "id": "d",
+          "text": "Ambala"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q75",
+      "question": "Daman & Diu and Dadra & Nagar Haveli were previously colonies of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "France"
+        },
+        {
+          "id": "b",
+          "text": "Britain"
+        },
+        {
+          "id": "c",
+          "text": "Portugal"
+        },
+        {
+          "id": "d",
+          "text": "Netherlands"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q76",
+      "question": "Puducherry was previously a colony of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Britain"
+        },
+        {
+          "id": "b",
+          "text": "Portugal"
+        },
+        {
+          "id": "c",
+          "text": "France"
+        },
+        {
+          "id": "d",
+          "text": "Netherlands"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q77",
+      "question": "Goa, Daman, and Diu were liberated from Portuguese rule in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1947"
+        },
+        {
+          "id": "b",
+          "text": "1950"
+        },
+        {
+          "id": "c",
+          "text": "1961"
+        },
+        {
+          "id": "d",
+          "text": "1956"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q78",
+      "question": "After liberation, Goa was given the status of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "State immediately"
+        },
+        {
+          "id": "b",
+          "text": "Union Territory  (later became a state in 1987)"
+        },
+        {
+          "id": "c",
+          "text": "Autonomous region"
+        },
+        {
+          "id": "d",
+          "text": "Part of Maharashtra"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q79",
+      "question": "Goa became a full State in which year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1975"
+        },
+        {
+          "id": "b",
+          "text": "1981"
+        },
+        {
+          "id": "c",
+          "text": "1987"
+        },
+        {
+          "id": "d",
+          "text": "1990"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 4: Special Facts, Capitals & Geography"
+    },
+    {
+      "id": "UT-Q80",
+      "question": "Which UT was earlier part of the erstwhile Bombay State?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Puducherry"
+        },
+        {
+          "id": "b",
+          "text": "Dadra & Nagar Haveli  (enclave within Gujarat/Maharashtra)"
+        },
+        {
+          "id": "c",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "d",
+          "text": "Andaman & Nicobar Islands --- ## 🔷 SECTION 5: Assertion-Reason, Tricky & Factual (Q81–100)"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q81",
+      "question": "Assertion (A): Parliament can legislate on State List subjects for Union Territories. Reason (R): Article 246(4) empowers Parliament to make laws for any UT on any subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R are true, R explains A"
+        },
+        {
+          "id": "b",
+          "text": "A is true, R is false"
+        },
+        {
+          "id": "c",
+          "text": "A is false, R is true"
+        },
+        {
+          "id": "d",
+          "text": "Both are false"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q82",
+      "question": "Assertion (A): Puducherry has a Legislative Assembly. Reason (R): Article 239AA provides for Puducherry's legislature.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both are true, R explains A"
+        },
+        {
+          "id": "b",
+          "text": "A is true, R is false — Article 239A (not 239AA) provides for Puducherry"
+        },
+        {
+          "id": "c",
+          "text": "A is false, R is true"
+        },
+        {
+          "id": "d",
+          "text": "Both are false"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q83",
+      "question": "Assertion (A): Ladakh has a Legislative Assembly. Reason (R): Ladakh is a Union Territory with special provisions.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R are true"
+        },
+        {
+          "id": "b",
+          "text": "A is false, R is true — Ladakh is a UT WITHOUT legislature"
+        },
+        {
+          "id": "c",
+          "text": "Both are false"
+        },
+        {
+          "id": "d",
+          "text": "A is true, R is false"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q84",
+      "question": "Which of the following is NOT a Union Territory of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandigarh"
+        },
+        {
+          "id": "b",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "c",
+          "text": "Sikkim  (it is a State)"
+        },
+        {
+          "id": "d",
+          "text": "Ladakh"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q85",
+      "question": "Which of the following statements is CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All Union Territories have their own High Courts"
+        },
+        {
+          "id": "b",
+          "text": "All Union Territories have legislatures"
+        },
+        {
+          "id": "c",
+          "text": "Some UTs share High Courts with neighbouring states"
+        },
+        {
+          "id": "d",
+          "text": "UTs are governed by their own governors"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q86",
+      "question": "Puducherry shares its High Court with which state?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Karnataka"
+        },
+        {
+          "id": "b",
+          "text": "Tamil Nadu — Madras High Court"
+        },
+        {
+          "id": "c",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "d",
+          "text": "Kerala"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q87",
+      "question": "Chandigarh's judicial matters are handled by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi High Court"
+        },
+        {
+          "id": "b",
+          "text": "Punjab and Haryana High Court"
+        },
+        {
+          "id": "c",
+          "text": "Himachal Pradesh High Court"
+        },
+        {
+          "id": "d",
+          "text": "Supreme Court directly"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q88",
+      "question": "Lakshadweep is under the jurisdiction of which High Court?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Madras High Court"
+        },
+        {
+          "id": "b",
+          "text": "Bombay High Court"
+        },
+        {
+          "id": "c",
+          "text": "Kerala High Court"
+        },
+        {
+          "id": "d",
+          "text": "Karnataka High Court"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q89",
+      "question": "Andaman & Nicobar Islands fall under which High Court?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orissa High Court"
+        },
+        {
+          "id": "b",
+          "text": "Calcutta High Court"
+        },
+        {
+          "id": "c",
+          "text": "Madras High Court"
+        },
+        {
+          "id": "d",
+          "text": "It has its own High Court"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q90",
+      "question": "Which constitutional amendment converted Sikkim from an associate state to a full state?",
+      "options": [
+        {
+          "id": "a",
+          "text": "35th Amendment"
+        },
+        {
+          "id": "b",
+          "text": "36th Amendment, 1975"
+        },
+        {
+          "id": "c",
+          "text": "37th Amendment"
+        },
+        {
+          "id": "d",
+          "text": "42nd Amendment"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q91",
+      "question": "Which UT has the highest literacy rate in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi"
+        },
+        {
+          "id": "b",
+          "text": "Chandigarh"
+        },
+        {
+          "id": "c",
+          "text": "Lakshadweep  (as per Census 2011)"
+        },
+        {
+          "id": "d",
+          "text": "Puducherry"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q92",
+      "question": "The first Chief Minister of Puducherry was:",
+      "options": [
+        {
+          "id": "a",
+          "text": "V. Vaithilingam"
+        },
+        {
+          "id": "b",
+          "text": "Edouard Goubert"
+        },
+        {
+          "id": "c",
+          "text": "N. Rangasamy"
+        },
+        {
+          "id": "d",
+          "text": "V. Narayanasamy"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q93",
+      "question": "Under Article 239AA(4), if there is a difference of opinion between the Lt. Governor of Delhi and the Council of Ministers, the Lt. Governor shall refer the matter to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prime Minister"
+        },
+        {
+          "id": "b",
+          "text": "Home Minister"
+        },
+        {
+          "id": "c",
+          "text": "President"
+        },
+        {
+          "id": "d",
+          "text": "Supreme Court"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q94",
+      "question": "Which of the following pairs of UT and its Administrator's title is INCORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi — Lieutenant Governor"
+        },
+        {
+          "id": "b",
+          "text": "Puducherry — Lieutenant Governor"
+        },
+        {
+          "id": "c",
+          "text": "Lakshadweep — Administrator"
+        },
+        {
+          "id": "d",
+          "text": "Chandigarh — Lieutenant Governor  (Chandigarh's head is designated Administrator, not Lt. Governor)"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q95",
+      "question": "Assertion (A): The President can make regulations for Andaman & Nicobar Islands under Article 240. Reason (R): Andaman & Nicobar Islands has no Legislative Assembly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R are true, R explains A"
+        },
+        {
+          "id": "b",
+          "text": "A is true, R is false"
+        },
+        {
+          "id": "c",
+          "text": "A is false, R is true"
+        },
+        {
+          "id": "d",
+          "text": "Both are false"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q96",
+      "question": "Which of the following correctly lists all 8 Union Territories of India (as of 2024)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi, Puducherry, J&K, Ladakh, Lakshadweep, Chandigarh, Andaman & Nicobar, Dadra-Nagar Haveli & Daman-Diu"
+        },
+        {
+          "id": "b",
+          "text": "Delhi, Puducherry, J&K, Ladakh, Goa, Chandigarh, Andaman & Nicobar, Daman & Diu"
+        },
+        {
+          "id": "c",
+          "text": "Delhi, Puducherry, J&K, Ladakh, Lakshadweep, Chandigarh, Andaman & Nicobar, Sikkim"
+        },
+        {
+          "id": "d",
+          "text": "Delhi, Puducherry, J&K, Ladakh, Lakshadweep, Goa, Andaman & Nicobar, Chandigarh"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q97",
+      "question": "The NCT of Delhi shares boundaries with which states?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Haryana and UP"
+        },
+        {
+          "id": "b",
+          "text": "Haryana and Uttar Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Haryana, UP, and Rajasthan"
+        },
+        {
+          "id": "d",
+          "text": "Only Haryana"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q98",
+      "question": "Which UT has the most number of seats in the Lok Sabha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jammu & Kashmir (5 seats)"
+        },
+        {
+          "id": "b",
+          "text": "Delhi (7 seats)"
+        },
+        {
+          "id": "c",
+          "text": "Puducherry (1 seat)"
+        },
+        {
+          "id": "d",
+          "text": "Ladakh (1 seat)"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q99",
+      "question": "Which UT sends members to the Rajya Sabha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandigarh and Lakshadweep"
+        },
+        {
+          "id": "b",
+          "text": "Puducherry, Delhi, and Jammu & Kashmir"
+        },
+        {
+          "id": "c",
+          "text": "Only Delhi"
+        },
+        {
+          "id": "d",
+          "text": "All UTs send Rajya Sabha members"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    },
+    {
+      "id": "UT-Q100",
+      "question": "The statement \"Every Union Territory shall be administered by the President acting to such extent as he thinks fit\" comes from:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 240"
+        },
+        {
+          "id": "b",
+          "text": "Article 239(1)"
+        },
+        {
+          "id": "c",
+          "text": "Article 241"
+        },
+        {
+          "id": "d",
+          "text": "Article 246(4) --- ## 📌 Master Revision Table | Article Subject | | | ---------------- | --------------------------------------------------- | | 239 | President administers UTs through Administrator | | 239A | Legislature/Council of Ministers for Puducherry | | 239AA | Special provisions for Delhi (NCT) | | 239AB | President's Rule in Delhi | | 239B | Ordinance power of UT Administrator | | 240 | President's regulation-making power for certain UTs | | 241 | Parliament to constitute High Court for UT | | 242 | Repealed (was for Coorg) | | 246(4) | Parliament can legislate on State List for UTs | | UT Legislature LG/Admin title | | | | ------------------------------ | --- | ------------------- | | Delhi (NCT) | Yes | Lieutenant Governor | | Puducherry | Yes | Lieutenant Governor | | J&K | Yes | Lieutenant Governor | | Ladakh | No | Lieutenant Governor | | Chandigarh | No | Administrator | | Lakshadweep | No | Administrator | | Andaman & Nicobar | No | Lieutenant Governor | | Dadra-NH & Daman-Diu | No | Administrator | --- > **💡 RO/ARO Tip:** Questions on UTs heavily target **Article 239AA vs 239A**, **Ladakh without legislature**, **J&K 2019 reorganisation**, **the three reserved subjects for Delhi (Police, Land, Public Order)**, and the **number of UTs (8, not 9)**. Focus especially on Assertion-Reason type in this topic."
+        }
+      ],
+      "correctOption": "b",
+      "topic": "SECTION 5: Assertion-Reason, Tricky & Factual"
+    }
+  ]
+}

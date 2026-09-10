@@ -1,5 +1,6 @@
 import type { MockDefinition, MockMeta } from './types';
 import preamble100 from '../data/mocks/preamble-100.json';
+import unionTerritories100 from '../data/mocks/union-territories-100.json';
 
 /**
  * Central mock registry.
@@ -45,6 +46,18 @@ const MOCK_REGISTRY: RegistryEntry[] = [
       tags: ['polity', 'preamble', 'prelims'],
     },
     load: () => asDefinition(preamble100),
+  },
+  {
+    meta: {
+      mockId: 'union-territories-100',
+      title: 'Union Territories',
+      category: 'Indian Polity',
+      description:
+        '100 source-based MCQs on Union Territories: constitutional articles, Delhi NCT, J&K and Ladakh reorganisation, capitals, High Courts and assertion-reason practice.',
+      secondsPerQuestion: 51,
+      tags: ['polity', 'union-territories', 'prelims'],
+    },
+    load: () => asDefinition(unionTerritories100),
   },
   // Future mocks: append entries here, e.g.
   // { meta: { mockId: 'future-mock-1', title: '...', category: 'History', secondsPerQuestion: 51 }, load: () => asDefinition(futureMock1) },
