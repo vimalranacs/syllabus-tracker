@@ -1,0 +1,2416 @@
+{
+  "mockId": "states-ut-100",
+  "title": "States & Union Territories",
+  "category": "Indian Polity",
+  "description": "100 MCQs: 20 Easy, 50 Moderate and 30 Hard, covering Articles 1–4, Union Territories, State reorganisation, constitutional amendments, schedules, councils and statement/assertion-based questions.",
+  "secondsPerQuestion": 51,
+  "tags": [
+    "polity",
+    "states",
+    "union-territories",
+    "prelims"
+  ],
+  "questions": [
+    {
+      "id": "STUT-Q1",
+      "question": "According to Article 1, India is described as:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Federal Union of States"
+        },
+        {
+          "id": "b",
+          "text": "Union of States"
+        },
+        {
+          "id": "c",
+          "text": "Confederation of States"
+        },
+        {
+          "id": "d",
+          "text": "Democratic Federation"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy",
+      "explanation": "Article 1 says \"India, that is Bharat, shall be a **Union of States**.\" The word 'Federal' does not appear anywhere in the Constitution."
+    },
+    {
+      "id": "STUT-Q2",
+      "question": "The names of States and Union Territories of India are listed in which Schedule?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Second Schedule"
+        },
+        {
+          "id": "b",
+          "text": "Third Schedule"
+        },
+        {
+          "id": "c",
+          "text": "First Schedule"
+        },
+        {
+          "id": "d",
+          "text": "Fourth Schedule ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q3",
+      "question": "Which Article empowers Parliament to admit new States into the Union?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 1"
+        },
+        {
+          "id": "b",
+          "text": "Article 2"
+        },
+        {
+          "id": "c",
+          "text": "Article 3"
+        },
+        {
+          "id": "d",
+          "text": "Article 4 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q4",
+      "question": "Which Article deals with formation of new States and alteration of existing States?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 2"
+        },
+        {
+          "id": "b",
+          "text": "Article 3"
+        },
+        {
+          "id": "c",
+          "text": "Article 4"
+        },
+        {
+          "id": "d",
+          "text": "Article 5 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q5",
+      "question": "Currently, how many States are there in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "28"
+        },
+        {
+          "id": "b",
+          "text": "29"
+        },
+        {
+          "id": "c",
+          "text": "27"
+        },
+        {
+          "id": "d",
+          "text": "30 > **Note:** After J&K became a UT in 2019, India has 28 States and 8 Union Territories. ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q6",
+      "question": "How many Union Territories does India currently have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7"
+        },
+        {
+          "id": "b",
+          "text": "9"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "6 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q7",
+      "question": "Which is the smallest State of India by area?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tripura"
+        },
+        {
+          "id": "b",
+          "text": "Sikkim"
+        },
+        {
+          "id": "c",
+          "text": "Goa"
+        },
+        {
+          "id": "d",
+          "text": "Manipur ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q8",
+      "question": "Which State Reorganisation Act restructured States on linguistic basis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "States Reorganisation Act, 1952"
+        },
+        {
+          "id": "b",
+          "text": "States Reorganisation Act, 1956"
+        },
+        {
+          "id": "c",
+          "text": "States Reorganisation Act, 1960"
+        },
+        {
+          "id": "d",
+          "text": "States Reorganisation Act, 1963 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q9",
+      "question": "The States Reorganisation Act 1956 created how many States and UTs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "16 States, 3 UTs"
+        },
+        {
+          "id": "b",
+          "text": "14 States, 6 UTs"
+        },
+        {
+          "id": "c",
+          "text": "15 States, 5 UTs"
+        },
+        {
+          "id": "d",
+          "text": "13 States, 7 UTs ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q10",
+      "question": "Jammu & Kashmir was bifurcated into two Union Territories in which year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2018"
+        },
+        {
+          "id": "b",
+          "text": "2019"
+        },
+        {
+          "id": "c",
+          "text": "2020"
+        },
+        {
+          "id": "d",
+          "text": "2021 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q11",
+      "question": "Which Union Territory has its own High Court?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandigarh"
+        },
+        {
+          "id": "b",
+          "text": "Delhi"
+        },
+        {
+          "id": "c",
+          "text": "Dadra & Nagar Haveli"
+        },
+        {
+          "id": "d",
+          "text": "Lakshadweep ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q12",
+      "question": "The First Schedule of the Constitution contains:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oath forms"
+        },
+        {
+          "id": "b",
+          "text": "Names of States and UTs"
+        },
+        {
+          "id": "c",
+          "text": "Allocation of seats in Rajya Sabha"
+        },
+        {
+          "id": "d",
+          "text": "Languages listed in Constitution ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q13",
+      "question": "Which is the largest State of India by area?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Maharashtra"
+        },
+        {
+          "id": "c",
+          "text": "Rajasthan"
+        },
+        {
+          "id": "d",
+          "text": "Madhya Pradesh ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q14",
+      "question": "Goa became a full-fledged State in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1971"
+        },
+        {
+          "id": "b",
+          "text": "1987"
+        },
+        {
+          "id": "c",
+          "text": "1975"
+        },
+        {
+          "id": "d",
+          "text": "1961 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q15",
+      "question": "Which was the first State formed on linguistic basis after independence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kerala"
+        },
+        {
+          "id": "b",
+          "text": "Karnataka"
+        },
+        {
+          "id": "c",
+          "text": "Andhra (1953)"
+        },
+        {
+          "id": "d",
+          "text": "Maharashtra ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q16",
+      "question": "Chandigarh is the capital of which two States?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Haryana and Himachal Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Punjab and Haryana"
+        },
+        {
+          "id": "c",
+          "text": "Punjab and Himachal Pradesh"
+        },
+        {
+          "id": "d",
+          "text": "Haryana and Uttarakhand ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q17",
+      "question": "Puducherry (Pondicherry) was a colony of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Britain"
+        },
+        {
+          "id": "b",
+          "text": "Portugal"
+        },
+        {
+          "id": "c",
+          "text": "France"
+        },
+        {
+          "id": "d",
+          "text": "Netherlands ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q18",
+      "question": "Lakshadweep is administered by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kerala Government"
+        },
+        {
+          "id": "b",
+          "text": "Ministry of External Affairs"
+        },
+        {
+          "id": "c",
+          "text": "Union Government through an Administrator"
+        },
+        {
+          "id": "d",
+          "text": "State of Tamil Nadu ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q19",
+      "question": "Which UT has the largest area?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi"
+        },
+        {
+          "id": "b",
+          "text": "J&K"
+        },
+        {
+          "id": "c",
+          "text": "Ladakh"
+        },
+        {
+          "id": "d",
+          "text": "Puducherry ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "STUT-Q20",
+      "question": "Sikkim became the 22nd State of India in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1971"
+        },
+        {
+          "id": "b",
+          "text": "1972"
+        },
+        {
+          "id": "c",
+          "text": "1975"
+        },
+        {
+          "id": "d",
+          "text": "1980 --- ## 🟡 SECTION B — MODERATE (Q21–70) *Conceptual + Article-based + factual combinations* ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q21",
+      "question": "Under Article 3, before introducing a Bill for creating a new State, the President must:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Get the approval of Rajya Sabha"
+        },
+        {
+          "id": "b",
+          "text": "Refer it to the State Legislature concerned for its views"
+        },
+        {
+          "id": "c",
+          "text": "Get a special majority in Lok Sabha"
+        },
+        {
+          "id": "d",
+          "text": "Consult the Election Commission ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q22",
+      "question": "A Bill under Article 3 can be introduced in Parliament only on the recommendation of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prime Minister"
+        },
+        {
+          "id": "b",
+          "text": "Speaker of Lok Sabha"
+        },
+        {
+          "id": "c",
+          "text": "President of India"
+        },
+        {
+          "id": "d",
+          "text": "Vice President ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q23",
+      "question": "Under Article 3, is it mandatory for Parliament to accept the views of the State Legislature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, consent is mandatory"
+        },
+        {
+          "id": "b",
+          "text": "No, views are only advisory, not binding"
+        },
+        {
+          "id": "c",
+          "text": "Yes, for boundary changes only"
+        },
+        {
+          "id": "d",
+          "text": "No, only for new State creation ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q24",
+      "question": "A law made under Article 3 is passed by Parliament by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Special majority (2/3rd)"
+        },
+        {
+          "id": "b",
+          "text": "Simple majority"
+        },
+        {
+          "id": "c",
+          "text": "Absolute majority"
+        },
+        {
+          "id": "d",
+          "text": "Unanimous consent ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q25",
+      "question": "Article 4 states that laws made under Articles 2 and 3:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Are amendments under Article 368"
+        },
+        {
+          "id": "b",
+          "text": "Are NOT amendments under Article 368"
+        },
+        {
+          "id": "c",
+          "text": "Require ratification by States"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be challenged in court ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q26",
+      "question": "The \"Territory of India\" is wider than \"Union of India\" because:",
+      "options": [
+        {
+          "id": "a",
+          "text": "It includes military territories"
+        },
+        {
+          "id": "b",
+          "text": "It includes States, UTs, and any acquired territories"
+        },
+        {
+          "id": "c",
+          "text": "It includes seas and exclusive economic zones"
+        },
+        {
+          "id": "d",
+          "text": "It includes Indian embassies abroad ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q27",
+      "question": "Which of the following is NOT a power of Parliament under Article 3?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Form new States"
+        },
+        {
+          "id": "b",
+          "text": "Alter area of States"
+        },
+        {
+          "id": "c",
+          "text": "Change name of States"
+        },
+        {
+          "id": "d",
+          "text": "Separate a State from the Union ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q28",
+      "question": "The States Reorganisation Commission (1953) was headed by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "K.M. Panikkar"
+        },
+        {
+          "id": "b",
+          "text": "Fazl Ali"
+        },
+        {
+          "id": "c",
+          "text": "H.N. Kunzru"
+        },
+        {
+          "id": "d",
+          "text": "S.K. Dhar ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q29",
+      "question": "The Linguistic Provinces Commission (Dhar Commission) was set up in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1947"
+        },
+        {
+          "id": "b",
+          "text": "1948"
+        },
+        {
+          "id": "c",
+          "text": "1950"
+        },
+        {
+          "id": "d",
+          "text": "1952 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q30",
+      "question": "The JVP Committee (1948) was formed to look into linguistic reorganisation. JVP stands for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jawaharlal, Vallabhbhai, Purushottam (Nehru, Patel, Sitaramayya)"
+        },
+        {
+          "id": "b",
+          "text": "Jaiprakash, Vinoba, Prasad"
+        },
+        {
+          "id": "c",
+          "text": "Jagjivan, Venkataramaiah, Pillai"
+        },
+        {
+          "id": "d",
+          "text": "Jaishankar, Vijaylakshmi, Prasad ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q31",
+      "question": "Andhra State was carved out of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hyderabad State"
+        },
+        {
+          "id": "b",
+          "text": "Madras State"
+        },
+        {
+          "id": "c",
+          "text": "Mysore State"
+        },
+        {
+          "id": "d",
+          "text": "Bombay State ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q32",
+      "question": "Which leader's death by fast (1952) accelerated the demand for Andhra State?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Swami Ramananda Tirtha"
+        },
+        {
+          "id": "b",
+          "text": "Potti Sriramulu"
+        },
+        {
+          "id": "c",
+          "text": "Tanguturi Prakasam"
+        },
+        {
+          "id": "d",
+          "text": "N.G. Ranga ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q33",
+      "question": "The 7th Constitutional Amendment Act, 1956 was associated with:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Emergency provisions"
+        },
+        {
+          "id": "b",
+          "text": "States Reorganisation Act"
+        },
+        {
+          "id": "c",
+          "text": "42nd Amendment"
+        },
+        {
+          "id": "d",
+          "text": "Citizenship provisions ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q34",
+      "question": "Under the original Constitution, States were divided into Parts A, B, C, D. Part D consisted of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hyderabad"
+        },
+        {
+          "id": "b",
+          "text": "Andaman & Nicobar Islands"
+        },
+        {
+          "id": "c",
+          "text": "Coorg"
+        },
+        {
+          "id": "d",
+          "text": "Manipur ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q35",
+      "question": "Dadra & Nagar Haveli was under the colonial rule of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "France"
+        },
+        {
+          "id": "b",
+          "text": "Britain"
+        },
+        {
+          "id": "c",
+          "text": "Portugal"
+        },
+        {
+          "id": "d",
+          "text": "Netherlands ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q36",
+      "question": "Dadra & Nagar Haveli and Daman & Diu were merged into a single UT in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2018"
+        },
+        {
+          "id": "b",
+          "text": "2019"
+        },
+        {
+          "id": "c",
+          "text": "2020"
+        },
+        {
+          "id": "d",
+          "text": "2021 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q37",
+      "question": "Which constitutional amendment bifurcated Andhra Pradesh and created Telangana?",
+      "options": [
+        {
+          "id": "a",
+          "text": "98th Amendment"
+        },
+        {
+          "id": "b",
+          "text": "100th Amendment"
+        },
+        {
+          "id": "c",
+          "text": "99th Amendment"
+        },
+        {
+          "id": "d",
+          "text": "No constitutional amendment — Parliament used Article 3 powers"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q38",
+      "question": "Telangana became India's 29th State in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2013"
+        },
+        {
+          "id": "b",
+          "text": "2014"
+        },
+        {
+          "id": "c",
+          "text": "2015"
+        },
+        {
+          "id": "d",
+          "text": "2016 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q39",
+      "question": "Which UT has a legislature (Legislative Assembly)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandigarh"
+        },
+        {
+          "id": "b",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "c",
+          "text": "Puducherry"
+        },
+        {
+          "id": "d",
+          "text": "Andaman & Nicobar Islands ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q40",
+      "question": "UTs with Legislature (as of 2024) are:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi, Puducherry, J&K"
+        },
+        {
+          "id": "b",
+          "text": "Delhi, Puducherry, Chandigarh"
+        },
+        {
+          "id": "c",
+          "text": "Delhi, Ladakh, J&K"
+        },
+        {
+          "id": "d",
+          "text": "Puducherry, Chandigarh, J&K ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q41",
+      "question": "Which Article deals with the administration of Union Territories?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 239"
+        },
+        {
+          "id": "b",
+          "text": "Article 240"
+        },
+        {
+          "id": "c",
+          "text": "Article 241"
+        },
+        {
+          "id": "d",
+          "text": "Article 242 ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q42",
+      "question": "The Parliament may by law create a Legislature or Council of Ministers for a UT under:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 239A"
+        },
+        {
+          "id": "b",
+          "text": "Article 239B"
+        },
+        {
+          "id": "c",
+          "text": "Article 240"
+        },
+        {
+          "id": "d",
+          "text": "Article 241 ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q43",
+      "question": "The 69th Constitutional Amendment (1991) gave Delhi the status of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Full State"
+        },
+        {
+          "id": "b",
+          "text": "National Capital Territory"
+        },
+        {
+          "id": "c",
+          "text": "Autonomous Region"
+        },
+        {
+          "id": "d",
+          "text": "Special Category Territory ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q44",
+      "question": "Which Article specifically deals with the National Capital Territory of Delhi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 239AA"
+        },
+        {
+          "id": "b",
+          "text": "Article 239A"
+        },
+        {
+          "id": "c",
+          "text": "Article 240"
+        },
+        {
+          "id": "d",
+          "text": "Article 246A ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q45",
+      "question": "Under Article 239AA, for Delhi, if there is a conflict between the Lieutenant Governor and the Council of Ministers, the matter is referred to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "President of India"
+        },
+        {
+          "id": "b",
+          "text": "Prime Minister"
+        },
+        {
+          "id": "c",
+          "text": "Supreme Court"
+        },
+        {
+          "id": "d",
+          "text": "Speaker of Delhi Assembly ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q46",
+      "question": "Which State was created by the 36th Constitutional Amendment Act?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meghalaya"
+        },
+        {
+          "id": "b",
+          "text": "Mizoram"
+        },
+        {
+          "id": "c",
+          "text": "Sikkim"
+        },
+        {
+          "id": "d",
+          "text": "Arunachal Pradesh ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q47",
+      "question": "Uttarakhand (originally Uttaranchal) was carved out of which State?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Haryana"
+        },
+        {
+          "id": "d",
+          "text": "Bihar ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q48",
+      "question": "Jharkhand was carved out of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "West Bengal"
+        },
+        {
+          "id": "b",
+          "text": "Odisha"
+        },
+        {
+          "id": "c",
+          "text": "Bihar"
+        },
+        {
+          "id": "d",
+          "text": "Madhya Pradesh ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q49",
+      "question": "Chhattisgarh was carved out of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bihar"
+        },
+        {
+          "id": "b",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "id": "d",
+          "text": "Maharashtra ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q50",
+      "question": "All three new States — Uttarakhand, Jharkhand, Chhattisgarh — were created in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1999"
+        },
+        {
+          "id": "b",
+          "text": "2000"
+        },
+        {
+          "id": "c",
+          "text": "2001"
+        },
+        {
+          "id": "d",
+          "text": "2002 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q51",
+      "question": "Nagaland became a separate State in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1960"
+        },
+        {
+          "id": "b",
+          "text": "1963"
+        },
+        {
+          "id": "c",
+          "text": "1966"
+        },
+        {
+          "id": "d",
+          "text": "1972 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q52",
+      "question": "Haryana was carved out of Punjab in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1965"
+        },
+        {
+          "id": "b",
+          "text": "1966"
+        },
+        {
+          "id": "c",
+          "text": "1967"
+        },
+        {
+          "id": "d",
+          "text": "1970 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q53",
+      "question": "The Mahajan Commission (1966) was set up to resolve:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Telangana dispute"
+        },
+        {
+          "id": "b",
+          "text": "Punjab-Haryana boundary dispute"
+        },
+        {
+          "id": "c",
+          "text": "Assam-Nagaland dispute"
+        },
+        {
+          "id": "d",
+          "text": "Goa integration dispute ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q54",
+      "question": "Which of the following States does NOT share a border with Bangladesh?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assam"
+        },
+        {
+          "id": "b",
+          "text": "Tripura"
+        },
+        {
+          "id": "c",
+          "text": "Meghalaya"
+        },
+        {
+          "id": "d",
+          "text": "Manipur ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q55",
+      "question": "The Sixth Schedule of the Constitution deals with:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Scheduled Areas in tribal regions of NE India (Assam, Meghalaya, Tripura, Mizoram)"
+        },
+        {
+          "id": "b",
+          "text": "Official languages"
+        },
+        {
+          "id": "c",
+          "text": "Allocation of Rajya Sabha seats"
+        },
+        {
+          "id": "d",
+          "text": "Anti-defection law ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q56",
+      "question": "The Fifth Schedule deals with:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Scheduled Areas and Scheduled Tribes (excluding NE)"
+        },
+        {
+          "id": "b",
+          "text": "Languages of India"
+        },
+        {
+          "id": "c",
+          "text": "Rajya Sabha seat allocation"
+        },
+        {
+          "id": "d",
+          "text": "Zonal Councils ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q57",
+      "question": "Which Schedule contains the allocation of seats in the Rajya Sabha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "First Schedule"
+        },
+        {
+          "id": "b",
+          "text": "Second Schedule"
+        },
+        {
+          "id": "c",
+          "text": "Third Schedule"
+        },
+        {
+          "id": "d",
+          "text": "Fourth Schedule ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q58",
+      "question": "Zonal Councils were created by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Constitutional provision"
+        },
+        {
+          "id": "b",
+          "text": "States Reorganisation Act, 1956"
+        },
+        {
+          "id": "c",
+          "text": "7th Amendment Act"
+        },
+        {
+          "id": "d",
+          "text": "President's Order ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q59",
+      "question": "How many Zonal Councils are there in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "7 > **Note:** North-East Council is separate (1972 Act). ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q60",
+      "question": "Who chairs the Zonal Councils?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chief Minister of the zone's largest State"
+        },
+        {
+          "id": "b",
+          "text": "President of India"
+        },
+        {
+          "id": "c",
+          "text": "Union Home Minister"
+        },
+        {
+          "id": "d",
+          "text": "Vice President ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q61",
+      "question": "The 100th Constitutional Amendment Act (2015) was related to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Creation of Telangana"
+        },
+        {
+          "id": "b",
+          "text": "Land boundary agreement with Bangladesh"
+        },
+        {
+          "id": "c",
+          "text": "Bifurcation of J&K"
+        },
+        {
+          "id": "d",
+          "text": "Merger of Puducherry ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q62",
+      "question": "Article 1(3) says the territory of India shall also include:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exclusive Economic Zone"
+        },
+        {
+          "id": "b",
+          "text": "Any territory that may be acquired"
+        },
+        {
+          "id": "c",
+          "text": "Airspace over India"
+        },
+        {
+          "id": "d",
+          "text": "Continental shelf ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q63",
+      "question": "Article 2 empowers Parliament to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Form new States from existing ones"
+        },
+        {
+          "id": "b",
+          "text": "Admit new States OR establish new States"
+        },
+        {
+          "id": "c",
+          "text": "Acquire foreign territories only"
+        },
+        {
+          "id": "d",
+          "text": "Give special status to existing States ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q64",
+      "question": "The Berubari Union case (1960) related to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Linguistic reorganization"
+        },
+        {
+          "id": "b",
+          "text": "Transfer of Berubari to Pakistan — SC said it requires constitutional amendment"
+        },
+        {
+          "id": "c",
+          "text": "Formation of Nagaland"
+        },
+        {
+          "id": "d",
+          "text": "Merger of Goa ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q65",
+      "question": "Which Constitutional Amendment ratified the transfer of Berubari Union to Pakistan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8th Amendment"
+        },
+        {
+          "id": "b",
+          "text": "9th Amendment"
+        },
+        {
+          "id": "c",
+          "text": "10th Amendment"
+        },
+        {
+          "id": "d",
+          "text": "11th Amendment ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q66",
+      "question": "Which Article gives Parliament power to make laws for UTs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 239"
+        },
+        {
+          "id": "b",
+          "text": "Article 246(4)"
+        },
+        {
+          "id": "c",
+          "text": "Article 240"
+        },
+        {
+          "id": "d",
+          "text": "Article 248 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q67",
+      "question": "The North Eastern Council was established under:",
+      "options": [
+        {
+          "id": "a",
+          "text": "States Reorganisation Act 1956"
+        },
+        {
+          "id": "b",
+          "text": "North Eastern Council Act, 1971 (effective 1972)"
+        },
+        {
+          "id": "c",
+          "text": "7th Amendment Act"
+        },
+        {
+          "id": "d",
+          "text": "Presidential Proclamation ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q68",
+      "question": "Meghalaya, Manipur, and Tripura got full statehood in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1970"
+        },
+        {
+          "id": "b",
+          "text": "1972"
+        },
+        {
+          "id": "c",
+          "text": "1975"
+        },
+        {
+          "id": "d",
+          "text": "1963 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q69",
+      "question": "Mizoram became a full State in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1972"
+        },
+        {
+          "id": "b",
+          "text": "1982"
+        },
+        {
+          "id": "c",
+          "text": "1987"
+        },
+        {
+          "id": "d",
+          "text": "1986 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "STUT-Q70",
+      "question": "Arunachal Pradesh became a full State in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1986"
+        },
+        {
+          "id": "b",
+          "text": "1987"
+        },
+        {
+          "id": "c",
+          "text": "1972"
+        },
+        {
+          "id": "d",
+          "text": "1975 --- ## 🔴 SECTION C — HARD (Q71–100) *Statement-based, Assertion-Reason, Match, Tricky Articles* ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q71",
+      "question": "Consider the following statements: 1. Parliament can reduce the area of a State under Article 3. 2. Parliament can increase the area of a State under Article 3. 3. Parliament requires consent of the State Legislature to alter State boundaries. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2, and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only (State's views are sought but NOT binding)"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3 only ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q72",
+      "question": "Which of the following is NOT possible under Article 3?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forming a new State by separating territory from another State"
+        },
+        {
+          "id": "b",
+          "text": "Uniting two States into one"
+        },
+        {
+          "id": "c",
+          "text": "Giving any territory to a foreign country"
+        },
+        {
+          "id": "d",
+          "text": "Altering the boundary of a State ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q73",
+      "question": "Assertion (A): A Bill under Article 3 altering State boundaries is NOT a Constitutional Amendment under Article 368. Reason (R): Article 4 explicitly provides that such laws shall not be deemed Constitutional Amendments.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R true; R explains A"
+        },
+        {
+          "id": "b",
+          "text": "A true, R false"
+        },
+        {
+          "id": "c",
+          "text": "A false, R true"
+        },
+        {
+          "id": "d",
+          "text": "Both false ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q74",
+      "question": "The expression \"Union of India\" in Article 1:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is wider than \"Territory of India\""
+        },
+        {
+          "id": "b",
+          "text": "Is narrower than \"Territory of India\""
+        },
+        {
+          "id": "c",
+          "text": "Is the same as \"Territory of India\""
+        },
+        {
+          "id": "d",
+          "text": "Includes UTs and acquired territories > \"Territory of India\" includes States + UTs + acquired territories. \"Union of India\" includes only States. ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q75",
+      "question": "Which is CORRECT about Union Territories? 1. Parliament acts as the legislature for all UTs. 2. President administers UTs through Administrators/Lt. Governors. 3. All UTs have elected legislatures.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "All three ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q76",
+      "question": "Under Article 239B, the Administrator of a UT having a legislature can promulgate Ordinances when:",
+      "options": [
+        {
+          "id": "a",
+          "text": "The legislature is not in session"
+        },
+        {
+          "id": "b",
+          "text": "President gives special permission"
+        },
+        {
+          "id": "c",
+          "text": "Governor of neighbouring State requests"
+        },
+        {
+          "id": "d",
+          "text": "At any time without conditions ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q77",
+      "question": "The GNCTD (Amendment) Act 2021 gave overriding powers to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi Legislative Assembly"
+        },
+        {
+          "id": "b",
+          "text": "Chief Minister of Delhi"
+        },
+        {
+          "id": "c",
+          "text": "Lieutenant Governor of Delhi"
+        },
+        {
+          "id": "d",
+          "text": "President of India ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q78",
+      "question": "Match the State with the year of its formation: | State Year | | | ------------ | ------- | | A. Nagaland | 1. 1987 | | B. Goa | 2. 1963 | | C. Mizoram | 3. 2000 | | D. Jharkhand | 4. 1966 |",
+      "options": [
+        {
+          "id": "a",
+          "text": "A-2, B-1, C-3, D-4"
+        },
+        {
+          "id": "b",
+          "text": "A-2, B-1, C-1, D-3"
+        },
+        {
+          "id": "c",
+          "text": "A-4, B-2, C-1, D-3"
+        },
+        {
+          "id": "d",
+          "text": "A-1, B-2, C-3, D-4 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q79",
+      "question": "The Sixth Schedule does NOT apply to which NE State?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assam"
+        },
+        {
+          "id": "b",
+          "text": "Meghalaya"
+        },
+        {
+          "id": "c",
+          "text": "Sikkim"
+        },
+        {
+          "id": "d",
+          "text": "Mizoram ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q80",
+      "question": "The Fifth Schedule provides for a Tribes Advisory Council in each Scheduled Area State. It must have:",
+      "options": [
+        {
+          "id": "a",
+          "text": "At least 10 members, all from ST communities"
+        },
+        {
+          "id": "b",
+          "text": "Not more than 20 members, 3/4th from STs"
+        },
+        {
+          "id": "c",
+          "text": "15 members, half from STs"
+        },
+        {
+          "id": "d",
+          "text": "Not more than 10 members, all elected ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q81",
+      "question": "The Governor's special powers under the Fifth Schedule include:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Making regulations for peace and good governance in Scheduled Areas"
+        },
+        {
+          "id": "b",
+          "text": "Dismissing State Legislature"
+        },
+        {
+          "id": "c",
+          "text": "Imposing President's Rule unilaterally"
+        },
+        {
+          "id": "d",
+          "text": "Establishing separate High Courts for tribal areas ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q82",
+      "question": "The 10th Constitutional Amendment (1961) incorporated which territory into India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Goa, Daman & Diu"
+        },
+        {
+          "id": "b",
+          "text": "Dadra & Nagar Haveli"
+        },
+        {
+          "id": "c",
+          "text": "Puducherry"
+        },
+        {
+          "id": "d",
+          "text": "Sikkim ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q83",
+      "question": "The 12th Constitutional Amendment (1962) incorporated which territory?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sikkim"
+        },
+        {
+          "id": "b",
+          "text": "Dadra & Nagar Haveli"
+        },
+        {
+          "id": "c",
+          "text": "Goa, Daman & Diu"
+        },
+        {
+          "id": "d",
+          "text": "Puducherry ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q84",
+      "question": "Puducherry was formally incorporated into India (constitutionally) by which Amendment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12th Amendment"
+        },
+        {
+          "id": "b",
+          "text": "13th Amendment"
+        },
+        {
+          "id": "c",
+          "text": "14th Amendment"
+        },
+        {
+          "id": "d",
+          "text": "15th Amendment ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q85",
+      "question": "Which Supreme Court judgment ruled that settlement of international boundary disputes does NOT require constitutional amendment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Berubari Union Case (1960)"
+        },
+        {
+          "id": "b",
+          "text": "Ram Kishore Sen v. Union of India (1966)"
+        },
+        {
+          "id": "c",
+          "text": "Kesavananda Bharati Case (1973)"
+        },
+        {
+          "id": "d",
+          "text": "S.R. Bommai Case (1994) ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q86",
+      "question": "Consider: The SRC (1955) recommended creating 16 States and 3 centrally administered territories. The final outcome was 14 States and 6 UTs. The discrepancy was because:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parliament rejected SRC recommendations entirely"
+        },
+        {
+          "id": "b",
+          "text": "Political pressures caused Bombay and Punjab to remain composite"
+        },
+        {
+          "id": "c",
+          "text": "President's veto reduced the count"
+        },
+        {
+          "id": "d",
+          "text": "Some States refused to be split ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q87",
+      "question": "Andhra Pradesh was formed by merger of Andhra State and:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mysore State"
+        },
+        {
+          "id": "b",
+          "text": "Hyderabad State (Telugu-speaking areas)"
+        },
+        {
+          "id": "c",
+          "text": "Madras State"
+        },
+        {
+          "id": "d",
+          "text": "Bombay State ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q88",
+      "question": "Which of the following has NO elected Legislature and is governed directly by the President?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi"
+        },
+        {
+          "id": "b",
+          "text": "Puducherry"
+        },
+        {
+          "id": "c",
+          "text": "Jammu & Kashmir"
+        },
+        {
+          "id": "d",
+          "text": "Ladakh ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q89",
+      "question": "The Bodoland Territorial Council (BTC) operates under which Schedule?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fifth Schedule"
+        },
+        {
+          "id": "b",
+          "text": "Sixth Schedule"
+        },
+        {
+          "id": "c",
+          "text": "Seventh Schedule"
+        },
+        {
+          "id": "d",
+          "text": "Ninth Schedule ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q90",
+      "question": "The Autonomous District Councils under the Sixth Schedule have powers to make laws on:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Defence and External Affairs"
+        },
+        {
+          "id": "b",
+          "text": "Land management, forests, use of waterways, regulation of jhum cultivation"
+        },
+        {
+          "id": "c",
+          "text": "Taxation on income"
+        },
+        {
+          "id": "d",
+          "text": "Criminal law procedures ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q91",
+      "question": "Which Article empowers Parliament to create a High Court for a Union Territory?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 239"
+        },
+        {
+          "id": "b",
+          "text": "Article 239A"
+        },
+        {
+          "id": "c",
+          "text": "Article 241"
+        },
+        {
+          "id": "d",
+          "text": "Article 246 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q92",
+      "question": "The power to acquire foreign territory (cession) is exercised by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parliament by simple majority"
+        },
+        {
+          "id": "b",
+          "text": "Executive under Foreign Affairs (Union List Entry 14) with constitutional amendment"
+        },
+        {
+          "id": "c",
+          "text": "President without Parliament"
+        },
+        {
+          "id": "d",
+          "text": "Supreme Court approval is required ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q93",
+      "question": "Assertion (A): Sikkim's merger required a Constitutional Amendment. Reason (R): Sikkim was an independent protectorate and could not be absorbed under Articles 2 or 3 alone.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R true; R explains A"
+        },
+        {
+          "id": "b",
+          "text": "A true, R false"
+        },
+        {
+          "id": "c",
+          "text": "A false, R true"
+        },
+        {
+          "id": "d",
+          "text": "Both false > 35th Amendment gave Sikkim \"Associate State\" status; 36th Amendment made it a full State. ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q94",
+      "question": "Which is the CORRECT sequence of events in Telangana's creation? 1. SRC (1955) recommended keeping Andhra and Hyderabad-Telangana together 2. Andhra Pradesh formed (1956) 3. Telangana agitation peaks in 2009–2013 4. Andhra Pradesh Reorganisation Act passed (2014)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1-2-3-4"
+        },
+        {
+          "id": "b",
+          "text": "2-1-3-4"
+        },
+        {
+          "id": "c",
+          "text": "1-3-2-4"
+        },
+        {
+          "id": "d",
+          "text": "2-3-1-4 ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q95",
+      "question": "Which of these statements about Article 239AA is INCORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was inserted by 69th Amendment"
+        },
+        {
+          "id": "b",
+          "text": "Delhi's legislature cannot make laws on Entries 1, 2, 18 of the State List"
+        },
+        {
+          "id": "c",
+          "text": "Services (Entry 41 of State List) is under LG for Delhi"
+        },
+        {
+          "id": "d",
+          "text": "Delhi's LG acts on his own discretion on all matters > LG acts on aid and advice of Council of Ministers EXCEPT on three matters (land, police, public order, services after 2023 SC ruling/GNCTD Act) ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q96",
+      "question": "Consider these statements on Union Territories: 1. All UTs are administered by the President. 2. President administers through Administrator appointed under Article 239. 3. Administrator of a UT having Legislature is called Governor. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "All three > Statement 3 is WRONG. They are called Lt. Governor or Administrator, NOT Governor. ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q97",
+      "question": "Which of the following pairs of States were formed on the SAME date (November 1, 1956)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andhra Pradesh and Rajasthan"
+        },
+        {
+          "id": "b",
+          "text": "Kerala, Karnataka, Andhra Pradesh (all effective 1 Nov 1956)"
+        },
+        {
+          "id": "c",
+          "text": "Goa and Maharashtra"
+        },
+        {
+          "id": "d",
+          "text": "Punjab and Haryana ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q98",
+      "question": "The PESA Act (1996) extends which Schedule's provisions to Scheduled Areas in 9 States?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sixth Schedule"
+        },
+        {
+          "id": "b",
+          "text": "Fifth Schedule"
+        },
+        {
+          "id": "c",
+          "text": "Fourth Schedule"
+        },
+        {
+          "id": "d",
+          "text": "Ninth Schedule ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q99",
+      "question": "Which of these correctly describes \"Scheduled Areas\" under the Fifth Schedule?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Areas declared by the President by Order"
+        },
+        {
+          "id": "b",
+          "text": "Areas declared by State Governors"
+        },
+        {
+          "id": "c",
+          "text": "Areas listed in the First Schedule"
+        },
+        {
+          "id": "d",
+          "text": "Areas determined by Election Commission ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "STUT-Q100",
+      "question": "Match the Constitutional Amendment with the correct outcome: | Amendment Outcome | | | ------------------ | -------------------------------- | | 7th (1956) | A. NCT status to Delhi | | 36th (1975) | B. Sikkim becomes 22nd State | | 69th (1991) | C. States Reorganisation | | 100th (2015) | D. Land Boundary with Bangladesh |",
+      "options": [
+        {
+          "id": "a",
+          "text": "7-A, 36-B, 69-C, 100-D"
+        },
+        {
+          "id": "b",
+          "text": "7-C, 36-B, 69-A, 100-D"
+        },
+        {
+          "id": "c",
+          "text": "7-C, 36-A, 69-B, 100-D"
+        },
+        {
+          "id": "d",
+          "text": "7-B, 36-C, 69-A, 100-D --- ## 📊 Complete Answer Key | Q Ans Q Ans Q Ans Q Ans | | | | | | | | | ------------------------ | - | -- | - | -- | - | --- | - | | 1 | b | 26 | b | 51 | b | 76 | a | | 2 | c | 27 | d | 52 | b | 77 | c | | 3 | b | 28 | b | 53 | b | 78 | b | | 4 | b | 29 | b | 54 | d | 79 | c | | 5 | a | 30 | a | 55 | a | 80 | b | | 6 | c | 31 | b | 56 | a | 81 | a | | 7 | c | 32 | b | 57 | d | 82 | b | | 8 | b | 33 | b | 58 | b | 83 | c | | 9 | b | 34 | b | 59 | b | 84 | c | | 10 | b | 35 | c | 60 | c | 85 | b | | 11 | b | 36 | c | 61 | b | 86 | b | | 12 | b | 37 | d | 62 | b | 87 | b | | 13 | c | 38 | b | 63 | b | 88 | d | | 14 | b | 39 | c | 64 | b | 89 | b | | 15 | c | 40 | a | 65 | b | 90 | b | | 16 | b | 41 | a | 66 | b | 91 | c | | 17 | c | 42 | a | 67 | b | 92 | b | | 18 | c | 43 | b | 68 | b | 93 | a | | 19 | b | 44 | a | 69 | c | 94 | a | | 20 | c | 45 | a | 70 | b | 95 | d | | 21 | b | 46 | c | 71 | c | 96 | a | | 22 | c | 47 | b | 72 | c | 97 | b | | 23 | b | 48 | c | 73 | a | 98 | b | | 24 | b | 49 | c | 74 | b | 99 | a | | 25 | b | 50 | b | 75 | a | 100 | b | --- ## 🔑 Quick Revision Table | Article Subject | | | ---------------- | ----------------------------------------------------- | | **Art. 1** | India = Union of States | | **Art. 2** | Admission/establishment of new States | | **Art. 3** | Formation/alteration of States | | **Art. 4** | Laws under Art. 2 & 3 = not Constitutional Amendments | | **Art. 239** | Administration of UTs | | **Art. 239A** | Legislature for certain UTs | | **Art. 239AA** | Special provisions for Delhi (NCT) | | **Art. 241** | High Courts for UTs | | **5th Schedule** | Scheduled Areas & Tribes (non-NE) | | **6th Schedule** | Tribal areas of NE India | | **1st Schedule** | Names of States & UTs | | **4th Schedule** | Rajya Sabha seat allocation | --- > 💡 **RO/ARO Tip:** Hard questions on this topic mostly come from **Article 239AA (Delhi)**, **5th & 6th Schedule differences**, **Amendment numbers** for State formations, and **Statement-based questions on Article 3 powers**. Practice all Match-the-following type questions from this set first!"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    }
+  ]
+}

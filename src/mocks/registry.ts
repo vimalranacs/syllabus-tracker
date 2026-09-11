@@ -1,6 +1,8 @@
 import type { MockDefinition, MockMeta } from './types';
 import preamble100 from '../data/mocks/preamble-100.json';
 import unionTerritories100 from '../data/mocks/union-territories-100.json';
+import citizenship100 from '../data/mocks/citizenship-100.json';
+import statesUt100 from '../data/mocks/states-ut-100.json';
 
 /**
  * Central mock registry.
@@ -58,6 +60,30 @@ const MOCK_REGISTRY: RegistryEntry[] = [
       tags: ['polity', 'union-territories', 'prelims'],
     },
     load: () => asDefinition(unionTerritories100),
+  },
+  {
+    meta: {
+      mockId: 'citizenship-100',
+      title: 'Citizenship of India',
+      category: 'Indian Polity',
+      description:
+        '100 mixed-level MCQs (20 easy, 50 moderate, 30 hard) on Articles 5–11, the Citizenship Act 1955, and acquisition and loss of citizenship.',
+      secondsPerQuestion: 51,
+      tags: ['polity', 'citizenship', 'prelims'],
+    },
+    load: () => asDefinition(citizenship100),
+  },
+  {
+    meta: {
+      mockId: 'states-ut-100',
+      title: 'States & Union Territories',
+      category: 'Indian Polity',
+      description:
+        '100 mixed-level MCQs (20 easy, 50 moderate, 30 hard) on Articles 1–4, State reorganisation, Union Territories and constitutional provisions.',
+      secondsPerQuestion: 51,
+      tags: ['polity', 'states', 'union-territories', 'prelims'],
+    },
+    load: () => asDefinition(statesUt100),
   },
   // Future mocks: append entries here, e.g.
   // { meta: { mockId: 'future-mock-1', title: '...', category: 'History', secondsPerQuestion: 51 }, load: () => asDefinition(futureMock1) },

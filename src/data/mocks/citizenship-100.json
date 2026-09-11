@@ -1,0 +1,2415 @@
+{
+  "mockId": "citizenship-100",
+  "title": "Citizenship of India",
+  "category": "Indian Polity",
+  "description": "100 MCQs: 20 Easy, 50 Moderate and 30 Hard, covering Articles 5–11, the Citizenship Act 1955, acquisition and loss of citizenship, OCI, CAA 2019, NRC, migration and citizenship-related case law.",
+  "secondsPerQuestion": 51,
+  "tags": [
+    "polity",
+    "citizenship",
+    "prelims"
+  ],
+  "questions": [
+    {
+      "id": "CIT-Q1",
+      "question": "Citizenship in the Indian Constitution is dealt with in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Part I"
+        },
+        {
+          "id": "b",
+          "text": "Part II"
+        },
+        {
+          "id": "c",
+          "text": "Part III"
+        },
+        {
+          "id": "d",
+          "text": "Part IV"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy",
+      "explanation": "Articles 5–11 fall under Part II of the Constitution."
+    },
+    {
+      "id": "CIT-Q2",
+      "question": "Which Articles of the Constitution deal with Citizenship?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Articles 1–4"
+        },
+        {
+          "id": "b",
+          "text": "Articles 5–11"
+        },
+        {
+          "id": "c",
+          "text": "Articles 12–18"
+        },
+        {
+          "id": "d",
+          "text": "Articles 19–22 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q3",
+      "question": "India follows the principle of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dual Citizenship"
+        },
+        {
+          "id": "b",
+          "text": "Triple Citizenship"
+        },
+        {
+          "id": "c",
+          "text": "Single Citizenship"
+        },
+        {
+          "id": "d",
+          "text": "Federal Citizenship ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q4",
+      "question": "The primary legislation governing citizenship after the Constitution is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Foreigners Act, 1946"
+        },
+        {
+          "id": "b",
+          "text": "Citizenship Act, 1955"
+        },
+        {
+          "id": "c",
+          "text": "Passport Entry Into India Act"
+        },
+        {
+          "id": "d",
+          "text": "Representation of People Act, 1951 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q5",
+      "question": "Who has the power to make laws on citizenship in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "State Legislatures"
+        },
+        {
+          "id": "b",
+          "text": "President of India"
+        },
+        {
+          "id": "c",
+          "text": "Parliament of India"
+        },
+        {
+          "id": "d",
+          "text": "Supreme Court ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q6",
+      "question": "Which Article empowers Parliament to regulate citizenship by law?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 9"
+        },
+        {
+          "id": "b",
+          "text": "Article 10"
+        },
+        {
+          "id": "c",
+          "text": "Article 11"
+        },
+        {
+          "id": "d",
+          "text": "Article 8 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q7",
+      "question": "Article 5 deals with citizenship by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Birth in India"
+        },
+        {
+          "id": "b",
+          "text": "Domicile and birth"
+        },
+        {
+          "id": "c",
+          "text": "Registration"
+        },
+        {
+          "id": "d",
+          "text": "Migration from Pakistan ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q8",
+      "question": "How many ways can citizenship be acquired under the Citizenship Act, 1955?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Three"
+        },
+        {
+          "id": "b",
+          "text": "Four"
+        },
+        {
+          "id": "c",
+          "text": "Five"
+        },
+        {
+          "id": "d",
+          "text": "Six ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q9",
+      "question": "An NRI (Non-Resident Indian) is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "A foreign citizen of Indian origin"
+        },
+        {
+          "id": "b",
+          "text": "An Indian citizen living abroad"
+        },
+        {
+          "id": "c",
+          "text": "A person holding OCI card"
+        },
+        {
+          "id": "d",
+          "text": "A stateless person of Indian origin ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q10",
+      "question": "OCI stands for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Official Citizen of India"
+        },
+        {
+          "id": "b",
+          "text": "Overseas Citizen of India"
+        },
+        {
+          "id": "c",
+          "text": "Original Citizen of India"
+        },
+        {
+          "id": "d",
+          "text": "Outer Citizen of India ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q11",
+      "question": "Article 9 says that a person who voluntarily acquires citizenship of a foreign state:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Loses Indian citizenship automatically"
+        },
+        {
+          "id": "b",
+          "text": "Must apply to surrender Indian citizenship"
+        },
+        {
+          "id": "c",
+          "text": "Can retain dual citizenship"
+        },
+        {
+          "id": "d",
+          "text": "Must get court approval to lose citizenship ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q12",
+      "question": "Which fundamental right is available ONLY to citizens, not to foreigners?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 14 (Equality before law)"
+        },
+        {
+          "id": "b",
+          "text": "Article 21 (Right to Life)"
+        },
+        {
+          "id": "c",
+          "text": "Article 19 (Freedom of Speech etc.)"
+        },
+        {
+          "id": "d",
+          "text": "Article 22 (Protection against arbitrary arrest) ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q13",
+      "question": "Which of these Articles apply to ALL persons (citizens + foreigners)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 19"
+        },
+        {
+          "id": "b",
+          "text": "Article 16"
+        },
+        {
+          "id": "c",
+          "text": "Article 14"
+        },
+        {
+          "id": "d",
+          "text": "Article 15 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q14",
+      "question": "The Citizenship Amendment Act (CAA) was passed in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2018"
+        },
+        {
+          "id": "b",
+          "text": "2019"
+        },
+        {
+          "id": "c",
+          "text": "2020"
+        },
+        {
+          "id": "d",
+          "text": "2017 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q15",
+      "question": "CAA 2019 grants citizenship to persecuted minorities from how many countries?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two"
+        },
+        {
+          "id": "b",
+          "text": "Four"
+        },
+        {
+          "id": "c",
+          "text": "Three (Pakistan, Afghanistan, Bangladesh)"
+        },
+        {
+          "id": "d",
+          "text": "Five ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q16",
+      "question": "Which religion is NOT included in the CAA 2019?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hindu"
+        },
+        {
+          "id": "b",
+          "text": "Sikh"
+        },
+        {
+          "id": "c",
+          "text": "Islam"
+        },
+        {
+          "id": "d",
+          "text": "Christian ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q17",
+      "question": "Under the Citizenship Act 1955, citizenship can be lost in how many ways?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two"
+        },
+        {
+          "id": "b",
+          "text": "Three (Renunciation, Termination, Deprivation)"
+        },
+        {
+          "id": "c",
+          "text": "Four"
+        },
+        {
+          "id": "d",
+          "text": "Five ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q18",
+      "question": "Article 10 provides for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acquisition of citizenship"
+        },
+        {
+          "id": "b",
+          "text": "Continuance of rights of citizenship"
+        },
+        {
+          "id": "c",
+          "text": "Loss of citizenship"
+        },
+        {
+          "id": "d",
+          "text": "Citizenship of migrants ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q19",
+      "question": "PIO (Person of Indian Origin) cards were merged with OCI cards in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2013"
+        },
+        {
+          "id": "b",
+          "text": "2015"
+        },
+        {
+          "id": "c",
+          "text": "2017"
+        },
+        {
+          "id": "d",
+          "text": "2019 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "CIT-Q20",
+      "question": "Which country has the world's largest diaspora, as per recent data?",
+      "options": [
+        {
+          "id": "a",
+          "text": "China"
+        },
+        {
+          "id": "b",
+          "text": "Mexico"
+        },
+        {
+          "id": "c",
+          "text": "India (\\~35.4 million)"
+        },
+        {
+          "id": "d",
+          "text": "Philippines --- ## 🟡 SECTION B — MODERATE (Q21–70) *Article-specific, Citizenship Act provisions, conceptual combinations* ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q21",
+      "question": "Article 6 deals with the rights of citizenship of persons who:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Were born in Pakistan"
+        },
+        {
+          "id": "b",
+          "text": "Migrated from Pakistan to India"
+        },
+        {
+          "id": "c",
+          "text": "Are of Indian origin living abroad"
+        },
+        {
+          "id": "d",
+          "text": "Migrated from India to Pakistan ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q22",
+      "question": "Under Article 6, a migrant from Pakistan who came BEFORE July 19, 1948 was deemed a citizen if:",
+      "options": [
+        {
+          "id": "a",
+          "text": "He registered with the Government"
+        },
+        {
+          "id": "b",
+          "text": "He had been ordinarily resident in India since migration"
+        },
+        {
+          "id": "c",
+          "text": "He was a Hindu or Sikh"
+        },
+        {
+          "id": "d",
+          "text": "He owned property in India ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q23",
+      "question": "Under Article 6, a migrant from Pakistan who came ON OR AFTER July 19, 1948 had to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apply to the President"
+        },
+        {
+          "id": "b",
+          "text": "Register as a citizen with appointed authority"
+        },
+        {
+          "id": "c",
+          "text": "Prove religious persecution"
+        },
+        {
+          "id": "d",
+          "text": "Wait for 5 years ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q24",
+      "question": "Article 7 deals with persons who:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Migrated from Pakistan to India"
+        },
+        {
+          "id": "b",
+          "text": "Migrated from India to Pakistan but returned to India"
+        },
+        {
+          "id": "c",
+          "text": "Are of Indian origin living in other countries"
+        },
+        {
+          "id": "d",
+          "text": "Voluntarily gave up Indian citizenship ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q25",
+      "question": "Under Article 7, a person who migrated to Pakistan after March 1, 1947 is deemed:",
+      "options": [
+        {
+          "id": "a",
+          "text": "An Indian citizen automatically"
+        },
+        {
+          "id": "b",
+          "text": "NOT a citizen unless they return with a permit for permanent resettlement"
+        },
+        {
+          "id": "c",
+          "text": "A citizen after 5 years of residence"
+        },
+        {
+          "id": "d",
+          "text": "Entitled to citizenship on application ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q26",
+      "question": "Article 8 gives citizenship rights to persons of Indian origin residing:",
+      "options": [
+        {
+          "id": "a",
+          "text": "In Pakistan"
+        },
+        {
+          "id": "b",
+          "text": "Outside India"
+        },
+        {
+          "id": "c",
+          "text": "In any neighbouring country"
+        },
+        {
+          "id": "d",
+          "text": "In former British colonies only ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q27",
+      "question": "Under Article 8, a person of Indian origin outside India is entitled to register as a citizen if:",
+      "options": [
+        {
+          "id": "a",
+          "text": "One of their parents/grandparents was born in undivided India"
+        },
+        {
+          "id": "b",
+          "text": "They speak an Indian language"
+        },
+        {
+          "id": "c",
+          "text": "They have Indian property"
+        },
+        {
+          "id": "d",
+          "text": "They were once an Indian resident ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q28",
+      "question": "The five methods of acquiring citizenship under the Citizenship Act 1955 are:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Birth, Descent, Registration, Naturalisation, Incorporation of Territory"
+        },
+        {
+          "id": "b",
+          "text": "Birth, Marriage, Residence, Application, Treaty"
+        },
+        {
+          "id": "c",
+          "text": "Domicile, Birth, Descent, Marriage, Special Order"
+        },
+        {
+          "id": "d",
+          "text": "Registration, Naturalisation, Migration, Descent, Special Status ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q29",
+      "question": "Citizenship by Birth (as amended in 2003) requires:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both parents must be Indian citizens OR one parent is a citizen and the other is not an illegal migrant"
+        },
+        {
+          "id": "b",
+          "text": "Only the father must be an Indian citizen"
+        },
+        {
+          "id": "c",
+          "text": "The person must be born in India with Hindu religion"
+        },
+        {
+          "id": "d",
+          "text": "Either parent must be an Indian citizen ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q30",
+      "question": "Before the 1986 amendment, citizenship by birth was granted to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "All persons born in India, regardless of parentage"
+        },
+        {
+          "id": "b",
+          "text": "Only those whose parents were citizens"
+        },
+        {
+          "id": "c",
+          "text": "Only those born to Hindu parents"
+        },
+        {
+          "id": "d",
+          "text": "Those born to at least one Indian parent ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q31",
+      "question": "The 1986 amendment to the Citizenship Act restricted citizenship by birth mainly to curb:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brain drain"
+        },
+        {
+          "id": "b",
+          "text": "Illegal migration from Bangladesh"
+        },
+        {
+          "id": "c",
+          "text": "Dual citizenship claims"
+        },
+        {
+          "id": "d",
+          "text": "Stateless persons ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q32",
+      "question": "Citizenship by Descent: A person born outside India after January 26, 1950 is a citizen if:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Father was an Indian citizen at the time of birth (original provision; 2003 amendment extended to either parent)"
+        },
+        {
+          "id": "b",
+          "text": "Either parent was a citizen"
+        },
+        {
+          "id": "c",
+          "text": "Both parents were citizens"
+        },
+        {
+          "id": "d",
+          "text": "The person visits India within 5 years ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q33",
+      "question": "The normal period of residence required for Naturalisation as an Indian citizen is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 years"
+        },
+        {
+          "id": "b",
+          "text": "11 years (out of last 14 years, at least 11 including last 12 months)"
+        },
+        {
+          "id": "c",
+          "text": "7 years"
+        },
+        {
+          "id": "d",
+          "text": "10 years ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q34",
+      "question": "For a person married to an Indian citizen, the residence requirement for Naturalisation is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 years"
+        },
+        {
+          "id": "b",
+          "text": "7 years"
+        },
+        {
+          "id": "c",
+          "text": "11 years"
+        },
+        {
+          "id": "d",
+          "text": "3 years ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q35",
+      "question": "Citizenship by Incorporation of Territory means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parliament grants citizenship to newly elected MPs"
+        },
+        {
+          "id": "b",
+          "text": "When a foreign territory is merged with India, its residents become Indian citizens"
+        },
+        {
+          "id": "c",
+          "text": "Citizens of border States get automatic extended citizenship"
+        },
+        {
+          "id": "d",
+          "text": "Persons with property in acquired territories get citizenship ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q36",
+      "question": "Renunciation of citizenship is governed by which Section of the Citizenship Act, 1955?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Section 8"
+        },
+        {
+          "id": "b",
+          "text": "Section 9"
+        },
+        {
+          "id": "c",
+          "text": "Section 10"
+        },
+        {
+          "id": "d",
+          "text": "Section 11 ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q37",
+      "question": "If a person renounces Indian citizenship, the minor children of that person:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Automatically lose citizenship too (Section 8(2))"
+        },
+        {
+          "id": "b",
+          "text": "Retain Indian citizenship until 18"
+        },
+        {
+          "id": "c",
+          "text": "Must separately apply for renunciation"
+        },
+        {
+          "id": "d",
+          "text": "Are unaffected ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q38",
+      "question": "However, under Section 8(2), a minor child who has lost citizenship due to parent's renunciation can resume it:",
+      "options": [
+        {
+          "id": "a",
+          "text": "At 21 years of age"
+        },
+        {
+          "id": "b",
+          "text": "Within 1 year of attaining 18 years"
+        },
+        {
+          "id": "c",
+          "text": "At 25 years"
+        },
+        {
+          "id": "d",
+          "text": "Only if both parents reacquire citizenship ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q39",
+      "question": "Termination of citizenship under Section 9 is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "By government order"
+        },
+        {
+          "id": "b",
+          "text": "Automatic on voluntarily acquiring foreign citizenship"
+        },
+        {
+          "id": "c",
+          "text": "By court judgment"
+        },
+        {
+          "id": "d",
+          "text": "By Parliament's resolution ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q40",
+      "question": "Section 9 termination does NOT apply when India is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Under Emergency"
+        },
+        {
+          "id": "b",
+          "text": "Engaged in a war"
+        },
+        {
+          "id": "c",
+          "text": "Under President's Rule"
+        },
+        {
+          "id": "d",
+          "text": "Having a national disaster ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q41",
+      "question": "Deprivation of citizenship under Section 10 can be done by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "President"
+        },
+        {
+          "id": "b",
+          "text": "Supreme Court"
+        },
+        {
+          "id": "c",
+          "text": "Central Government"
+        },
+        {
+          "id": "d",
+          "text": "Parliament ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q42",
+      "question": "Deprivation under Section 10 does NOT apply to citizenship acquired by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Registration"
+        },
+        {
+          "id": "b",
+          "text": "Naturalisation"
+        },
+        {
+          "id": "c",
+          "text": "Birth"
+        },
+        {
+          "id": "d",
+          "text": "Incorporation of Territory ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q43",
+      "question": "CAA 2019 covers migrants who entered India on or before:",
+      "options": [
+        {
+          "id": "a",
+          "text": "December 31, 2016"
+        },
+        {
+          "id": "b",
+          "text": "December 31, 2014"
+        },
+        {
+          "id": "c",
+          "text": "December 31, 2019"
+        },
+        {
+          "id": "d",
+          "text": "January 1, 2015 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q44",
+      "question": "CAA 2019 reduces the residency requirement for eligible persons to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "11 years"
+        },
+        {
+          "id": "b",
+          "text": "7 years"
+        },
+        {
+          "id": "c",
+          "text": "5 years"
+        },
+        {
+          "id": "d",
+          "text": "3 years ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q45",
+      "question": "The CAA 2019 rules were notified in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "January 2024"
+        },
+        {
+          "id": "b",
+          "text": "March 2024"
+        },
+        {
+          "id": "c",
+          "text": "June 2024"
+        },
+        {
+          "id": "d",
+          "text": "December 2023 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q46",
+      "question": "OCI cardholders are NOT entitled to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lifelong multiple-entry visa"
+        },
+        {
+          "id": "b",
+          "text": "Right to vote in Indian elections"
+        },
+        {
+          "id": "c",
+          "text": "Educational parity with NRIs"
+        },
+        {
+          "id": "d",
+          "text": "Exemption from FRRO registration ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q47",
+      "question": "OCI card was introduced by which amendment to the Citizenship Act?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2003 Amendment"
+        },
+        {
+          "id": "b",
+          "text": "2005 Amendment"
+        },
+        {
+          "id": "c",
+          "text": "2007 Amendment"
+        },
+        {
+          "id": "d",
+          "text": "2010 Amendment ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q48",
+      "question": "OCI card is NOT available to citizens of which country?",
+      "options": [
+        {
+          "id": "a",
+          "text": "USA"
+        },
+        {
+          "id": "b",
+          "text": "UK"
+        },
+        {
+          "id": "c",
+          "text": "Pakistan"
+        },
+        {
+          "id": "d",
+          "text": "Canada > OCI is not available to citizens of Pakistan and Bangladesh. ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q49",
+      "question": "NRC (National Register of Citizens) was first prepared for which State?",
+      "options": [
+        {
+          "id": "a",
+          "text": "West Bengal"
+        },
+        {
+          "id": "b",
+          "text": "Assam"
+        },
+        {
+          "id": "c",
+          "text": "Tripura"
+        },
+        {
+          "id": "d",
+          "text": "Manipur ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q50",
+      "question": "The Assam Accord (1985) fixed which date as the cut-off for detection of illegal immigrants?",
+      "options": [
+        {
+          "id": "a",
+          "text": "January 26, 1950"
+        },
+        {
+          "id": "b",
+          "text": "March 24, 1971"
+        },
+        {
+          "id": "c",
+          "text": "December 31, 1966"
+        },
+        {
+          "id": "d",
+          "text": "August 15, 1947 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q51",
+      "question": "Which amendment to the Citizenship Act, 1955 introduced the concept of illegal migrants?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1986 Amendment"
+        },
+        {
+          "id": "b",
+          "text": "1992 Amendment"
+        },
+        {
+          "id": "c",
+          "text": "2003 Amendment"
+        },
+        {
+          "id": "d",
+          "text": "2005 Amendment ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q52",
+      "question": "According to the Citizenship Act, who is an \"illegal migrant\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A foreigner who enters India without valid documents"
+        },
+        {
+          "id": "b",
+          "text": "Any non-citizen living in India"
+        },
+        {
+          "id": "c",
+          "text": "A person whose visa has expired"
+        },
+        {
+          "id": "d",
+          "text": "A refugee seeking asylum ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q53",
+      "question": "The Foreigners Act, 1946 deals with:",
+      "options": [
+        {
+          "id": "a",
+          "text": "OCI card holders"
+        },
+        {
+          "id": "b",
+          "text": "Detection and deportation of foreigners"
+        },
+        {
+          "id": "c",
+          "text": "Acquisition of citizenship"
+        },
+        {
+          "id": "d",
+          "text": "Rights of NRIs ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q54",
+      "question": "India has signed which UN Convention on Refugees?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1951 Refugee Convention — Actually INCORRECT: India has NOT signed it"
+        },
+        {
+          "id": "b",
+          "text": "India signed the 1967 Protocol"
+        },
+        {
+          "id": "c",
+          "text": "India signed both 1951 and 1967"
+        },
+        {
+          "id": "d",
+          "text": "India has its own refugee law > **Correct Answer: (d) — India has NOT signed the 1951 Refugee Convention** and has no domestic refugee law; it deals with refugees case-by-case. ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q55",
+      "question": "Right to vote in India is available to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "All persons residing in India"
+        },
+        {
+          "id": "b",
+          "text": "OCI cardholders only"
+        },
+        {
+          "id": "c",
+          "text": "Indian citizens only"
+        },
+        {
+          "id": "d",
+          "text": "Persons with valid Aadhaar card ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q56",
+      "question": "Fundamental Rights under Article 15 (no discrimination on grounds of religion, race, caste, sex, place of birth) are available to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "All persons including foreigners"
+        },
+        {
+          "id": "b",
+          "text": "Only citizens"
+        },
+        {
+          "id": "c",
+          "text": "Only persons born in India"
+        },
+        {
+          "id": "d",
+          "text": "Only registered voters ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q57",
+      "question": "Which of the following Fundamental Rights applies to ALL persons (citizens AND foreigners)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 15"
+        },
+        {
+          "id": "b",
+          "text": "Article 16"
+        },
+        {
+          "id": "c",
+          "text": "Article 19"
+        },
+        {
+          "id": "d",
+          "text": "Article 21 ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q58",
+      "question": "The right to hold constitutional offices like President, Vice-President is restricted to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Citizens by birth only"
+        },
+        {
+          "id": "b",
+          "text": "Indian citizens only (not OCI)"
+        },
+        {
+          "id": "c",
+          "text": "Citizens born in India or with Indian parents"
+        },
+        {
+          "id": "d",
+          "text": "Citizens above 35 years ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q59",
+      "question": "Which Article says citizenship rights shall continue subject to Parliament's law?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 8"
+        },
+        {
+          "id": "b",
+          "text": "Article 9"
+        },
+        {
+          "id": "c",
+          "text": "Article 10"
+        },
+        {
+          "id": "d",
+          "text": "Article 11 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q60",
+      "question": "A person of Indian origin who wants to register under Article 8 must register with:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indian Embassy or Consulate abroad"
+        },
+        {
+          "id": "b",
+          "text": "Home Ministry"
+        },
+        {
+          "id": "c",
+          "text": "Election Commission"
+        },
+        {
+          "id": "d",
+          "text": "FRRO in India ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q61",
+      "question": "The Citizenship Act 1955 was amended how many times as of 2019?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Four"
+        },
+        {
+          "id": "b",
+          "text": "Five"
+        },
+        {
+          "id": "c",
+          "text": "Six (1986, 1992, 2003, 2005, 2015, 2019)"
+        },
+        {
+          "id": "d",
+          "text": "Seven ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q62",
+      "question": "The 1992 amendment to the Citizenship Act extended citizenship by descent to persons born to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Indian fathers"
+        },
+        {
+          "id": "b",
+          "text": "Either Indian father OR Indian mother"
+        },
+        {
+          "id": "c",
+          "text": "Both Indian parents"
+        },
+        {
+          "id": "d",
+          "text": "Hindu parents only ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q63",
+      "question": "Aadhaar card is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Proof of citizenship — INCORRECT: Aadhaar is NOT proof of citizenship"
+        },
+        {
+          "id": "b",
+          "text": "Proof of identity and residence, NOT citizenship"
+        },
+        {
+          "id": "c",
+          "text": "Equivalent to a passport"
+        },
+        {
+          "id": "d",
+          "text": "A document issued by Election Commission > **Correct: (b)** The Aadhaar Act explicitly states it is not proof of citizenship. ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q64",
+      "question": "Which Article of the Constitution is the source of the Citizenship Act, 1955?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 9"
+        },
+        {
+          "id": "b",
+          "text": "Article 10"
+        },
+        {
+          "id": "c",
+          "text": "Article 11"
+        },
+        {
+          "id": "d",
+          "text": "Article 5 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q65",
+      "question": "The Citizenship Act, 1955 applies to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only those born after 1955"
+        },
+        {
+          "id": "b",
+          "text": "Matters of citizenship after the commencement of the Constitution"
+        },
+        {
+          "id": "c",
+          "text": "All historical citizenship claims"
+        },
+        {
+          "id": "d",
+          "text": "Only registered citizens ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q66",
+      "question": "Which Constitutional provision says citizenship Articles shall not affect citizens who have already been granted rights?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 9"
+        },
+        {
+          "id": "b",
+          "text": "Article 10"
+        },
+        {
+          "id": "c",
+          "text": "Article 11"
+        },
+        {
+          "id": "d",
+          "text": "Article 10 read with Article 11 ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q67",
+      "question": "Under CAA 2019, eligible migrants are exempted from which section?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Section 2(1)(b) — definition of illegal migrants"
+        },
+        {
+          "id": "b",
+          "text": "Section 5 — Registration"
+        },
+        {
+          "id": "c",
+          "text": "Section 8 — Renunciation"
+        },
+        {
+          "id": "d",
+          "text": "Section 10 — Deprivation ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q68",
+      "question": "Overseas Citizenship of India (OCI) holder can purchase:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agricultural land in India"
+        },
+        {
+          "id": "b",
+          "text": "Plantation land in India"
+        },
+        {
+          "id": "c",
+          "text": "Residential and commercial property in India"
+        },
+        {
+          "id": "d",
+          "text": "Forest land in India ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q69",
+      "question": "Which former constitutional provision dealt with citizenship of migrants to Pakistan who returned?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 5"
+        },
+        {
+          "id": "b",
+          "text": "Article 6"
+        },
+        {
+          "id": "c",
+          "text": "Article 7"
+        },
+        {
+          "id": "d",
+          "text": "Article 8 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "CIT-Q70",
+      "question": "Pravasi Bharatiya Divas is celebrated on:",
+      "options": [
+        {
+          "id": "a",
+          "text": "January 9 (to mark Gandhiji's return from South Africa in 1915)"
+        },
+        {
+          "id": "b",
+          "text": "January 26"
+        },
+        {
+          "id": "c",
+          "text": "August 15"
+        },
+        {
+          "id": "d",
+          "text": "November 19 --- ## 🔴 SECTION C — HARD (Q71–100) *Statement-based, Assertion-Reason, case laws, tricky interpretations* ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q71",
+      "question": "Consider the following statements about Article 5: 1. It requires domicile in India on the date of commencement of Constitution. 2. It requires either birth in India OR birth of either parent in India OR ordinary residence for 5 years. 3. Both conditions (domicile + one of the three) must be satisfied. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "All three"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3 only ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q72",
+      "question": "Assertion (A): India does not recognise dual citizenship. Reason (R): Article 9 provides that voluntarily acquiring foreign citizenship automatically ends Indian citizenship.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R are true and R correctly explains A"
+        },
+        {
+          "id": "b",
+          "text": "Both are true but R does not explain A"
+        },
+        {
+          "id": "c",
+          "text": "A is true, R is false"
+        },
+        {
+          "id": "d",
+          "text": "A is false, R is true ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q73",
+      "question": "Under the Citizenship Act, 1955, which ground is NOT a valid ground for Deprivation under Section 10?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The citizen showed disloyalty to the Constitution"
+        },
+        {
+          "id": "b",
+          "text": "The citizen assisted an enemy during war"
+        },
+        {
+          "id": "c",
+          "text": "The citizen obtained citizenship by fraud"
+        },
+        {
+          "id": "d",
+          "text": "The citizen migrated abroad for employment ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q74",
+      "question": "Consider these statements about OCI: 1. OCI holders enjoy voting rights in local body elections. 2. OCI holders can hold the post of Chief Election Commissioner. 3. OCI holders need a visa to visit India. 4. OCI holders get lifelong multiple-entry visa. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 4"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4 ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q75",
+      "question": "In the case of **Izhar Ahmad Khan v. Union of India (1962)**, the Supreme Court interpreted which Articles?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Articles 5 and 6"
+        },
+        {
+          "id": "b",
+          "text": "Articles 6 and 7"
+        },
+        {
+          "id": "c",
+          "text": "Articles 7 and 8"
+        },
+        {
+          "id": "d",
+          "text": "Articles 5 and 9 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q76",
+      "question": "Consider statements about the CAA 2019: 1. It covers only Hindus from Pakistan, Afghanistan, Bangladesh. 2. It covers six religious minorities — Hindu, Sikh, Buddhist, Jain, Parsi, Christian. 3. The cut-off date is December 31, 2014. 4. The applicants must have entered India legally. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3 ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q77",
+      "question": "The constitutional challenge to CAA 2019 is primarily based on violation of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 14 (Right to Equality)"
+        },
+        {
+          "id": "b",
+          "text": "Article 19 (Freedom of Speech)"
+        },
+        {
+          "id": "c",
+          "text": "Article 21 (Right to Life)"
+        },
+        {
+          "id": "d",
+          "text": "Article 25 (Freedom of Religion) ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q78",
+      "question": "Assertion (A): Articles 5–11 of the Constitution are of permanent nature. Reason (R): These Articles define citizenship at the commencement and leave all further regulation to Parliament under Article 11.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A is true, R is false"
+        },
+        {
+          "id": "b",
+          "text": "A is false, R is true"
+        },
+        {
+          "id": "c",
+          "text": "Both A and R are true"
+        },
+        {
+          "id": "d",
+          "text": "Both are false > Articles 5–11 are essentially transitional — they settled citizenship at commencement (Jan 26, 1950). Permanent regulation is by Parliament's law (Citizenship Act, 1955). ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q79",
+      "question": "Which of the following is CORRECT about citizenship by Registration under Section 5 of Citizenship Act? 1. Persons of Indian origin ordinarily resident in India for 7 years are eligible. 2. Persons married to Indian citizens for 7 years are eligible. 3. Minor children of Indian citizens can be registered.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "All three ---"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q80",
+      "question": "Under Section 6 (Naturalisation), a person is NOT granted citizenship if:",
+      "options": [
+        {
+          "id": "a",
+          "text": "They don't speak one of the 8th Schedule languages"
+        },
+        {
+          "id": "b",
+          "text": "They have lived in India for 11 years"
+        },
+        {
+          "id": "c",
+          "text": "They apply in writing to the Central Government"
+        },
+        {
+          "id": "d",
+          "text": "They are willing to renounce previous citizenship ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q81",
+      "question": "Consider: \"A person born in India on January 26, 1950 to parents who were both citizens of Pakistan.\" Under Article 5, this person:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is an Indian citizen because they were born in India (birth in India satisfies Article 5)"
+        },
+        {
+          "id": "b",
+          "text": "Is NOT a citizen because parents are Pakistani"
+        },
+        {
+          "id": "c",
+          "text": "Gets citizenship only after registration"
+        },
+        {
+          "id": "d",
+          "text": "Gets citizenship only if they stay in India for 5 years ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q82",
+      "question": "The concept of \"stateless person\" arises when:",
+      "options": [
+        {
+          "id": "a",
+          "text": "A person loses Indian citizenship without acquiring another"
+        },
+        {
+          "id": "b",
+          "text": "A person is denied citizenship by both the country of origin and country of residence"
+        },
+        {
+          "id": "c",
+          "text": "An NRI stays abroad for more than 10 years"
+        },
+        {
+          "id": "d",
+          "text": "An OCI card is revoked ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q83",
+      "question": "Which Section of the Citizenship Act, 1955 deals with OCI?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Section 5"
+        },
+        {
+          "id": "b",
+          "text": "Section 6"
+        },
+        {
+          "id": "c",
+          "text": "Section 7A"
+        },
+        {
+          "id": "d",
+          "text": "Section 8 ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q84",
+      "question": "An OCI card can be cancelled by the Central Government if:",
+      "options": [
+        {
+          "id": "a",
+          "text": "OCI holder stays in India for more than 180 days"
+        },
+        {
+          "id": "b",
+          "text": "OCI holder shows disaffection towards the Constitution of India"
+        },
+        {
+          "id": "c",
+          "text": "OCI holder buys property in India"
+        },
+        {
+          "id": "d",
+          "text": "OCI holder contests a municipal election ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q85",
+      "question": "Consider statements about loss of citizenship: 1. Renunciation is voluntary surrender by the citizen. 2. Termination is automatic on acquiring foreign citizenship. 3. Deprivation is compulsory removal by the government. 4. All three apply equally to citizens by birth, registration, and naturalisation. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 (Statement 4 is WRONG — Deprivation does not apply to citizens by birth)"
+        },
+        {
+          "id": "b",
+          "text": "All four"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4 ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q86",
+      "question": "In which case did the Supreme Court hold that even illegal migrants cannot be deported without due process under Article 21?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sarbananda Sonowal v. Union of India"
+        },
+        {
+          "id": "b",
+          "text": "Louis De Raedt v. Union of India"
+        },
+        {
+          "id": "c",
+          "text": "Izhar Ahmad Khan v. Union of India"
+        },
+        {
+          "id": "d",
+          "text": "PUCL v. Union of India ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q87",
+      "question": "The Sarbananda Sonowal v. Union of India (2005) case led to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cancellation of CAA"
+        },
+        {
+          "id": "b",
+          "text": "Striking down of the Illegal Migrants (Determination by Tribunals) Act, 1983"
+        },
+        {
+          "id": "c",
+          "text": "NRC implementation across India"
+        },
+        {
+          "id": "d",
+          "text": "Extension of OCI rights ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q88",
+      "question": "Match the following Articles with their subject matter: | Article Subject | | | ---------------- | -------------------------------------------- | | A. Article 5 | 1. Rights of persons of Indian origin abroad | | B. Article 7 | 2. Citizenship by domicile at commencement | | C. Article 8 | 3. Migration to Pakistan and return | | D. Article 10 | 4. Continuance of citizenship rights | Correct match:",
+      "options": [
+        {
+          "id": "a",
+          "text": "A-2, B-3, C-1, D-4"
+        },
+        {
+          "id": "b",
+          "text": "A-1, B-2, C-3, D-4"
+        },
+        {
+          "id": "c",
+          "text": "A-2, B-1, C-3, D-4"
+        },
+        {
+          "id": "d",
+          "text": "A-3, B-2, C-1, D-4 ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q89",
+      "question": "Which of the following CANNOT be held by an OCI cardholder?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Post of a doctor in a private hospital"
+        },
+        {
+          "id": "b",
+          "text": "Post of President of India"
+        },
+        {
+          "id": "c",
+          "text": "Proprietor of a business"
+        },
+        {
+          "id": "d",
+          "text": "University faculty position ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q90",
+      "question": "Consider: A person was born in India in 1960. His father was born in undivided India (now Pakistan) in 1920. His mother was a foreign national. Is he an Indian citizen under Article 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, because he was born in India"
+        },
+        {
+          "id": "b",
+          "text": "No, because his mother was a foreign national"
+        },
+        {
+          "id": "c",
+          "text": "Yes, because his father was born in India"
+        },
+        {
+          "id": "d",
+          "text": "No, because his father is from Pakistan > Article 5 grants citizenship to anyone born in India at commencement regardless of parents' origin, as long as they have domicile in India. ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q91",
+      "question": "A woman who was an Indian citizen married a foreign national. Under the original Citizenship Act, she:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Automatically lost citizenship"
+        },
+        {
+          "id": "b",
+          "text": "Could retain citizenship if she didn't acquire husband's citizenship"
+        },
+        {
+          "id": "c",
+          "text": "Had to reregister as a citizen"
+        },
+        {
+          "id": "d",
+          "text": "Automatically became a citizen of her husband's country ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q92",
+      "question": "Consider statements about the NRC: 1. NRC was prepared for Assam under the Supreme Court's supervision. 2. NRC is mandated by the Citizenship Act, 2003 amendment. 3. Those excluded from NRC are automatically deported. 4. NRC for Assam uses March 24, 1971 as the cut-off date. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, and 4"
+        },
+        {
+          "id": "b",
+          "text": "All four"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4 ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q93",
+      "question": "Assertion (A): Articles 5–11 are not truly fundamental rights, even though they relate to citizenship. Reason (R): They are placed in Part II, not Part III of the Constitution.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R are true and R correctly explains A"
+        },
+        {
+          "id": "b",
+          "text": "Both are true but R does not explain A"
+        },
+        {
+          "id": "c",
+          "text": "A is true, R is false"
+        },
+        {
+          "id": "d",
+          "text": "A is false, R is true ---"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q94",
+      "question": "The cut-off date under Article 6 (migration from Pakistan) was July 19, 1948 because:",
+      "options": [
+        {
+          "id": "a",
+          "text": "India–Pakistan war began on this date"
+        },
+        {
+          "id": "b",
+          "text": "The Government began requiring permits for entry from Pakistan on this date"
+        },
+        {
+          "id": "c",
+          "text": "India became a Republic on this date"
+        },
+        {
+          "id": "d",
+          "text": "The Constituent Assembly adopted this date by resolution ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q95",
+      "question": "Which of the following is INCORRECT about Citizenship by Naturalisation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The applicant must renounce previous citizenship"
+        },
+        {
+          "id": "b",
+          "text": "The Central Government may waive the residence requirement for persons of Indian origin"
+        },
+        {
+          "id": "c",
+          "text": "It is available only to non-Commonwealth citizens (INCORRECT — Commonwealth distinction was removed)"
+        },
+        {
+          "id": "d",
+          "text": "The applicant must intend to remain in India ---"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q96",
+      "question": "Under Article 7, a person who migrated to Pakistan BEFORE March 1, 1947 and came back:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is deemed a citizen automatically"
+        },
+        {
+          "id": "b",
+          "text": "Is treated under Article 6 (migrant from Pakistan)"
+        },
+        {
+          "id": "c",
+          "text": "Is not entitled to citizenship"
+        },
+        {
+          "id": "d",
+          "text": "Must apply under Article 8 > Persons who went to Pakistan before March 1, 1947 and returned fall under Article 6 provisions. ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q97",
+      "question": "Consider: \"A person holds Indian citizenship. He voluntarily applies for and receives US citizenship in 2022. India is not at war.\" What happens to his Indian citizenship?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He can retain both citizenships as India allows dual citizenship"
+        },
+        {
+          "id": "b",
+          "text": "His Indian citizenship terminates automatically under Section 9"
+        },
+        {
+          "id": "c",
+          "text": "He must formally surrender Indian citizenship first"
+        },
+        {
+          "id": "d",
+          "text": "His Indian citizenship is suspended for 5 years ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q98",
+      "question": "Consider statements about CAA 2019 and NRC: 1. CAA and NRC are constitutionally linked and must be implemented together. 2. NRC is a nationwide exercise mandated by the 2003 Citizenship Amendment. 3. CAA specifically exempts certain persons from being treated as illegal migrants. 4. CAA applies to non-Muslim minorities from three specified countries. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "All four > CAA and NRC are legally separate instruments, not constitutionally linked. ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q99",
+      "question": "A child born OUTSIDE India after December 3, 2004 to Indian parents:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Automatically gets Indian citizenship by descent"
+        },
+        {
+          "id": "b",
+          "text": "Gets citizenship only if registered at Indian consulate within 1 year"
+        },
+        {
+          "id": "c",
+          "text": "Is not eligible for Indian citizenship"
+        },
+        {
+          "id": "d",
+          "text": "Gets citizenship at 18 on application ---"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "CIT-Q100",
+      "question": "Which of the following BEST describes India's citizenship model?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jus Soli (right of soil) — birth in India guarantees citizenship"
+        },
+        {
+          "id": "b",
+          "text": "Jus Sanguinis (right of blood) — parentage determines citizenship"
+        },
+        {
+          "id": "c",
+          "text": "Mixed model — originally Jus Soli, now moving towards Jus Sanguinis after 1986 and 2003 amendments"
+        },
+        {
+          "id": "d",
+          "text": "Naturalisation-based — only through application --- ## 📊 Complete Answer Key | Q Ans Q Ans Q Ans Q Ans | | | | | | | | | ------------------------ | - | -- | - | -- | - | --- | - | | 1 | b | 26 | b | 51 | c | 76 | b | | 2 | b | 27 | a | 52 | a | 77 | a | | 3 | c | 28 | a | 53 | b | 78 | b | | 4 | b | 29 | a | 54 | d | 79 | d | | 5 | c | 30 | a | 55 | c | 80 | a | | 6 | c | 31 | b | 56 | b | 81 | a | | 7 | b | 32 | a | 57 | d | 82 | b | | 8 | c | 33 | b | 58 | b | 83 | c | | 9 | b | 34 | a | 59 | c | 84 | b | | 10 | b | 35 | b | 60 | a | 85 | a | | 11 | a | 36 | a | 61 | c | 86 | b | | 12 | c | 37 | a | 62 | b | 87 | b | | 13 | c | 38 | b | 63 | b | 88 | a | | 14 | b | 39 | b | 64 | c | 89 | b | | 15 | c | 40 | b | 65 | b | 90 | a | | 16 | c | 41 | c | 66 | d | 91 | b | | 17 | b | 42 | c | 67 | a | 92 | a | | 18 | b | 43 | b | 68 | c | 93 | a | | 19 | b | 44 | c | 69 | c | 94 | b | | 20 | c | 45 | b | 70 | a | 95 | c | | 21 | b | 46 | b | 71 | c | 96 | b | | 22 | b | 47 | a | 72 | a | 97 | b | | 23 | b | 48 | c | 73 | d | 98 | b | | 24 | b | 49 | b | 74 | a | 99 | b | | 25 | b | 50 | b | 75 | b | 100 | c | --- ## 🔑 Master Revision Table | Article / Section Subject | | | -------------------------- | ---------------------------------------------------------- | | **Art. 5** | Citizenship by domicile at commencement | | **Art. 6** | Migrants FROM Pakistan (before/after July 19, 1948) | | **Art. 7** | Migrants TO Pakistan who returned | | **Art. 8** | Persons of Indian origin abroad | | **Art. 9** | Voluntary foreign citizenship = loss of Indian citizenship | | **Art. 10** | Continuance of citizenship | | **Art. 11** | Parliament's power to legislate on citizenship | | **Sec. 5** | Citizenship by Registration | | **Sec. 6** | Citizenship by Naturalisation (11 years) | | **Sec. 7A** | OCI card | | **Sec. 8** | Renunciation | | **Sec. 9** | Termination (automatic) | | **Sec. 10** | Deprivation (by Govt; NOT for citizens by birth) | --- > 💡 **RO/ARO High-Yield Tips:** > > - **Article 6 cut-off date = July 19, 1948** (most frequently asked) > - **Deprivation ≠ applies to citizens by birth** (classic trap) > - **Section 9 termination is AUTOMATIC** — no govt order needed > - **OCI ≠ citizenship** — cannot vote, cannot hold constitutional office > - **CAA 2019 cut-off = December 31, 2014** > - **Aadhaar is NOT proof of citizenship** > - **India = single citizenship** unlike USA (dual — federal + state)"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard"
+    }
+  ]
+}
