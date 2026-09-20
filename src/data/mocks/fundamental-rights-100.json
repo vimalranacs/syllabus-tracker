@@ -1,0 +1,2429 @@
+{
+  "mockId": "fundamental-rights-100",
+  "title": "Fundamental Rights",
+  "category": "Indian Polity",
+  "description": "100 MCQs (40 easy, 40 moderate, 20 hard) on Fundamental Rights: Articles 12-35, Right to Equality, Freedoms, Life and Liberty, Religion, Culture, Constitutional Remedies and landmark cases, with source-provided explanations where available.",
+  "secondsPerQuestion": 51,
+  "tags": [
+    "polity",
+    "fundamental-rights",
+    "prelims"
+  ],
+  "questions": [
+    {
+      "id": "FR-Q1",
+      "question": "Fundamental Rights are enshrined in which Part of the Indian Constitution?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Part II"
+        },
+        {
+          "id": "b",
+          "text": "Part III"
+        },
+        {
+          "id": "c",
+          "text": "Part IV"
+        },
+        {
+          "id": "d",
+          "text": "Part I"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy",
+      "explanation": "Art. 12–35 = Part III"
+    },
+    {
+      "id": "FR-Q2",
+      "question": "Which Articles cover Fundamental Rights?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Articles 12–35"
+        },
+        {
+          "id": "b",
+          "text": "Articles 5–11"
+        },
+        {
+          "id": "c",
+          "text": "Articles 36–51"
+        },
+        {
+          "id": "d",
+          "text": "Articles 1–4"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q3",
+      "question": "How many Fundamental Rights are currently guaranteed by the Indian Constitution?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seven"
+        },
+        {
+          "id": "b",
+          "text": "Six"
+        },
+        {
+          "id": "c",
+          "text": "Eight"
+        },
+        {
+          "id": "d",
+          "text": "Five"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy",
+      "explanation": "Right to Property was removed as a Fundamental Right by the 44th Amendment, 1978."
+    },
+    {
+      "id": "FR-Q4",
+      "question": "Right to Property was removed from Fundamental Rights by which Amendment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "42nd Amendment"
+        },
+        {
+          "id": "b",
+          "text": "44th Amendment"
+        },
+        {
+          "id": "c",
+          "text": "46th Amendment"
+        },
+        {
+          "id": "d",
+          "text": "24th Amendment"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q5",
+      "question": "Right to Equality is covered under which Articles?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Articles 14–18"
+        },
+        {
+          "id": "b",
+          "text": "Articles 19–22"
+        },
+        {
+          "id": "c",
+          "text": "Articles 23–24"
+        },
+        {
+          "id": "d",
+          "text": "Articles 25–28"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q6",
+      "question": "Article 14 guarantees:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Right to Freedom of Speech"
+        },
+        {
+          "id": "b",
+          "text": "Equality before law and equal protection of laws"
+        },
+        {
+          "id": "c",
+          "text": "Right against exploitation"
+        },
+        {
+          "id": "d",
+          "text": "Cultural and educational rights"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q7",
+      "question": "Article 19 guarantees how many freedoms?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Five"
+        },
+        {
+          "id": "b",
+          "text": "Eight"
+        },
+        {
+          "id": "c",
+          "text": "Six"
+        },
+        {
+          "id": "d",
+          "text": "Seven"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy",
+      "explanation": "Originally 7; Right to acquire property under Article 19(1)(f) was removed by the 44th Amendment."
+    },
+    {
+      "id": "FR-Q8",
+      "question": "Right to Life and Personal Liberty is guaranteed under:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 19"
+        },
+        {
+          "id": "b",
+          "text": "Article 20"
+        },
+        {
+          "id": "c",
+          "text": "Article 21"
+        },
+        {
+          "id": "d",
+          "text": "Article 22"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q9",
+      "question": "Article 21A (Right to Education) was added by which Amendment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "44th Amendment"
+        },
+        {
+          "id": "b",
+          "text": "86th Amendment"
+        },
+        {
+          "id": "c",
+          "text": "42nd Amendment"
+        },
+        {
+          "id": "d",
+          "text": "73rd Amendment"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q10",
+      "question": "The Right to Education under Article 21A is free and compulsory for children of age:",
+      "options": [
+        {
+          "id": "a",
+          "text": "5–14 years"
+        },
+        {
+          "id": "b",
+          "text": "6–14 years"
+        },
+        {
+          "id": "c",
+          "text": "6–18 years"
+        },
+        {
+          "id": "d",
+          "text": "5–16 years"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q11",
+      "question": "Article 32 is called the \"Heart and Soul of the Constitution\" by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "b",
+          "text": "Sardar Patel"
+        },
+        {
+          "id": "c",
+          "text": "B.R. Ambedkar"
+        },
+        {
+          "id": "d",
+          "text": "Rajendra Prasad"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q12",
+      "question": "Article 32 gives the right to move the Supreme Court for enforcement of Fundamental Rights. This right itself is a:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Directive Principle"
+        },
+        {
+          "id": "b",
+          "text": "Fundamental Right"
+        },
+        {
+          "id": "c",
+          "text": "Fundamental Duty"
+        },
+        {
+          "id": "d",
+          "text": "Constitutional Right"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q13",
+      "question": "Which writ is issued to release a person from illegal detention?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mandamus"
+        },
+        {
+          "id": "b",
+          "text": "Certiorari"
+        },
+        {
+          "id": "c",
+          "text": "Habeas Corpus"
+        },
+        {
+          "id": "d",
+          "text": "Quo Warranto"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q14",
+      "question": "Article 15 prohibits discrimination on grounds of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Religion, Race, Caste, Sex, Place of Birth"
+        },
+        {
+          "id": "b",
+          "text": "Religion, Language, Caste, Colour, Region"
+        },
+        {
+          "id": "c",
+          "text": "Caste, Creed, Race, Language, Sex"
+        },
+        {
+          "id": "d",
+          "text": "Religion, Wealth, Caste, Sex, Education"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q15",
+      "question": "Article 16 provides for equality of opportunity in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Education"
+        },
+        {
+          "id": "b",
+          "text": "Public employment"
+        },
+        {
+          "id": "c",
+          "text": "Trade and business"
+        },
+        {
+          "id": "d",
+          "text": "Elections"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q16",
+      "question": "Article 17 abolishes:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Child labour"
+        },
+        {
+          "id": "b",
+          "text": "Human trafficking"
+        },
+        {
+          "id": "c",
+          "text": "Untouchability"
+        },
+        {
+          "id": "d",
+          "text": "Bonded labour"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q17",
+      "question": "Article 18 abolishes:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Untouchability"
+        },
+        {
+          "id": "b",
+          "text": "Titles"
+        },
+        {
+          "id": "c",
+          "text": "Forced labour"
+        },
+        {
+          "id": "d",
+          "text": "Child labour"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q18",
+      "question": "Article 19(1)(a) guarantees:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Freedom of Movement"
+        },
+        {
+          "id": "b",
+          "text": "Freedom of Speech and Expression"
+        },
+        {
+          "id": "c",
+          "text": "Freedom to Assemble"
+        },
+        {
+          "id": "d",
+          "text": "Freedom of Profession"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q19",
+      "question": "Article 20 provides protection in respect of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arbitrary arrest"
+        },
+        {
+          "id": "b",
+          "text": "Conviction for offences"
+        },
+        {
+          "id": "c",
+          "text": "Freedom of religion"
+        },
+        {
+          "id": "d",
+          "text": "Right to life"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q20",
+      "question": "Article 23 prohibits:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Child labour"
+        },
+        {
+          "id": "b",
+          "text": "Untouchability"
+        },
+        {
+          "id": "c",
+          "text": "Traffic in human beings and forced labour"
+        },
+        {
+          "id": "d",
+          "text": "Titles and awards"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q21",
+      "question": "Article 24 prohibits employment of children below which age in factories and hazardous jobs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12 years"
+        },
+        {
+          "id": "b",
+          "text": "14 years"
+        },
+        {
+          "id": "c",
+          "text": "16 years"
+        },
+        {
+          "id": "d",
+          "text": "18 years"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q22",
+      "question": "Freedom of Religion is covered under Articles:",
+      "options": [
+        {
+          "id": "a",
+          "text": "19–22"
+        },
+        {
+          "id": "b",
+          "text": "23–24"
+        },
+        {
+          "id": "c",
+          "text": "25–28"
+        },
+        {
+          "id": "d",
+          "text": "29–30"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q23",
+      "question": "Article 25 guarantees:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Right to establish religious institutions"
+        },
+        {
+          "id": "b",
+          "text": "Freedom of conscience and free profession, practice and propagation of religion"
+        },
+        {
+          "id": "c",
+          "text": "Right to manage religious affairs"
+        },
+        {
+          "id": "d",
+          "text": "Freedom from religious taxation"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q24",
+      "question": "Cultural and Educational Rights are covered under Articles:",
+      "options": [
+        {
+          "id": "a",
+          "text": "25–28"
+        },
+        {
+          "id": "b",
+          "text": "29–30"
+        },
+        {
+          "id": "c",
+          "text": "31–32"
+        },
+        {
+          "id": "d",
+          "text": "23–24"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q25",
+      "question": "Article 29 protects the rights of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Majority communities"
+        },
+        {
+          "id": "b",
+          "text": "Any section of citizens having distinct language, script, or culture"
+        },
+        {
+          "id": "c",
+          "text": "Only religious minorities"
+        },
+        {
+          "id": "d",
+          "text": "Linguistic minorities only"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q26",
+      "question": "Article 30 gives minorities the right to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Practise religion freely"
+        },
+        {
+          "id": "b",
+          "text": "Establish and administer educational institutions"
+        },
+        {
+          "id": "c",
+          "text": "Reserve jobs for their community"
+        },
+        {
+          "id": "d",
+          "text": "Get government funding mandatorily"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q27",
+      "question": "Fundamental Rights can be suspended during:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Natural disasters"
+        },
+        {
+          "id": "b",
+          "text": "National Emergency (Article 352)"
+        },
+        {
+          "id": "c",
+          "text": "President's Rule"
+        },
+        {
+          "id": "d",
+          "text": "Financial Emergency"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q28",
+      "question": "Which Article empowers High Courts to issue writs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 32"
+        },
+        {
+          "id": "b",
+          "text": "Article 226"
+        },
+        {
+          "id": "c",
+          "text": "Article 142"
+        },
+        {
+          "id": "d",
+          "text": "Article 136"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q29",
+      "question": "The writ of Mandamus is issued to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Produce a detained person"
+        },
+        {
+          "id": "b",
+          "text": "Command a public authority to perform its duty"
+        },
+        {
+          "id": "c",
+          "text": "Transfer a case to a higher court"
+        },
+        {
+          "id": "d",
+          "text": "Inquire into legality of a person's appointment"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q30",
+      "question": "Article 13 declares that:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fundamental Rights are absolute"
+        },
+        {
+          "id": "b",
+          "text": "Laws inconsistent with Fundamental Rights are void"
+        },
+        {
+          "id": "c",
+          "text": "Parliament can suspend Fundamental Rights anytime"
+        },
+        {
+          "id": "d",
+          "text": "State can make any law if justified"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q31",
+      "question": "\"State\" as defined in Article 12 includes:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Central and State Governments"
+        },
+        {
+          "id": "b",
+          "text": "Government and Parliament of India, State Governments and Legislatures, and all local/other authorities"
+        },
+        {
+          "id": "c",
+          "text": "Only Parliament and State Legislatures"
+        },
+        {
+          "id": "d",
+          "text": "Central Government and Supreme Court"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q32",
+      "question": "Right against Exploitation covers Articles:",
+      "options": [
+        {
+          "id": "a",
+          "text": "14–18"
+        },
+        {
+          "id": "b",
+          "text": "19–22"
+        },
+        {
+          "id": "c",
+          "text": "23–24"
+        },
+        {
+          "id": "d",
+          "text": "25–28"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q33",
+      "question": "Which Fundamental Right was described as the \"cornerstone of the democratic edifice\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 14"
+        },
+        {
+          "id": "b",
+          "text": "Article 19"
+        },
+        {
+          "id": "c",
+          "text": "Article 21"
+        },
+        {
+          "id": "d",
+          "text": "Article 32"
+        }
+      ],
+      "correctOption": "d",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q34",
+      "question": "The Protection of Civil Rights Act, 1955 was enacted to enforce which Article?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 15"
+        },
+        {
+          "id": "b",
+          "text": "Article 16"
+        },
+        {
+          "id": "c",
+          "text": "Article 17"
+        },
+        {
+          "id": "d",
+          "text": "Article 18"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q35",
+      "question": "Article 22 provides protection against:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Double jeopardy"
+        },
+        {
+          "id": "b",
+          "text": "Arbitrary arrest and detention"
+        },
+        {
+          "id": "c",
+          "text": "Forced labour"
+        },
+        {
+          "id": "d",
+          "text": "Self-incrimination"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q36",
+      "question": "Fundamental Rights are:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Absolute and cannot be restricted"
+        },
+        {
+          "id": "b",
+          "text": "Justiciable and enforceable by courts"
+        },
+        {
+          "id": "c",
+          "text": "Non-justiciable like DPSPs"
+        },
+        {
+          "id": "d",
+          "text": "Available only to citizens of India"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q37",
+      "question": "The writ of Certiorari is issued to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Release a detained person"
+        },
+        {
+          "id": "b",
+          "text": "Quash an order of a lower court or tribunal"
+        },
+        {
+          "id": "c",
+          "text": "Perform a public duty"
+        },
+        {
+          "id": "d",
+          "text": "Inquire into legality of appointment"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q38",
+      "question": "Which Article deals with the right to constitutional remedies?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 19"
+        },
+        {
+          "id": "b",
+          "text": "Article 21"
+        },
+        {
+          "id": "c",
+          "text": "Article 32"
+        },
+        {
+          "id": "d",
+          "text": "Article 44"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q39",
+      "question": "Article 20(2) protects against:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Self-incrimination"
+        },
+        {
+          "id": "b",
+          "text": "Ex post facto laws"
+        },
+        {
+          "id": "c",
+          "text": "Double jeopardy"
+        },
+        {
+          "id": "d",
+          "text": "Arbitrary detention"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q40",
+      "question": "Which Article specifically says no person shall be compelled to be a witness against himself?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 20(1)"
+        },
+        {
+          "id": "b",
+          "text": "Article 20(2)"
+        },
+        {
+          "id": "c",
+          "text": "Article 20(3)"
+        },
+        {
+          "id": "d",
+          "text": "Article 22"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Easy"
+    },
+    {
+      "id": "FR-Q41",
+      "question": "Article 14 uses twin concepts — \"Equality before Law\" is borrowed from:",
+      "options": [
+        {
+          "id": "a",
+          "text": "American Constitution"
+        },
+        {
+          "id": "b",
+          "text": "British Common Law"
+        },
+        {
+          "id": "c",
+          "text": "Irish Constitution"
+        },
+        {
+          "id": "d",
+          "text": "Canadian Constitution"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q42",
+      "question": "\"Equal Protection of Laws\" in Article 14 is taken from:",
+      "options": [
+        {
+          "id": "a",
+          "text": "British Constitution"
+        },
+        {
+          "id": "b",
+          "text": "Irish Constitution"
+        },
+        {
+          "id": "c",
+          "text": "American Constitution"
+        },
+        {
+          "id": "d",
+          "text": "Australian Constitution"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q43",
+      "question": "The doctrine of \"Reasonable Classification\" under Article 14 requires:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Classification based on religion only"
+        },
+        {
+          "id": "b",
+          "text": "Intelligible differentia + rational nexus with the object of the law"
+        },
+        {
+          "id": "c",
+          "text": "Classification approved by Parliament"
+        },
+        {
+          "id": "d",
+          "text": "Equal treatment of all without any distinction"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q44",
+      "question": "Article 15(3) allows the State to make special provisions for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Scheduled Castes and Tribes"
+        },
+        {
+          "id": "b",
+          "text": "Women and Children"
+        },
+        {
+          "id": "c",
+          "text": "Religious minorities"
+        },
+        {
+          "id": "d",
+          "text": "Economically backward classes"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q45",
+      "question": "The 93rd Constitutional Amendment added which clause to Article 15?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 15(4)"
+        },
+        {
+          "id": "b",
+          "text": "Article 15(5)"
+        },
+        {
+          "id": "c",
+          "text": "Article 15(6)"
+        },
+        {
+          "id": "d",
+          "text": "Article 15(3)"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate",
+      "explanation": "Article 15(5) allows reservation in private unaided educational institutions for OBCs, SCs and STs."
+    },
+    {
+      "id": "FR-Q46",
+      "question": "The 103rd Constitutional Amendment (2019) added Article 15(6) and 16(6) to provide reservation for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "OBCs"
+        },
+        {
+          "id": "b",
+          "text": "SCs and STs"
+        },
+        {
+          "id": "c",
+          "text": "EWS (Economically Weaker Sections)"
+        },
+        {
+          "id": "d",
+          "text": "Minorities"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q47",
+      "question": "EWS reservation under 103rd Amendment is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "5%"
+        },
+        {
+          "id": "b",
+          "text": "10%"
+        },
+        {
+          "id": "c",
+          "text": "15%"
+        },
+        {
+          "id": "d",
+          "text": "7.5%"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q48",
+      "question": "In Indra Sawhney v. Union of India (Mandal Case, 1992), the Supreme Court fixed the ceiling on reservations at:",
+      "options": [
+        {
+          "id": "a",
+          "text": "33%"
+        },
+        {
+          "id": "b",
+          "text": "49.5%"
+        },
+        {
+          "id": "c",
+          "text": "50%"
+        },
+        {
+          "id": "d",
+          "text": "60%"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q49",
+      "question": "Article 16(4) allows the State to make reservations for:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Women in public employment"
+        },
+        {
+          "id": "b",
+          "text": "Backward classes not adequately represented in State services"
+        },
+        {
+          "id": "c",
+          "text": "Minorities in government jobs"
+        },
+        {
+          "id": "d",
+          "text": "EWS in all jobs"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q50",
+      "question": "The writ of Quo Warranto is issued to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Command a public authority to do its duty"
+        },
+        {
+          "id": "b",
+          "text": "Inquire into the legality of a person holding a public office"
+        },
+        {
+          "id": "c",
+          "text": "Transfer a case to a higher court"
+        },
+        {
+          "id": "d",
+          "text": "Release an illegally detained person"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q51",
+      "question": "The writ of Prohibition is issued by a superior court to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Release a prisoner"
+        },
+        {
+          "id": "b",
+          "text": "Prevent a lower court from exceeding its jurisdiction"
+        },
+        {
+          "id": "c",
+          "text": "Quash an order already passed"
+        },
+        {
+          "id": "d",
+          "text": "Compel a public authority to act"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q52",
+      "question": "Difference between Certiorari and Prohibition:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both are identical in purpose"
+        },
+        {
+          "id": "b",
+          "text": "Certiorari is issued after an order is passed; Prohibition before"
+        },
+        {
+          "id": "c",
+          "text": "Prohibition is issued by SC only; Certiorari by HC"
+        },
+        {
+          "id": "d",
+          "text": "Certiorari applies to executive; Prohibition to judiciary"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q53",
+      "question": "Article 19(2) allows restrictions on freedom of speech on grounds of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sovereignty, integrity, security of India, public order, decency, morality, contempt of court, defamation, incitement to an offence"
+        },
+        {
+          "id": "b",
+          "text": "National security and public order only"
+        },
+        {
+          "id": "c",
+          "text": "Religion and morality only"
+        },
+        {
+          "id": "d",
+          "text": "Decency and defamation only"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q54",
+      "question": "\"Reasonable restrictions\" on Fundamental Rights are determined by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parliament"
+        },
+        {
+          "id": "b",
+          "text": "President"
+        },
+        {
+          "id": "c",
+          "text": "Courts"
+        },
+        {
+          "id": "d",
+          "text": "Election Commission"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q55",
+      "question": "The Right to Privacy was declared a Fundamental Right under Article 21 in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "PUCL v. Union of India (1997)"
+        },
+        {
+          "id": "b",
+          "text": "Justice K.S. Puttaswamy v. Union of India (2017)"
+        },
+        {
+          "id": "c",
+          "text": "Maneka Gandhi v. Union of India (1978)"
+        },
+        {
+          "id": "d",
+          "text": "Kesavananda Bharati Case (1973)"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q56",
+      "question": "In Maneka Gandhi v. Union of India (1978), the Supreme Court expanded Article 21 to require:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Procedure established by law only"
+        },
+        {
+          "id": "b",
+          "text": "Just, fair, and reasonable procedure"
+        },
+        {
+          "id": "c",
+          "text": "Parliamentary approval for any restriction"
+        },
+        {
+          "id": "d",
+          "text": "Judicial review by SC only"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q57",
+      "question": "Article 21's phrase \"procedure established by law\" was interpreted narrowly (like Japan) until which case?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A.K. Gopalan v. State of Madras (1950)"
+        },
+        {
+          "id": "b",
+          "text": "Maneka Gandhi Case (1978)"
+        },
+        {
+          "id": "c",
+          "text": "Golaknath Case (1967)"
+        },
+        {
+          "id": "d",
+          "text": "Puttaswamy Case (2017)"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q58",
+      "question": "Article 32 can be used to enforce Fundamental Rights against:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Private individuals"
+        },
+        {
+          "id": "b",
+          "text": "The State (as defined in Article 12)"
+        },
+        {
+          "id": "c",
+          "text": "International organisations"
+        },
+        {
+          "id": "d",
+          "text": "Courts themselves"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q59",
+      "question": "Which Article empowers the Supreme Court to issue directions, orders, or writs including Habeas Corpus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 226"
+        },
+        {
+          "id": "b",
+          "text": "Article 136"
+        },
+        {
+          "id": "c",
+          "text": "Article 32"
+        },
+        {
+          "id": "d",
+          "text": "Article 142"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q60",
+      "question": "Article 32 cannot be suspended EXCEPT during:",
+      "options": [
+        {
+          "id": "a",
+          "text": "President's Rule"
+        },
+        {
+          "id": "b",
+          "text": "Financial Emergency"
+        },
+        {
+          "id": "c",
+          "text": "National Emergency under Article 352"
+        },
+        {
+          "id": "d",
+          "text": "External Emergency only"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q61",
+      "question": "Article 19(1)(g) guarantees freedom to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Move freely throughout India"
+        },
+        {
+          "id": "b",
+          "text": "Reside in any part of India"
+        },
+        {
+          "id": "c",
+          "text": "Practice any profession or carry on any occupation, trade or business"
+        },
+        {
+          "id": "d",
+          "text": "Form associations"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q62",
+      "question": "Article 20(1) prohibits:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Double jeopardy"
+        },
+        {
+          "id": "b",
+          "text": "Self-incrimination"
+        },
+        {
+          "id": "c",
+          "text": "Ex post facto laws"
+        },
+        {
+          "id": "d",
+          "text": "Arbitrary detention"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q63",
+      "question": "\"No person shall be convicted of any offence except for violation of law in force at the time of commission\" — this is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Double Jeopardy (Art. 20(2))"
+        },
+        {
+          "id": "b",
+          "text": "Ex post facto law prohibition (Art. 20(1))"
+        },
+        {
+          "id": "c",
+          "text": "Self-incrimination (Art. 20(3))"
+        },
+        {
+          "id": "d",
+          "text": "Protection from arbitrary arrest (Art. 22)"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q64",
+      "question": "Under Article 22, a person arrested must be produced before a magistrate within:",
+      "options": [
+        {
+          "id": "a",
+          "text": "12 hours"
+        },
+        {
+          "id": "b",
+          "text": "48 hours"
+        },
+        {
+          "id": "c",
+          "text": "24 hours"
+        },
+        {
+          "id": "d",
+          "text": "72 hours"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q65",
+      "question": "Article 22 does NOT apply to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Criminal arrests under ordinary law"
+        },
+        {
+          "id": "b",
+          "text": "Preventive detention cases"
+        },
+        {
+          "id": "c",
+          "text": "Persons arrested for civil disputes"
+        },
+        {
+          "id": "d",
+          "text": "Foreigners arrested in India"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q66",
+      "question": "Preventive detention laws can detain a person without trial for initially up to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 month"
+        },
+        {
+          "id": "b",
+          "text": "2 months"
+        },
+        {
+          "id": "c",
+          "text": "3 months"
+        },
+        {
+          "id": "d",
+          "text": "6 months"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q67",
+      "question": "Article 25 allows the State to regulate:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beliefs and faith"
+        },
+        {
+          "id": "b",
+          "text": "Secular activities associated with religious practice"
+        },
+        {
+          "id": "c",
+          "text": "Private prayer"
+        },
+        {
+          "id": "d",
+          "text": "Religious texts"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q68",
+      "question": "Article 26 gives religious denominations the right to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Receive government funding"
+        },
+        {
+          "id": "b",
+          "text": "Manage religious and charitable endowments"
+        },
+        {
+          "id": "c",
+          "text": "Establish universities"
+        },
+        {
+          "id": "d",
+          "text": "Convert persons of other religions"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q69",
+      "question": "Article 27 prohibits:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Teaching religion in State schools"
+        },
+        {
+          "id": "b",
+          "text": "Compelling a person to pay taxes for promotion of a particular religion"
+        },
+        {
+          "id": "c",
+          "text": "Wearing religious symbols in public"
+        },
+        {
+          "id": "d",
+          "text": "Government interference in religious trusts"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q70",
+      "question": "Article 28 prohibits religious instruction in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Minority institutions"
+        },
+        {
+          "id": "b",
+          "text": "Educational institutions wholly maintained by State funds"
+        },
+        {
+          "id": "c",
+          "text": "Private unaided schools"
+        },
+        {
+          "id": "d",
+          "text": "Deemed universities"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q71",
+      "question": "The concept of \"Constitutional Morality\" in the context of Fundamental Rights was used prominently in which case?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maneka Gandhi Case"
+        },
+        {
+          "id": "b",
+          "text": "Navtej Singh Johar v. Union of India (Section 377 case)"
+        },
+        {
+          "id": "c",
+          "text": "Puttaswamy Case"
+        },
+        {
+          "id": "d",
+          "text": "S.R. Bommai Case"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q72",
+      "question": "Section 377 of IPC was read down in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2013 (Suresh Kumar Koushal Case) — SC recriminalised it"
+        },
+        {
+          "id": "b",
+          "text": "2018 (Navtej Singh Johar v. Union of India) — SC decriminalised consensual same-sex relations"
+        },
+        {
+          "id": "c",
+          "text": "2017 (Puttaswamy Case)"
+        },
+        {
+          "id": "d",
+          "text": "2015"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate",
+      "explanation": "The source notes that in 2018 the Supreme Court decriminalised consensual same-sex relations."
+    },
+    {
+      "id": "FR-Q73",
+      "question": "Fundamental Rights under Article 19 are available to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "All persons including foreigners"
+        },
+        {
+          "id": "b",
+          "text": "Only citizens of India"
+        },
+        {
+          "id": "c",
+          "text": "Citizens and OCI cardholders"
+        },
+        {
+          "id": "d",
+          "text": "Citizens and permanent residents"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q74",
+      "question": "Which Article CANNOT be suspended even during a National Emergency?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 19"
+        },
+        {
+          "id": "b",
+          "text": "Article 21"
+        },
+        {
+          "id": "c",
+          "text": "Articles 20 and 21"
+        },
+        {
+          "id": "d",
+          "text": "Article 32"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q75",
+      "question": "The 44th Amendment (1978) made which Articles non-suspendable even during Emergency?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Articles 14 and 19"
+        },
+        {
+          "id": "b",
+          "text": "Articles 19 and 21"
+        },
+        {
+          "id": "c",
+          "text": "Articles 20 and 21"
+        },
+        {
+          "id": "d",
+          "text": "Articles 32 and 226"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q76",
+      "question": "Fundamental Rights can be amended by Parliament by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simple majority"
+        },
+        {
+          "id": "b",
+          "text": "Special majority under Article 368"
+        },
+        {
+          "id": "c",
+          "text": "Special majority + ratification by States"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be amended at all"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q77",
+      "question": "In Golaknath v. State of Punjab (1967), the Supreme Court held:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parliament can amend any part of the Constitution including Fundamental Rights"
+        },
+        {
+          "id": "b",
+          "text": "Parliament cannot abridge or take away Fundamental Rights"
+        },
+        {
+          "id": "c",
+          "text": "Fundamental Rights and DPSPs are of equal status"
+        },
+        {
+          "id": "d",
+          "text": "President can suspend Fundamental Rights"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q78",
+      "question": "The 24th Constitutional Amendment (1971) was passed to nullify:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kesavananda Bharati judgment"
+        },
+        {
+          "id": "b",
+          "text": "Golaknath judgment"
+        },
+        {
+          "id": "c",
+          "text": "Minerva Mills judgment"
+        },
+        {
+          "id": "d",
+          "text": "Maneka Gandhi judgment"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q79",
+      "question": "Article 31C was inserted by the 25th Amendment (1971) to give primacy to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fundamental Rights over DPSPs"
+        },
+        {
+          "id": "b",
+          "text": "Certain DPSPs (Articles 39(b) and 39(c)) over Fundamental Rights"
+        },
+        {
+          "id": "c",
+          "text": "Fundamental Duties over Fundamental Rights"
+        },
+        {
+          "id": "d",
+          "text": "DPSPs over Fundamental Duties"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q80",
+      "question": "The 9th Schedule of the Constitution was created to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "List Fundamental Rights"
+        },
+        {
+          "id": "b",
+          "text": "Protect laws from judicial review on Fundamental Rights grounds"
+        },
+        {
+          "id": "c",
+          "text": "List languages of India"
+        },
+        {
+          "id": "d",
+          "text": "Specify reservation percentages"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Moderate"
+    },
+    {
+      "id": "FR-Q81",
+      "question": "Consider the following statements: 1. Article 13 applies to pre-constitutional laws as well as post-constitutional laws. 2. Pre-constitutional laws are void from inception if violating Fundamental Rights. 3. Post-constitutional laws are void ab initio if violating Fundamental Rights. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard",
+      "explanation": "The source explanation states that pre-constitutional laws become void only from the date of the Constitution's commencement, not from inception. Post-constitutional laws are void ab initio. The supplied answer key marks b; this conversion preserves that source key."
+    },
+    {
+      "id": "FR-Q82",
+      "question": "Assertion (A): Article 13 uses the word \"void\" for laws violating Fundamental Rights. Reason (R): This means such laws are void ab initio (from the beginning) and never had any legal existence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R are true and R correctly explains A"
+        },
+        {
+          "id": "b",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "c",
+          "text": "A is false and R is true"
+        },
+        {
+          "id": "d",
+          "text": "Both are false"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard",
+      "explanation": "The source cites Keshavan Madhava Menon and explains that pre-constitutional laws are not void ab initio; they are void only to the extent of inconsistency and prospectively."
+    },
+    {
+      "id": "FR-Q83",
+      "question": "In which case did the Supreme Court rule that laws placed in the 9th Schedule AFTER April 24, 1973 are open to judicial review?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Waman Rao v. Union of India (1981)"
+        },
+        {
+          "id": "b",
+          "text": "I.R. Coelho v. State of Tamil Nadu (2007)"
+        },
+        {
+          "id": "c",
+          "text": "Minerva Mills Case (1980)"
+        },
+        {
+          "id": "d",
+          "text": "Kesavananda Bharati Case (1973)"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard",
+      "explanation": "The source explains that laws added to the 9th Schedule after Kesavananda Bharati (April 24, 1973) can be challenged if they violate the basic structure."
+    },
+    {
+      "id": "FR-Q84",
+      "question": "Consider statements on the doctrine of \"Eclipse\": 1. It applies to pre-constitutional laws that are inconsistent with Fundamental Rights. 2. Such laws are not void but merely eclipsed. 3. If the Fundamental Right is amended and the inconsistency is removed, the law revives. 4. This doctrine also applies to post-constitutional laws. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "All four"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1 and 4"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard",
+      "explanation": "The source explanation states that the Doctrine of Eclipse applies only to pre-constitutional laws, not post-constitutional laws."
+    },
+    {
+      "id": "FR-Q85",
+      "question": "The doctrine of \"Waiver\" of Fundamental Rights — India's position is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "A citizen can waive any Fundamental Right voluntarily"
+        },
+        {
+          "id": "b",
+          "text": "Fundamental Rights cannot be waived as they serve public interest"
+        },
+        {
+          "id": "c",
+          "text": "Waiver is allowed if approved by a court"
+        },
+        {
+          "id": "d",
+          "text": "Waiver is allowed in cases of Articles 19 and 21"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard",
+      "explanation": "Basheshar Nath v. CIT (1959) — the source states that the Supreme Court held Fundamental Rights cannot be waived."
+    },
+    {
+      "id": "FR-Q86",
+      "question": "Which case established that Fundamental Rights are available against a private body if it is performing a \"public function\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maneka Gandhi Case"
+        },
+        {
+          "id": "b",
+          "text": "Pradeep Kumar Biswas v. Indian Institute of Chemical Biology (2002)"
+        },
+        {
+          "id": "c",
+          "text": "Puttaswamy Case"
+        },
+        {
+          "id": "d",
+          "text": "Unni Krishnan Case"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "FR-Q87",
+      "question": "Consider statements on Article 15(4): 1. It was added by the 1st Constitutional Amendment (1951). 2. It was added to nullify the Supreme Court's judgment in State of Madras v. Champakam Dorairajan. 3. It allows reservations in educational institutions for socially and educationally backward classes. 4. Champakam Dorairajan Case was about religious-based seat allotment in medical colleges. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 4 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1 and 3 only"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "FR-Q88",
+      "question": "Under Article 19(1)(c), the right to form associations includes:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Right to form political parties only"
+        },
+        {
+          "id": "b",
+          "text": "Right to form associations and also the right NOT to form/join associations"
+        },
+        {
+          "id": "c",
+          "text": "Right to form associations but not trade unions"
+        },
+        {
+          "id": "d",
+          "text": "Right to form associations subject to government registration"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "FR-Q89",
+      "question": "Assertion (A): The State can impose reasonable restrictions on freedoms under Article 19. Reason (R): Article 19(2) to 19(6) list the grounds for reasonable restrictions, and the restrictions must be reasonable — determined by courts, not legislature.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both A and R are true; R correctly explains A"
+        },
+        {
+          "id": "b",
+          "text": "A is true; R is partially wrong (legislature determines restrictions)"
+        },
+        {
+          "id": "c",
+          "text": "A is false; R is true"
+        },
+        {
+          "id": "d",
+          "text": "Both are false"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "FR-Q90",
+      "question": "Consider statements about Article 20(2) (Double Jeopardy): 1. It protects against prosecution AND punishment for the same offence. 2. A departmental enquiry after criminal acquittal violates Article 20(2). 3. Prosecution under two different laws for the same act does not violate Article 20(2) if offences are distinct. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1 only"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard",
+      "explanation": "The source explanation states that statement 2 is wrong because a departmental enquiry is not \"prosecution\" in a court, so Article 20(2) does not bar it."
+    },
+    {
+      "id": "FR-Q91",
+      "question": "The \"Creamy Layer\" concept was introduced in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mandal Commission Report"
+        },
+        {
+          "id": "b",
+          "text": "Indra Sawhney v. Union of India (1992)"
+        },
+        {
+          "id": "c",
+          "text": "77th Constitutional Amendment"
+        },
+        {
+          "id": "d",
+          "text": "Waman Rao Case"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "FR-Q92",
+      "question": "In Indra Sawhney Case (1992), the SC held that reservation in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Promotions is constitutionally valid"
+        },
+        {
+          "id": "b",
+          "text": "Promotions is NOT constitutionally valid"
+        },
+        {
+          "id": "c",
+          "text": "Private sector is mandatory"
+        },
+        {
+          "id": "d",
+          "text": "Educational institutions cannot exceed 27%"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard",
+      "explanation": "The source notes that this position was later overridden by the 77th Amendment, which added Article 16(4A)."
+    },
+    {
+      "id": "FR-Q93",
+      "question": "Consider statements on Article 21: 1. Right to Livelihood is part of Article 21. 2. Right to Health is part of Article 21. 3. Right to Sleep is part of Article 21. 4. Right to reputation is part of Article 21. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "All four"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 4 only"
+        }
+      ],
+      "correctOption": "c",
+      "topic": "Hard",
+      "explanation": "The source lists livelihood (Olga Tellis), health (Paschim Banga), sleep (Ramlila Maidan) and reputation (Kiran Bedi) as rights expanded under Article 21."
+    },
+    {
+      "id": "FR-Q94",
+      "question": "Match the following landmark cases with their Article/issue: A. Olga Tellis v. Bombay MC — 1. Right to Privacy; B. Puttaswamy Case — 2. Right to Livelihood under Art. 21; C. Navtej Singh Johar — 3. Decriminalisation of Section 377; D. Champakam Dorairajan — 4. Communal seat reservation in education.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A-2, B-1, C-3, D-4"
+        },
+        {
+          "id": "b",
+          "text": "A-1, B-2, C-4, D-3"
+        },
+        {
+          "id": "c",
+          "text": "A-2, B-3, C-1, D-4"
+        },
+        {
+          "id": "d",
+          "text": "A-4, B-1, C-2, D-3"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard"
+    },
+    {
+      "id": "FR-Q95",
+      "question": "The Right to Constitutional Remedies under Article 32 can be:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Suspended by the President at any time"
+        },
+        {
+          "id": "b",
+          "text": "Suspended during National Emergency (Art. 352)"
+        },
+        {
+          "id": "c",
+          "text": "Never suspended under any circumstances"
+        },
+        {
+          "id": "d",
+          "text": "Suspended during President's Rule"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard",
+      "explanation": "The source states that the 44th Amendment made Articles 20 and 21 non-suspendable, but Article 32 can be suspended during Emergency."
+    },
+    {
+      "id": "FR-Q96",
+      "question": "Consider: The State of UP passes a law requiring all persons practicing medicine to be domiciled in UP. Is it valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes — States can regulate professions"
+        },
+        {
+          "id": "b",
+          "text": "No — it violates Article 19(1)(g) and Article 16"
+        },
+        {
+          "id": "c",
+          "text": "Yes — it is a reasonable restriction"
+        },
+        {
+          "id": "d",
+          "text": "No — only Parliament can regulate medical professions"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "FR-Q97",
+      "question": "Consider statements on Article 30: 1. Article 30 applies to both religious and linguistic minorities. 2. The State can acquire minority institutions by paying compensation. 3. Aided minority institutions must follow government regulations on administration. 4. Unaided minority institutions are fully exempt from all government regulations. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "All four"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4"
+        }
+      ],
+      "correctOption": "a",
+      "topic": "Hard",
+      "explanation": "The source marks statement 4 as wrong and notes that unaided minority institutions can be regulated to ensure educational standards (T.M.A. Pai Case, 2002)."
+    },
+    {
+      "id": "FR-Q98",
+      "question": "In Kesavananda Bharati Case (1973), the Supreme Court held that Parliament:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cannot amend Fundamental Rights at all"
+        },
+        {
+          "id": "b",
+          "text": "Can amend any provision including Fundamental Rights but cannot destroy the basic structure"
+        },
+        {
+          "id": "c",
+          "text": "Can amend Fundamental Rights only with State ratification"
+        },
+        {
+          "id": "d",
+          "text": "Can amend Fundamental Rights during Emergency only"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "FR-Q99",
+      "question": "Consider statements about Article 32 vs Article 226: 1. Article 226 jurisdiction is wider than Article 32. 2. HC under Art. 226 can issue writs for both Fundamental Rights and other legal rights. 3. SC under Art. 32 can ONLY issue writs for enforcement of Fundamental Rights. 4. Art. 226 can be exercised against private bodies in certain cases. Which are CORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1 and 4 only"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    },
+    {
+      "id": "FR-Q100",
+      "question": "\"The Fundamental Rights represent a 'negative' obligation on the State while DPSPs represent a 'positive' obligation.\" Which of the following CORRECTLY challenges this view?",
+      "options": [
+        {
+          "id": "a",
+          "text": "DPSPs are also enforceable like Fundamental Rights"
+        },
+        {
+          "id": "b",
+          "text": "Article 21 has been used by courts to impose positive obligations on the State (Right to health, education, shelter)"
+        },
+        {
+          "id": "c",
+          "text": "Fundamental Rights also include duties on citizens"
+        },
+        {
+          "id": "d",
+          "text": "The 86th Amendment merged FRs and DPSPs"
+        }
+      ],
+      "correctOption": "b",
+      "topic": "Hard"
+    }
+  ]
+}

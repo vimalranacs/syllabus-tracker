@@ -3,6 +3,7 @@ import preamble100 from '../data/mocks/preamble-100.json';
 import unionTerritories100 from '../data/mocks/union-territories-100.json';
 import citizenship100 from '../data/mocks/citizenship-100.json';
 import statesUt100 from '../data/mocks/states-ut-100.json';
+import fundamentalRights100 from '../data/mocks/fundamental-rights-100.json';
 
 /**
  * Central mock registry.
@@ -84,6 +85,18 @@ const MOCK_REGISTRY: RegistryEntry[] = [
       tags: ['polity', 'states', 'union-territories', 'prelims'],
     },
     load: () => asDefinition(statesUt100),
+  },
+  {
+    meta: {
+      mockId: 'fundamental-rights-100',
+      title: 'Fundamental Rights',
+      category: 'Indian Polity',
+      description:
+        '100 MCQs (40 easy, 40 moderate, 20 hard) on Articles 12–35, Right to Equality, Freedoms, Life and Liberty, Religion, Culture, Constitutional Remedies and landmark cases.',
+      secondsPerQuestion: 51,
+      tags: ['polity', 'fundamental-rights', 'prelims'],
+    },
+    load: () => asDefinition(fundamentalRights100),
   },
   // Future mocks: append entries here, e.g.
   // { meta: { mockId: 'future-mock-1', title: '...', category: 'History', secondsPerQuestion: 51 }, load: () => asDefinition(futureMock1) },
