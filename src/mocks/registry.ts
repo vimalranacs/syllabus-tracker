@@ -4,6 +4,8 @@ import unionTerritories100 from '../data/mocks/union-territories-100.json';
 import citizenship100 from '../data/mocks/citizenship-100.json';
 import statesUt100 from '../data/mocks/states-ut-100.json';
 import fundamentalRights100 from '../data/mocks/fundamental-rights-100.json';
+import dpsp100 from '../data/mocks/dpsp-100.json';
+import fundamentalDuties100 from '../data/mocks/fundamental-duties-100.json';
 
 /**
  * Central mock registry.
@@ -97,6 +99,28 @@ const MOCK_REGISTRY: RegistryEntry[] = [
       tags: ['polity', 'fundamental-rights', 'prelims'],
     },
     load: () => asDefinition(fundamentalRights100),
+  },
+  {
+    meta: {
+      mockId: 'dpsp-100',
+      title: 'Directive Principles of State Policy',
+      category: 'Indian Polity',
+      description: '100 MCQs covering the Directive Principles of State Policy.',
+      secondsPerQuestion: 51,
+      tags: ['polity', 'dpsp', 'prelims'],
+    },
+    load: () => asDefinition(dpsp100),
+  },
+  {
+    meta: {
+      mockId: 'fundamental-duties-100',
+      title: 'Fundamental Duties',
+      category: 'Indian Polity',
+      description: '100 MCQs covering the Fundamental Duties.',
+      secondsPerQuestion: 51,
+      tags: ['polity', 'fundamental-duties', 'prelims'],
+    },
+    load: () => asDefinition(fundamentalDuties100),
   },
   // Future mocks: append entries here, e.g.
   // { meta: { mockId: 'future-mock-1', title: '...', category: 'History', secondsPerQuestion: 51 }, load: () => asDefinition(futureMock1) },

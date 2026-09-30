@@ -1,0 +1,1430 @@
+{
+  "id": "uppsc_ro_aro_fundamental_duties_100",
+  "title": "UPPSC RO/ARO — Fundamental Duties Mock Test",
+  "description": "100 MCQs on Fundamental Duties with source-provided explanations where available.",
+  "exam": "UPPSC RO/ARO",
+  "subject": "Indian Polity",
+  "topic": "Fundamental Duties",
+  "totalQuestions": 100,
+  "totalMarks": 100,
+  "marksPerQuestion": 1,
+  "suggestedTimeMinutes": 85,
+  "secondsPerQuestion": 51,
+  "negativeMarking": false,
+  "showAnswersAfterSubmit": true,
+  "showExplanationsAfterSubmit": true,
+  "allowReviewAndChange": true,
+  "shuffleQuestions": false,
+  "shuffleOptions": false,
+  "questions": [
+    {
+      "id": 1,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties are contained in which Part of the Indian Constitution?",
+      "options": {
+        "a": "Part III",
+        "b": "Part IV",
+        "c": "Part IV-A",
+        "d": "Part V"
+      },
+      "explanation": "was inserted by the 42nd Amendment, 1976.",
+      "correct": "c"
+    },
+    {
+      "id": 2,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties are listed in which Article of the Constitution?",
+      "options": {
+        "a": "Article 48A",
+        "b": "Article 50",
+        "c": "Article 51",
+        "d": "Article 51A"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 3,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties were added to the Constitution by which Amendment?",
+      "options": {
+        "a": "40th Amendment",
+        "b": "42nd Amendment",
+        "c": "44th Amendment",
+        "d": "86th Amendment"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 4,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "In which year were Fundamental Duties added?",
+      "options": {
+        "a": "1971",
+        "b": "1974",
+        "c": "1976",
+        "d": "1978"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 5,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Originally how many Fundamental Duties were added in 1976?",
+      "options": {
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "d": "11"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 6,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Currently how many Fundamental Duties exist in the Constitution?",
+      "options": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "9"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 7,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "The 11th Fundamental Duty was added by which Amendment?",
+      "options": {
+        "a": "42nd Amendment",
+        "b": "73rd Amendment",
+        "c": "86th Amendment",
+        "d": "91st Amendment"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 8,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "The 11th Fundamental Duty was added in which year?",
+      "options": {
+        "a": "1999",
+        "b": "2000",
+        "c": "2002",
+        "d": "2005"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 9,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties apply to:",
+      "options": {
+        "a": "All persons residing in India",
+        "b": "Only citizens of India",
+        "c": "Citizens and OCI cardholders",
+        "d": "All adults above 18 years"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 10,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties are:",
+      "options": {
+        "a": "Justiciable like Fundamental Rights",
+        "b": "Non-justiciable",
+        "c": "Partially justiciable",
+        "d": "Enforceable by courts directly"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 11,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "The concept of Fundamental Duties was inspired by the Constitution of:",
+      "options": {
+        "a": "USA",
+        "b": "France",
+        "c": "USSR (Soviet Union)",
+        "d": "Japan"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 12,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Which committee recommended the inclusion of Fundamental Duties?",
+      "options": {
+        "a": "Balwant Rai Mehta Committee",
+        "b": "Swaran Singh Committee",
+        "c": "Verma Committee",
+        "d": "Ashok Mehta Committee"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 13,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(a) deals with the duty to:",
+      "options": {
+        "a": "Protect the environment",
+        "b": "Promote scientific temper",
+        "c": "Abide by the Constitution and respect the National Flag and National Anthem",
+        "d": "Defend the country"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 14,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(c) deals with the duty to:",
+      "options": {
+        "a": "Promote harmony among citizens",
+        "b": "Uphold and protect the sovereignty, unity and integrity of India",
+        "c": "Protect the environment",
+        "d": "Develop scientific temper"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 15,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(d) deals with the duty to:",
+      "options": {
+        "a": "Value composite culture",
+        "b": "Promote brotherhood",
+        "c": "Defend the country and render national service when called upon",
+        "d": "Protect public property"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 16,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(g) deals with the duty to:",
+      "options": {
+        "a": "Promote harmony",
+        "b": "Develop scientific temper",
+        "c": "Protect and improve the natural environment including forests, lakes, rivers, wildlife",
+        "d": "Safeguard public property"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 17,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(h) deals with the duty to:",
+      "options": {
+        "a": "Cherish composite culture",
+        "b": "Develop scientific temper, humanism and spirit of inquiry and reform",
+        "c": "Protect the environment",
+        "d": "Promote harmony among citizens"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 18,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(i) deals with the duty to:",
+      "options": {
+        "a": "Promote scientific temper",
+        "b": "Safeguard public property and abjure violence",
+        "c": "Protect the environment",
+        "d": "Defend the country"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 19,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(j) deals with the duty to:",
+      "options": {
+        "a": "Protect the environment",
+        "b": "Render national service",
+        "c": "Strive towards excellence in all spheres of individual and collective activity",
+        "d": "Promote brotherhood"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 20,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "The 11th Fundamental Duty (Article 51A(k)) is related to:",
+      "options": {
+        "a": "Protection of environment",
+        "b": "Duty of parents/guardians to provide educational opportunities to children between 6-14 years",
+        "c": "Promotion of scientific temper",
+        "d": "Protecting public property"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 21,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties in the Indian Constitution are placed between:",
+      "options": {
+        "a": "Fundamental Rights and DPSPs",
+        "b": "DPSPs and miscellaneous provisions",
+        "c": "Preamble and Fundamental Rights",
+        "d": "DPSPs and Fundamental Rights"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 22,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(e) includes the duty to renounce practices derogatory to the dignity of:",
+      "options": {
+        "a": "Elderly persons",
+        "b": "Children",
+        "c": "Women",
+        "d": "Minorities"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 23,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(f) deals with the duty to:",
+      "options": {
+        "a": "Promote scientific temper",
+        "b": "Protect the environment",
+        "c": "Value and preserve the rich heritage of our composite culture",
+        "d": "Defend the country"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 24,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties are enforceable:",
+      "options": {
+        "a": "Directly by courts",
+        "b": "By Parliament through suitable legislation",
+        "c": "By State Governments only",
+        "d": "They cannot be enforced at all"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 25,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(b) deals with the duty to:",
+      "options": {
+        "a": "Abide by the Constitution",
+        "b": "Cherish and follow the noble ideals which inspired the national struggle for freedom",
+        "c": "Promote brotherhood",
+        "d": "Protect composite culture"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 26,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "The Prevention of Damage to Public Property Act, 1984 enforces which Fundamental Duty?",
+      "options": {
+        "a": "Article 51A(g)",
+        "b": "Article 51A(h)",
+        "c": "Article 51A(i)",
+        "d": "Article 51A(j)"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 27,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "The Right of Children to Free and Compulsory Education Act (RTE), 2009 is linked to which Fundamental Duty?",
+      "options": {
+        "a": "Article 51A(g)",
+        "b": "Article 51A(j)",
+        "c": "Article 51A(k)",
+        "d": "Article 51A(h)"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 28,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties were NOT part of the original Constitution adopted in:",
+      "options": {
+        "a": "1947",
+        "b": "1949",
+        "c": "1950",
+        "d": "1951"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 29,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(e) deals with:",
+      "options": {
+        "a": "National service",
+        "b": "Promoting harmony and spirit of common brotherhood",
+        "c": "Protecting the environment",
+        "d": "Developing scientific temper"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 30,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Which Amendment Act inserted Part IV-A into the Constitution?",
+      "options": {
+        "a": "40th Amendment Act",
+        "b": "42nd Amendment Act",
+        "c": "44th Amendment Act",
+        "d": "52nd Amendment Act"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 31,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "The Unlawful Activities (Prevention) Act, 1967 is related to which Fundamental Duty?",
+      "options": {
+        "a": "Article 51A(a)",
+        "b": "Article 51A(b)",
+        "c": "Article 51A(c)",
+        "d": "Article 51A(d)"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 32,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties are:",
+      "options": {
+        "a": "Available only to voters",
+        "b": "Obligations of citizens towards the nation",
+        "c": "Obligations of the State towards citizens",
+        "d": "Available to both citizens and foreigners"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 33,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following is a Fundamental Duty?",
+      "options": {
+        "a": "Right to vote",
+        "b": "Pay taxes",
+        "c": "Protect and improve the natural environment",
+        "d": "Serve on a jury"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 34,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties are related to which concept from Indian philosophy?",
+      "options": {
+        "a": "Ahimsa",
+        "b": "Karma (duty/obligation)",
+        "c": "Moksha",
+        "d": "Dharma in narrow sense"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 35,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "The Swaran Singh Committee initially recommended how many Fundamental Duties?",
+      "options": {
+        "a": "6",
+        "b": "8",
+        "c": "10",
+        "d": "11"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 36,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties are placed in Part IV-A, which was inserted between:",
+      "options": {
+        "a": "Part III and Part IV",
+        "b": "Part IV and Part V",
+        "c": "Part II and Part III",
+        "d": "Part V and Part VI"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 37,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(d) mentions rendering national service when called upon. This primarily relates to:",
+      "options": {
+        "a": "Paying taxes",
+        "b": "Military or other forms of national service",
+        "c": "Attending Gram Sabhas",
+        "d": "Voting in elections"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 38,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Which Fundamental Duty specifically mentions \"living creatures\"?",
+      "options": {
+        "a": "Article 51A(f)",
+        "b": "Article 51A(g)",
+        "c": "Article 51A(h)",
+        "d": "Article 51A(i)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 39,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "\"Strive towards excellence\" is mentioned in which Fundamental Duty?",
+      "options": {
+        "a": "Article 51A(h)",
+        "b": "Article 51A(i)",
+        "c": "Article 51A(j)",
+        "d": "Article 51A(k)"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 40,
+      "tag": "E",
+      "difficulty": "Easy",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties are similar in nature to:",
+      "options": {
+        "a": "Fundamental Rights (justiciable)",
+        "b": "Directive Principles of State Policy (non-justiciable)",
+        "c": "Preamble (unenforceable but guide)",
+        "d": "Constitutional Remedies"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 41,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Swaran Singh Committee was constituted in which year?",
+      "options": {
+        "a": "1973",
+        "b": "1974",
+        "c": "1976",
+        "d": "1978"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 42,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following was NOT recommended by the Swaran Singh Committee but was still included in Fundamental Duties?",
+      "options": {
+        "a": "Duty to pay taxes",
+        "b": "Duty to defend the country",
+        "c": "Duty to respect the National Anthem",
+        "d": "Duty to promote harmony"
+      },
+      "explanation": "The Swaran Singh Committee recommended including duty to pay taxes and penalty for non-compliance, but this was NOT included in the final list.",
+      "correct": "a"
+    },
+    {
+      "id": 43,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Swaran Singh Committee recommended that violation of Fundamental Duties should be punishable by:",
+      "options": {
+        "a": "Imprisonment only",
+        "b": "Fine only",
+        "c": "Parliament through law including disqualification from certain rights",
+        "d": "Courts directly"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 44,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following was recommended by the Swaran Singh Committee but was NOT included in the Fundamental Duties?",
+      "options": {
+        "a": "Duty to protect the environment",
+        "b": "Duty to develop scientific temper",
+        "c": "Duty to pay taxes",
+        "d": "Duty to vote in elections"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 45,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Fundamental Duties chapter was added during which Prime Minister's tenure?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Lal Bahadur Shastri",
+        "c": "Indira Gandhi",
+        "d": "Rajiv Gandhi"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 46,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties were added during which major political event?",
+      "options": {
+        "a": "Post-Emergency period",
+        "b": "During the Internal Emergency (1975–77)",
+        "c": "During the Bangladesh Liberation War",
+        "d": "Post-independence reorganisation"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 47,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Justice Verma Committee (1999) was set up to:",
+      "options": {
+        "a": "Add more Fundamental Duties",
+        "b": "Operationalise Fundamental Duties and suggest ways to make citizens aware of them",
+        "c": "Remove non-justiciable duties",
+        "d": "Link Fundamental Duties with Fundamental Rights"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 48,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Justice Verma Committee was set up on directions of:",
+      "options": {
+        "a": "Parliament",
+        "b": "President of India",
+        "c": "Supreme Court of India",
+        "d": "NHRC"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 49,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Justice Verma Committee submitted its report in:",
+      "options": {
+        "a": "1998",
+        "b": "1999",
+        "c": "2000",
+        "d": "2002"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 50,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "According to the Verma Committee, how many existing laws relate to Fundamental Duties?",
+      "options": {
+        "a": "Around 5",
+        "b": "Around 8",
+        "c": "Around 12 ✅ (The committee identified several existing laws that enforce Fundamental Duties)",
+        "d": "Around 20"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 51,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The 86th Amendment 2002 that added Article 51A(k) was also related to which other Article?",
+      "options": {
+        "a": "Article 14",
+        "b": "Article 19",
+        "c": "Article 21A ✅ (Right to Education)",
+        "d": "Article 32"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 52,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(k) places the duty of providing educational opportunities on:",
+      "options": {
+        "a": "The State Government",
+        "b": "Central Government",
+        "c": "Every parent or guardian",
+        "d": "Local bodies"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 53,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties correspond to rights — which Fundamental Duty corresponds to Article 19 (freedom of expression)?",
+      "options": {
+        "a": "Article 51A(a) — respect National Flag and Anthem ✅ (balances freedom with responsibility)",
+        "b": "Article 51A(b)",
+        "c": "Article 51A(c)",
+        "d": "Article 51A(h)"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 54,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "In which Supreme Court case was it held that Fundamental Duties are equally important as Fundamental Rights?",
+      "options": {
+        "a": "Kesavananda Bharati Case (1973)",
+        "b": "AIIMS Students' Union v. AIIMS (2002)",
+        "c": "Puttaswamy Case (2017)",
+        "d": "Navtej Singh Johar Case (2018)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 55,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "In Ranganath Mishra v. Union of India (2003), the Supreme Court held that:",
+      "options": {
+        "a": "Fundamental Duties can be enforced directly by courts",
+        "b": "Fundamental Duties must be read along with Fundamental Rights for proper constitutional interpretation",
+        "c": "Fundamental Duties override Fundamental Rights",
+        "d": "Parliament must pass a law to make Fundamental Duties mandatory"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 56,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which Fundamental Duty is directly linked to environmental protection laws like the Wildlife Protection Act?",
+      "options": {
+        "a": "Article 51A(f)",
+        "b": "Article 51A(g)",
+        "c": "Article 51A(h)",
+        "d": "Article 51A(i)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 57,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Wildlife Protection Act, 1972 enforces which Fundamental Duty?",
+      "options": {
+        "a": "Article 51A(f)",
+        "b": "Article 51A(g)",
+        "c": "Article 51A(i)",
+        "d": "Article 51A(j)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 58,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Forest Conservation Act, 1980 is related to which Fundamental Duty?",
+      "options": {
+        "a": "Article 51A(e)",
+        "b": "Article 51A(f)",
+        "c": "Article 51A(g)",
+        "d": "Article 51A(h)"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 59,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following correctly identifies the difference between Fundamental Rights and Fundamental Duties?",
+      "options": {
+        "a": "FRs apply to citizens only; FDs apply to all persons",
+        "b": "FDs are non-justiciable; FRs are justiciable",
+        "c": "FDs are in Part III; FRs are in Part IV-A",
+        "d": "FDs can be suspended during Emergency; FRs cannot"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 60,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Consider: \"Promote harmony and spirit of common brotherhood transcending religious, linguistic, regional diversities.\" This is:",
+      "options": {
+        "a": "Article 51A(d)",
+        "b": "Article 51A(e)",
+        "c": "Article 51A(f)",
+        "d": "Article 51A(g)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 61,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The duty related to \"composite culture\" directly protects India's:",
+      "options": {
+        "a": "Linguistic diversity only",
+        "b": "Religious diversity only",
+        "c": "Syncretic and multi-layered cultural heritage",
+        "d": "Classical arts and architecture only"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 62,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties are based on the concept that rights and duties are:",
+      "options": {
+        "a": "Opposite and contradictory",
+        "b": "Independent of each other",
+        "c": "Correlative — rights imply corresponding duties",
+        "d": "Superior and inferior respectively"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 63,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following countries' Constitutions inspired the inclusion of Fundamental Duties in India?",
+      "options": {
+        "a": "USA",
+        "b": "UK",
+        "c": "USSR",
+        "d": "France"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 64,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The 42nd Amendment was passed by Parliament during which period?",
+      "options": {
+        "a": "Normal parliamentary session",
+        "b": "Post-Emergency",
+        "c": "During the Internal Emergency (1975–77)",
+        "d": "During President's Rule in multiple States"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 65,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following is both a Fundamental Duty AND reflected in a Fundamental Right?",
+      "options": {
+        "a": "Duty to pay taxes",
+        "b": "Duty to vote",
+        "c": "Duty to promote harmony (linked to Art. 14 — equality)",
+        "d": "Duty to file IT returns"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 66,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Prevention of Insults to National Honour Act, 1971 enforces which Fundamental Duty?",
+      "options": {
+        "a": "Article 51A(b)",
+        "b": "Article 51A(a)",
+        "c": "Article 51A(c)",
+        "d": "Article 51A(d)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 67,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "\"To develop the scientific temper, humanism and spirit of inquiry and reform\" — this duty is significant because:",
+      "options": {
+        "a": "It promotes Hindu rationalism",
+        "b": "It creates a constitutional obligation for rational, evidence-based thinking",
+        "c": "It is directed only at scientists",
+        "d": "It mandates school curriculum changes"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 68,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which Fundamental Duty is most directly relevant to anti-superstition laws passed by some States?",
+      "options": {
+        "a": "Article 51A(f)",
+        "b": "Article 51A(g)",
+        "c": "Article 51A(h)",
+        "d": "Article 51A(i)"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 69,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Fundamental Duties do NOT include:",
+      "options": {
+        "a": "Duty to vote in elections",
+        "b": "Duty to protect the environment",
+        "c": "Duty to defend the country",
+        "d": "Duty to promote harmony"
+      },
+      "explanation": "Duty to vote is NOT a Fundamental Duty — it was recommended but not included.",
+      "correct": "a"
+    },
+    {
+      "id": 70,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following statements about Fundamental Duties is INCORRECT?",
+      "options": {
+        "a": "They apply only to citizens",
+        "b": "They are non-justiciable",
+        "c": "They can be enforced by Parliament through law",
+        "d": "They apply to foreign nationals residing in India"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 71,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The duty in Article 51A(j) to \"strive towards excellence\" covers:",
+      "options": {
+        "a": "Only educational excellence",
+        "b": "Only sports and arts",
+        "c": "All spheres of individual and collective activity",
+        "d": "Only professional conduct"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 72,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Article 51A(e)'s duty to \"renounce practices derogatory to the dignity of women\" is enforced by which law?",
+      "options": {
+        "a": "Dowry Prohibition Act, 1961 ✅ (among others)",
+        "b": "Prevention of Damage to Public Property Act",
+        "c": "Wildlife Protection Act",
+        "d": "Unlawful Activities Prevention Act"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 73,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which Fundamental Duty is directly linked to Article 21A (Right to Education)?",
+      "options": {
+        "a": "Article 51A(g)",
+        "b": "Article 51A(j)",
+        "c": "Article 51A(k)",
+        "d": "Article 51A(h)"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 74,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Fundamental Duty in Article 51A(b) to \"follow noble ideals of freedom struggle\" is:",
+      "options": {
+        "a": "A legal duty enforceable in courts",
+        "b": "A moral duty — not legally enforceable",
+        "c": "Enforceable under the Unlawful Activities Prevention Act",
+        "d": "Enforceable by the Election Commission"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 75,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Consider: A person burns the National Flag at a public protest. Which Fundamental Duty is violated?",
+      "options": {
+        "a": "Article 51A(b)",
+        "b": "Article 51A(a)",
+        "c": "Article 51A(c)",
+        "d": "Article 51A(i)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 76,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following pairs of Fundamental Duties and corresponding legislation is INCORRECT?",
+      "options": {
+        "a": "51A(i) — Prevention of Damage to Public Property Act, 1984",
+        "b": "51A(g) — Wildlife Protection Act, 1972",
+        "c": "51A(k) — RTE Act, 2009",
+        "d": "51A(h) — Dowry Prohibition Act, 1961"
+      },
+      "explanation": "Art. 51A(h) relates to scientific temper. Dowry Prohibition Act is linked to Art. 51A(e) (dignity of women).",
+      "correct": "d"
+    },
+    {
+      "id": 77,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The Republic Day parade, cultural events, and national festivals are primarily linked to which Fundamental Duty?",
+      "options": {
+        "a": "Article 51A(b)",
+        "b": "Article 51A(f)",
+        "c": "Article 51A(g)",
+        "d": "Article 51A(j)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 78,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which part of the Constitution covers both Fundamental Duties and Directive Principles?",
+      "options": {
+        "a": "Part III",
+        "b": "Part IV and Part IV-A",
+        "c": "Part V",
+        "d": "Part IV-A only"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 79,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "The duty to \"protect and improve the natural environment\" can be enforced through:",
+      "options": {
+        "a": "Article 32 petitions alone",
+        "b": "Parliament's laws like Environment Protection Act, 1986",
+        "c": "Presidential Orders",
+        "d": "State laws only"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 80,
+      "tag": "M",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following correctly describes all 11 Fundamental Duties?",
+      "options": {
+        "a": "10 added in 1976 by 42nd Amendment + 1 added in 2002 by 86th Amendment",
+        "b": "8 added in 1976 + 3 added later",
+        "c": "All 11 added simultaneously in 1976",
+        "d": "9 added in 1976 + 2 added in 2002"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 81,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Consider the following statements about Fundamental Duties:\n\n\n1. They are enforceable by courts directly.\n2. Parliament can enforce them through legislation.\n3. They serve as an aid in interpreting ambiguous statutes.\n4. They apply to both citizens and foreigners in India.\n\nWhich are CORRECT?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 and 3",
+        "c": "1, 2 and 3",
+        "d": "3 and 4"
+      },
+      "explanation": "FDs are non-justiciable (Statement 1 wrong), apply only to citizens (Statement 4 wrong), but Parliament CAN legislate (Statement 2) and courts CAN use them to interpret laws (Statement 3).",
+      "correct": "b"
+    },
+    {
+      "id": 82,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Assertion (A): Fundamental Duties are non-justiciable.\n\n\nReason (R): This makes them completely redundant and of no constitutional significance.",
+      "options": {
+        "a": "Both A and R are true and R correctly explains A",
+        "b": "A is true but R is false",
+        "c": "A is false and R is true",
+        "d": "Both A and R are false"
+      },
+      "explanation": "FDs are non-justiciable but are significant — courts use them for statutory interpretation, and Parliament enforces them through laws.",
+      "correct": "b"
+    },
+    {
+      "id": 83,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "In AIIMS Students' Union v. AIIMS (2002), the Supreme Court held that:",
+      "options": {
+        "a": "Fundamental Duties override Fundamental Rights",
+        "b": "Fundamental Duties are as important as Fundamental Rights and must be read harmoniously",
+        "c": "Fundamental Duties can be enforced directly by courts",
+        "d": "Fundamental Duties apply to foreigners as well"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 84,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Consider the following Fundamental Duties — identify which one is of a MORAL nature (not enforceable even by legislation):",
+      "options": {
+        "a": "Article 51A(a) — respect National Flag",
+        "b": "Article 51A(g) — protect environment",
+        "c": "Article 51A(b) — cherish ideals of freedom struggle",
+        "d": "Article 51A(i) — safeguard public property"
+      },
+      "explanation": "Art. 51A(b) is a purely moral obligation — it cannot be legislated into a punishable offence without violating free thought.",
+      "correct": "c"
+    },
+    {
+      "id": 85,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "The 42nd Amendment also added Article 48A (protection of environment) in Part IV (DPSPs). The relationship between Article 48A and Article 51A(g) is:",
+      "options": {
+        "a": "Article 48A imposes duty on citizens; Article 51A(g) imposes duty on State",
+        "b": "Article 48A imposes duty on State; Article 51A(g) imposes duty on citizens — both together create a constitutional framework",
+        "c": "Both impose duty on State only",
+        "d": "Both impose duty on citizens only"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 86,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Consider statements on the Swaran Singh Committee recommendations vs. what was actually adopted:\n\n\n1. The Committee recommended 8 duties; 10 were included in 1976.\n2. The Committee recommended inclusion of the duty to vote; this was NOT included.\n3. The Committee recommended that violation of duties should be penalised; this was NOT included.\n4. The Committee recommended no duty related to education of children.\n\nWhich are CORRECT?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "All four",
+        "c": "2 and 3 only",
+        "d": "1, 3 and 4"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 87,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "The Fundamental Duty under Article 51A(c) to \"uphold sovereignty, unity and integrity\" corresponds constitutionally to which other provision?",
+      "options": {
+        "a": "Article 19(2) — reasonable restrictions on free speech ✅ (national security, sovereignty, integrity are grounds)",
+        "b": "Article 21 — right to life",
+        "c": "Article 32 — constitutional remedies",
+        "d": "Article 356 — President's Rule"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 88,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "In M.K. Ranjitsinh v. Union of India (2024 Climate Rights case), the Supreme Court used Article 51A(g) along with which Articles to recognise the right against adverse effects of climate change?",
+      "options": {
+        "a": "Articles 14 and 19",
+        "b": "Articles 14 and 21",
+        "c": "Articles 21 and 32",
+        "d": "Articles 19 and 32"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 89,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Consider: \"A State law requires all citizens to compulsorily attend 5 days of national service every year under Article 51A(d). It imposes a fine for non-compliance.\" Is this constitutionally valid?",
+      "options": {
+        "a": "Invalid — Fundamental Duties cannot be enforced at all",
+        "b": "Valid — Parliament and State Legislatures can enforce Fundamental Duties",
+        "c": "Invalid — only Parliament (not States) can enforce Fundamental Duties",
+        "d": "Valid — but only if approved by the President"
+      },
+      "explanation": "FDs can be enforced by Parliament AND State Legislatures through appropriate legislation.",
+      "correct": "b"
+    },
+    {
+      "id": 90,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following statements about Article 51A is CORRECT in the context of judicial interpretation?",
+      "options": {
+        "a": "Courts have struck down laws that are inconsistent with Fundamental Duties",
+        "b": "Courts have upheld restrictions on Fundamental Rights when they enforce corresponding Fundamental Duties",
+        "c": "Courts have held that Fundamental Duties create positive rights for citizens",
+        "d": "Courts cannot use Fundamental Duties in any constitutional interpretation"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 91,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Assertion (A): Fundamental Duties represent a balance between individual freedom and social responsibility.\n\n\nReason (R): They were inspired by the USSR Constitution which emphasised collective duty alongside individual rights.",
+      "options": {
+        "a": "Both A and R are true and R correctly explains A",
+        "b": "Both true but R does not explain A",
+        "c": "A is true, R is false",
+        "d": "Both are false"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 92,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Consider the following match of Duties with their correct categorisation:\n\n\n| Duty                                              | Category                         |\n| ------------------------------------------------- | -------------------------------- |\n| A. Art. 51A(a) — respect Constitution/Flag/Anthem | 1. Environmental Duty            |\n| B. Art. 51A(e) — promote brotherhood              | 2. Civic/National Duty           |\n| C. Art. 51A(g) — protect environment              | 3. Social Duty                   |\n| D. Art. 51A(h) — scientific temper                | 4. Intellectual/Progressive Duty |",
+      "options": {
+        "a": "A-2, B-3, C-1, D-4",
+        "b": "A-1, B-2, C-3, D-4",
+        "c": "A-2, B-1, C-4, D-3",
+        "d": "A-3, B-2, C-1, D-4"
+      },
+      "correct": "a"
+    },
+    {
+      "id": 93,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following Fundamental Duties has been used by courts to UPHOLD restrictions on freedom of expression under Article 19(2)?",
+      "options": {
+        "a": "Article 51A(b)",
+        "b": "Article 51A(c) ✅ (sovereignty and integrity — basis for sedition-type restrictions)",
+        "c": "Article 51A(f)",
+        "d": "Article 51A(j)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 94,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Consider statements on the difference between Part IV (DPSPs) and Part IV-A (Fundamental Duties):\n\n\n1. DPSPs are directed at the State; Fundamental Duties are directed at citizens.\n2. Both DPSPs and Fundamental Duties are non-justiciable.\n3. DPSPs were part of the original Constitution; Fundamental Duties were not.\n4. Both were added by the 42nd Amendment.\n\nWhich are CORRECT?",
+      "options": {
+        "a": "1, 2 and 4",
+        "b": "1, 2 and 3",
+        "c": "All four",
+        "d": "2 and 3 only"
+      },
+      "explanation": "Statement 4 is WRONG — DPSPs were in the original Constitution (1950); only Fundamental Duties were added by 42nd Amendment.",
+      "correct": "b"
+    },
+    {
+      "id": 95,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "The Prevention of Damage to Public Property Act 1984 was specifically examined by the Supreme Court in which case to link it to Article 51A(i)?",
+      "options": {
+        "a": "AIIMS Students' Union Case (2002)",
+        "b": "In Re: Destruction of Public and Private Properties v. State of AP (2009)",
+        "c": "Ranganath Mishra Case (2003)",
+        "d": "M.K. Ranjitsinh Case (2024)"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 96,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Consider: \"The National Curriculum Framework must include content about Fundamental Duties.\" This is a recommendation of which committee/body?",
+      "options": {
+        "a": "Swaran Singh Committee",
+        "b": "Justice Verma Committee",
+        "c": "Kothari Commission",
+        "d": "Yashpal Committee"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 97,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following is the MOST ACCURATE description of the legal status of Fundamental Duties?",
+      "options": {
+        "a": "Absolutely unenforceable under all circumstances",
+        "b": "Directly enforceable by filing a writ petition",
+        "c": "Non-justiciable but enforceable through parliamentary legislation, and usable by courts as interpretive tools",
+        "d": "Enforceable only by the President through proclamation"
+      },
+      "correct": "c"
+    },
+    {
+      "id": 98,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Consider statements on Article 51A(k):\n\n\n1. It was added by the 86th Amendment, 2002.\n2. It places the duty on parents/guardians, NOT the State.\n3. Article 21A (Right to Education) places corresponding obligation on the State.\n4. The age group covered is 6–14 years for both Art. 21A and Art. 51A(k).\n\nWhich are ALL CORRECT?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "1, 3 and 4",
+        "c": "2, 3 and 4",
+        "d": "All four"
+      },
+      "correct": "d"
+    },
+    {
+      "id": 99,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Assertion (A): The Fundamental Duties chapter in the Indian Constitution has been criticised as a window dressing exercise.\n\n\nReason (R): They were added during the Emergency, their non-justiciable character limits enforceability, and no enforcement mechanism was simultaneously created.",
+      "options": {
+        "a": "A is false; R is true",
+        "b": "Both A and R are true; R correctly explains A",
+        "c": "Both A and R are true; R does not explain A",
+        "d": "A is true; R is false"
+      },
+      "correct": "b"
+    },
+    {
+      "id": 100,
+      "tag": "H",
+      "difficulty": "Hard",
+      "topic": "Fundamental Duties",
+      "question": "Which of the following BEST explains why Fundamental Duties are relevant despite being non-justiciable?\n\n\n1. Courts use them to interpret laws and resolve constitutional disputes.\n2. Parliament can pass penal laws enforcing them.\n3. They create a moral and civic framework guiding citizen behaviour.\n4. They help balance individual Fundamental Rights with collective social obligations.",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1, 2 and 3 only",
+        "c": "All four",
+        "d": "3 and 4 only"
+      },
+      "correct": "c"
+    }
+  ]
+}

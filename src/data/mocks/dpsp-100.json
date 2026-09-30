@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Directive Principles of State Policy are contained in which Part of the Indian Constitution?",
+    "options": {
+      "a": "Part III",
+      "b": "Part IV",
+      "c": "Part IV-A",
+      "d": "Part V"
+    },
+    "correct": "b",
+    "explanation": "> **Part IV, Articles 36–51"
+  },
+  {
+    "id": 2,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "DPSPs are covered under which Articles of the Constitution?",
+    "options": {
+      "a": "Articles 12–35",
+      "b": "Articles 36–51",
+      "c": "Articles 51A",
+      "d": "Articles 52–78"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "The concept of DPSPs was borrowed from the Constitution of:",
+    "options": {
+      "a": "USA",
+      "b": "USSR",
+      "c": "Ireland",
+      "d": "Australia"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "DPSPs are:",
+    "options": {
+      "a": "Justiciable like Fundamental Rights",
+      "b": "Non-justiciable",
+      "c": "Partly justiciable",
+      "d": "Enforceable through Article 32"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 37 states that DPSPs are:",
+    "options": {
+      "a": "Enforceable in courts",
+      "b": "Fundamental in the governance of the country and duty of the State to apply them",
+      "c": "Optional guidelines for States only",
+      "d": "Superior to Fundamental Rights"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "DPSPs aim to establish which type of state in India?",
+    "options": {
+      "a": "Police State",
+      "b": "Federal State",
+      "c": "Welfare State",
+      "d": "Unitary State"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Dr. B.R. Ambedkar described DPSPs as:",
+    "options": {
+      "a": "Soul of the Constitution",
+      "b": "Novel features of the Constitution",
+      "c": "Conscience of the Constitution",
+      "d": "Heart of the Constitution"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Granville Austin called DPSPs and Fundamental Rights together:",
+    "options": {
+      "a": "Basic Structure of the Constitution",
+      "b": "Soul of the Constitution",
+      "c": "Conscience of the Constitution",
+      "d": "Foundation of the Constitution"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "DPSPs are classified into how many categories for ease of study?",
+    "options": {
+      "a": "Two",
+      "b": "Three  (Socialist, Gandhian, Liberal-Intellectual)",
+      "c": "Four",
+      "d": "Five"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 38 directs the State to:",
+    "options": {
+      "a": "Organise village panchayats",
+      "b": "Secure a social order for promotion of welfare of the people",
+      "c": "Provide free legal aid",
+      "d": "Promote cottage industries"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 39A deals with:",
+    "options": {
+      "a": "Equal pay for equal work",
+      "b": "Free legal aid and equal justice",
+      "c": "Right to work",
+      "d": "Protection of environment"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 40 directs the State to:",
+    "options": {
+      "a": "Provide free legal aid",
+      "b": "Organise village panchayats",
+      "c": "Separate judiciary from executive",
+      "d": "Promote international peace"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 41 deals with the right to:",
+    "options": {
+      "a": "Minimum wages",
+      "b": "Work, education, and public assistance",
+      "c": "Free legal aid",
+      "d": "Maternity relief"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 42 deals with:",
+    "options": {
+      "a": "Living wage for workers",
+      "b": "Equal pay for equal work",
+      "c": "Just and humane conditions of work and maternity relief",
+      "d": "Free legal aid"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 43 directs the State to secure:",
+    "options": {
+      "a": "Free legal aid",
+      "b": "Right to work",
+      "c": "Living wage and decent standard of life for workers",
+      "d": "Right to education"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 44 deals with:",
+    "options": {
+      "a": "Protection of environment",
+      "b": "Uniform Civil Code",
+      "c": "Promotion of international peace",
+      "d": "Free legal aid"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 45 (after 86th Amendment 2002) directs the State to provide:",
+    "options": {
+      "a": "Free legal aid to poor",
+      "b": "Early childhood care and education for children below 6 years",
+      "c": "Free education up to graduation",
+      "d": "Minimum wages to labourers"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 46 directs the State to promote educational and economic interests of:",
+    "options": {
+      "a": "Women and children",
+      "b": "Scheduled Castes, Scheduled Tribes, and other weaker sections",
+      "c": "Minorities only",
+      "d": "Rural population"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 47 deals with:",
+    "options": {
+      "a": "Uniform Civil Code",
+      "b": "Prohibition of intoxicating liquors and raising nutrition/standard of living",
+      "c": "Protection of wildlife",
+      "d": "Village panchayats"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 48 deals with:",
+    "options": {
+      "a": "Protection of monuments",
+      "b": "Promotion of international peace",
+      "c": "Organisation of agriculture and animal husbandry and prohibition of cow slaughter",
+      "d": "Uniform Civil Code"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 48A deals with:",
+    "options": {
+      "a": "Village panchayats",
+      "b": "Protection and improvement of environment and safeguarding forests and wildlife",
+      "c": "Uniform Civil Code",
+      "d": "Separation of judiciary from executive"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 48A was added by which Amendment?",
+    "options": {
+      "a": "40th Amendment",
+      "b": "42nd Amendment",
+      "c": "44th Amendment",
+      "d": "86th Amendment"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 49 deals with:",
+    "options": {
+      "a": "Protection of environment",
+      "b": "Equal pay for equal work",
+      "c": "Protection of monuments and places of national importance",
+      "d": "Promotion of cottage industries"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 50 directs the State to:",
+    "options": {
+      "a": "Promote international peace",
+      "b": "Separate judiciary from executive in public services",
+      "c": "Provide free legal aid",
+      "d": "Organise village panchayats"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 51 deals with:",
+    "options": {
+      "a": "Protection of monuments",
+      "b": "Uniform Civil Code",
+      "c": "Promotion of international peace and security",
+      "d": "Protection of environment"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Which Article defines \"State\" for the purpose of DPSPs?",
+    "options": {
+      "a": "Article 36",
+      "b": "Article 37",
+      "c": "Article 38",
+      "d": "Article 39"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "DPSPs impose obligations on:",
+    "options": {
+      "a": "Citizens",
+      "b": "The State",
+      "c": "Parliament only",
+      "d": "Judiciary"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "The idea of DPSPs was first proposed in:",
+    "options": {
+      "a": "Nehru Report, 1928",
+      "b": "Sapru Committee Report, 1945",
+      "c": "Motilal Nehru Report",
+      "d": "Simon Commission"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Which DPSP is directly related to the Minimum Wages Act?",
+    "options": {
+      "a": "Article 39",
+      "b": "Article 43",
+      "c": "Article 41",
+      "d": "Article 42"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Which DPSP category includes the Uniform Civil Code?",
+    "options": {
+      "a": "Socialist",
+      "b": "Gandhian",
+      "c": "Liberal-Intellectual",
+      "d": "Democratic"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Which DPSP category includes organisation of village panchayats?",
+    "options": {
+      "a": "Socialist",
+      "b": "Gandhian",
+      "c": "Liberal-Intellectual",
+      "d": "Democratic"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Which DPSP category includes equal pay for equal work?",
+    "options": {
+      "a": "Gandhian",
+      "b": "Liberal-Intellectual",
+      "c": "Socialist",
+      "d": "Welfare"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "DPSPs are:",
+    "options": {
+      "a": "Positive obligations on the State",
+      "b": "Negative obligations on the State",
+      "c": "Rights of citizens enforceable in courts",
+      "d": "Duties of citizens"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "The Irish Constitution from which DPSPs were borrowed was enacted in:",
+    "options": {
+      "a": "1917",
+      "b": "1922",
+      "c": "1937",
+      "d": "1948"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Which DPSP is related to the MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act)?",
+    "options": {
+      "a": "Article 38",
+      "b": "Article 41  (Right to work)",
+      "c": "Article 43",
+      "d": "Article 46"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 39(b) and 39(c) deal with:",
+    "options": {
+      "a": "Equal pay for equal work",
+      "b": "Distribution of material resources for common good and prevention of concentration of wealth",
+      "c": "Right to work",
+      "d": "Living wage for workers"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Which Amendment added clause (2) to Article 38 about minimising inequalities?",
+    "options": {
+      "a": "42nd Amendment",
+      "b": "44th Amendment",
+      "c": "86th Amendment",
+      "d": "25th Amendment"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 43A was added by which Amendment and deals with:",
+    "options": {
+      "a": "42nd Amendment — workers' participation in management of industries",
+      "b": "44th Amendment — free legal aid",
+      "c": "86th Amendment — early childhood care",
+      "d": "73rd Amendment — Panchayati Raj"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Article 45 BEFORE the 86th Amendment 2002 dealt with:",
+    "options": {
+      "a": "Maternity relief",
+      "b": "Free and compulsory education for children up to 14 years",
+      "c": "Early childhood care",
+      "d": "Right to work"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "tag": "E",
+    "topic": "DPSP",
+    "question": "Which DPSP is directly implemented by the Legal Services Authorities Act, 1987?",
+    "options": {
+      "a": "Article 39",
+      "b": "Article 39A",
+      "c": "Article 41",
+      "d": "Article 43"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Article 39A was added to the Constitution by which Amendment?",
+    "options": {
+      "a": "40th Amendment",
+      "b": "42nd Amendment",
+      "c": "44th Amendment",
+      "d": "86th Amendment"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "\"Equal pay for equal work\" is mentioned in which Article?",
+    "options": {
+      "a": "Article 38",
+      "b": "Article 39",
+      "c": "Article 39A",
+      "d": "Article 39(d)"
+    },
+    "correct": "d",
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The Uniform Civil Code (UCC) under Article 44 means:",
+    "options": {
+      "a": "A common criminal code for all citizens",
+      "b": "A common code governing personal matters (marriage, divorce, inheritance) for all citizens regardless of religion",
+      "c": "A uniform taxation system",
+      "d": "Common education curriculum"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "In which Supreme Court case did the court strongly recommend implementation of the Uniform Civil Code?",
+    "options": {
+      "a": "Kesavananda Bharati Case (1973)",
+      "b": "Shah Bano Case (Mohd. Ahmed Khan v. Shah Bano Begum, 1985)",
+      "c": "Maneka Gandhi Case (1978)",
+      "d": "S.R. Bommai Case (1994)"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Article 36 in DPSPs defines \"State\" with reference to:",
+    "options": {
+      "a": "Article 13",
+      "b": "Article 12",
+      "c": "Article 14",
+      "d": "Article 19"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which DPSPs were given primacy over Fundamental Rights under Article 31C (25th Amendment, 1971)?",
+    "options": {
+      "a": "Articles 38 and 39",
+      "b": "Articles 39(b) and 39(c)",
+      "c": "Articles 41 and 42",
+      "d": "Articles 43 and 44"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The 42nd Amendment (1976) expanded Article 31C to give primacy to:",
+    "options": {
+      "a": "Only Articles 39(b) and 39(c)",
+      "b": "ALL DPSPs over Fundamental Rights",
+      "c": "Only Socialist DPSPs",
+      "d": "Only Gandhian DPSPs"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The Supreme Court in Minerva Mills Case (1980) struck down the 42nd Amendment's expansion of Article 31C because:",
+    "options": {
+      "a": "DPSPs cannot override Fundamental Rights at all",
+      "b": "Giving absolute primacy to ALL DPSPs over Fundamental Rights destroyed the basic structure",
+      "c": "Only Parliament can decide the hierarchy",
+      "d": "42nd Amendment was passed during Emergency and is invalid"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "After Minerva Mills Case (1980), the position on Article 31C is:",
+    "options": {
+      "a": "Article 31C is completely struck down",
+      "b": "Article 31C protects only Articles 39(b) and 39(c) as originally inserted by 25th Amendment",
+      "c": "Article 31C protects all DPSPs",
+      "d": "Article 31C is no longer operative"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "DPSPs represent which type of democracy in India?",
+    "options": {
+      "a": "Political democracy only",
+      "b": "Economic and Social democracy",
+      "c": "Industrial democracy",
+      "d": "Direct democracy"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which of the following is a Gandhian DPSP?",
+    "options": {
+      "a": "Article 39A — free legal aid",
+      "b": "Article 44 — Uniform Civil Code",
+      "c": "Article 40 — village panchayats",
+      "d": "Article 51 — international peace"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which of the following is a Liberal-Intellectual DPSP?",
+    "options": {
+      "a": "Article 40 — village panchayats",
+      "b": "Article 43 — living wage",
+      "c": "Article 44 — Uniform Civil Code",
+      "d": "Article 47 — prohibition"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which of the following is a Socialist DPSP?",
+    "options": {
+      "a": "Article 40 — village panchayats",
+      "b": "Article 47 — prohibition",
+      "c": "Article 48 — cow protection",
+      "d": "Article 42 — maternity relief"
+    },
+    "correct": "d",
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The Panchayati Raj system, implementing Article 40, was constitutionalised by which Amendment?",
+    "options": {
+      "a": "42nd Amendment",
+      "b": "44th Amendment",
+      "c": "73rd Amendment",
+      "d": "86th Amendment"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Article 47's direction on prohibition of intoxicating drinks relates to which Fundamental Right tension?",
+    "options": {
+      "a": "Article 14 — equality",
+      "b": "Article 19(1)(g) — freedom of trade  (liquor trade restrictions often challenged under this)",
+      "c": "Article 21 — right to life",
+      "d": "Article 25 — freedom of religion"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which DPSP was used to justify the nationalisation of banks in 1969?",
+    "options": {
+      "a": "Article 38",
+      "b": "Article 39(b) and 39(c)",
+      "c": "Article 41",
+      "d": "Article 43A"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which DPSP directly implements the concept of \"economic justice\" mentioned in the Preamble?",
+    "options": {
+      "a": "Article 44",
+      "b": "Article 39",
+      "c": "Article 51",
+      "d": "Article 48"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The concept of \"equal justice and free legal aid\" in Article 39A was implemented through:",
+    "options": {
+      "a": "Legal Services Authorities Act, 1987",
+      "b": "Prevention of Damage to Public Property Act, 1984",
+      "c": "Protection of Civil Rights Act, 1955",
+      "d": "Advocates Act, 1961"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The 86th Amendment 2002 changed the content of Article 45. Before 2002, Article 45 directed the State to provide free education up to age:",
+    "options": {
+      "a": "6 years",
+      "b": "10 years",
+      "c": "14 years",
+      "d": "18 years"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "After the 86th Amendment 2002, Article 45 now covers children below:",
+    "options": {
+      "a": "14 years",
+      "b": "10 years",
+      "c": "6 years  (early childhood care and education)",
+      "d": "18 years"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The duty of free and compulsory education for 6–14 years was moved from Article 45 (DPSP) to:",
+    "options": {
+      "a": "Article 51A(k) — Fundamental Duty",
+      "b": "Article 21A — Fundamental Right",
+      "c": "Article 46 — Fundamental Right for SCs/STs",
+      "d": "Article 19 — Right to Freedom"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Article 48 related to cow protection has been challenged on grounds of which Fundamental Right?",
+    "options": {
+      "a": "Article 14 — equality",
+      "b": "Article 19 — freedom",
+      "c": "Article 25 — freedom of religion",
+      "d": "Article 21 — right to life"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "In State of Gujarat v. Mirzapur Moti Kureshi (2005), the Supreme Court upheld:",
+    "options": {
+      "a": "Right to slaughter cows as a Fundamental Right",
+      "b": "State law banning cow slaughter as valid under Article 48",
+      "c": "UCC as a Fundamental Right",
+      "d": "Panchayati Raj as a Fundamental Right"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Article 51 on international peace and security has been used as a basis for India's support to:",
+    "options": {
+      "a": "SAARC",
+      "b": "United Nations and its Charter",
+      "c": "BRICS",
+      "d": "Commonwealth"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Article 43B was added by which Amendment and deals with:",
+    "options": {
+      "a": "97th Amendment — promotion of cooperative societies",
+      "b": "86th Amendment — early childhood education",
+      "c": "42nd Amendment — worker participation",
+      "d": "44th Amendment — equal justice"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which of the following pairs — DPSP Article and related legislation — is CORRECT?",
+    "options": {
+      "a": "Article 39A — Minimum Wages Act",
+      "b": "Article 41 — MGNREGA  (Right to work)",
+      "c": "Article 43 — Legal Services Authorities Act",
+      "d": "Article 44 — Hindu Marriage Act"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "\"Workers' participation in management of industries\" is mentioned in:",
+    "options": {
+      "a": "Article 42",
+      "b": "Article 43  (43A)",
+      "c": "Article 44",
+      "d": "Article 46"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which DPSP is directly related to the Maternity Benefit Act, 1961?",
+    "options": {
+      "a": "Article 41",
+      "b": "Article 42",
+      "c": "Article 43",
+      "d": "Article 39(d)"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The provision of Article 50 (separation of judiciary from executive) has been implemented through:",
+    "options": {
+      "a": "Constitution itself via Article 50",
+      "b": "Criminal Procedure Code, 1973  (separated executive magistracy from judicial magistracy)",
+      "c": "Advocates Act, 1961",
+      "d": "Legal Services Authorities Act, 1987"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "DPSPs were described as \"a cheque on a bank, payable when resources permit\" by:",
+    "options": {
+      "a": "B.R. Ambedkar",
+      "b": "K.T. Shah",
+      "c": "Jawaharlal Nehru",
+      "d": "T.T. Krishnamachari"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "DPSPs are NOT enforceable in courts, but courts have used them for:",
+    "options": {
+      "a": "Striking down Fundamental Rights",
+      "b": "Interpreting statutes and expanding scope of Article 21",
+      "c": "Overriding Parliament",
+      "d": "Making laws directly"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "In Unni Krishnan v. State of AP (1993), the Supreme Court used which DPSP to expand Article 21?",
+    "options": {
+      "a": "Article 41",
+      "b": "Article 45  (Right to education inferred from Art. 21 + Art. 45 together)",
+      "c": "Article 43",
+      "d": "Article 39A"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which DPSP was the basis for the Bonded Labour System (Abolition) Act, 1976?",
+    "options": {
+      "a": "Article 38",
+      "b": "Article 39",
+      "c": "Article 43",
+      "d": "Article 46"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The Forest Conservation Act, 1980 and the Wildlife Protection Act, 1972 implement which DPSP?",
+    "options": {
+      "a": "Article 46",
+      "b": "Article 47",
+      "c": "Article 48A",
+      "d": "Article 49"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "The Archaeological Survey of India (ASI) functions under which DPSP?",
+    "options": {
+      "a": "Article 48",
+      "b": "Article 48A",
+      "c": "Article 49",
+      "d": "Article 50"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which of the following is NOT a Gandhian DPSP?",
+    "options": {
+      "a": "Article 40 — village panchayats",
+      "b": "Article 43 — cottage industries",
+      "c": "Article 47 — prohibition",
+      "d": "Article 50 — separation of judiciary from executive"
+    },
+    "correct": "d",
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which of the following is NOT a Liberal-Intellectual DPSP?",
+    "options": {
+      "a": "Article 44 — Uniform Civil Code",
+      "b": "Article 45 — early childhood care",
+      "c": "Article 48 — cow protection",
+      "d": "Article 51 — international peace"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Article 39(e) directs the State to ensure:",
+    "options": {
+      "a": "Equal pay for equal work",
+      "b": "Right to livelihood",
+      "c": "That the health and strength of workers (men, women, children) are not abused",
+      "d": "Distribution of material resources"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Article 39(f) directs the State to ensure:",
+    "options": {
+      "a": "Equal pay for equal work",
+      "b": "Free legal aid for all",
+      "c": "That children are given opportunities and facilities to develop in a healthy manner",
+      "d": "Right to maternity relief"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "tag": "M",
+    "topic": "DPSP",
+    "question": "Which DPSP is related to the Ancient Monuments and Archaeological Sites and Remains Act, 1958?",
+    "options": {
+      "a": "Article 48",
+      "b": "Article 48A",
+      "c": "Article 49",
+      "d": "Article 50"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Consider the following statements about DPSPs: 1. DPSPs are non-justiciable but are fundamental in governance. 2. Parliament cannot make a law to enforce DPSPs if it violates Fundamental Rights. 3. Article 31C gives conditional protection to laws implementing Articles 39(b) and 39(c). 4. All DPSPs have equal constitutional status with Fundamental Rights. Which are CORRECT?",
+    "options": {
+      "a": "1 and 3",
+      "b": "1, 2 and 3",
+      "c": "1, 3 and 4",
+      "d": "All four"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Assertion (A): DPSPs cannot be enforced by courts, yet they are not mere moral platitudes. Reason (R): Courts have used DPSPs to read new rights into Article 21 and to uphold legislation implementing DPSPs even when challenged as violating Fundamental Rights.",
+    "options": {
+      "a": "A is false; R is true",
+      "b": "Both A and R are true; R correctly explains A",
+      "c": "Both are true; R does not explain A",
+      "d": "Both are false"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "In Kesavananda Bharati Case (1973), the Supreme Court held that:",
+    "options": {
+      "a": "DPSPs are superior to Fundamental Rights",
+      "b": "Fundamental Rights and DPSPs must be read harmoniously as complementary to each other",
+      "c": "DPSPs can override Fundamental Rights if Parliament so directs",
+      "d": "DPSPs are part of the basic structure"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Consider the evolution of FR vs DPSP conflict across cases: | Case | Ruling | | ------------------------------------------------- | ----------------------------------------- | | A. State of Madras v. Champakam Dorairajan (1951) | 1. Harmony between FRs and DPSPs | | B. Golaknath Case (1967) | 2. FRs prevail over DPSPs | | C. Kesavananda Bharati (1973) | 3. FRs unamendable; DPSPs cannot override | | D. Minerva Mills (1980) | 4. Balance — neither can destroy other | Correct match:",
+    "options": {
+      "a": "A-2, B-3, C-1, D-4",
+      "b": "A-3, B-2, C-4, D-1",
+      "c": "A-2, B-1, C-3, D-4",
+      "d": "A-1, B-2, C-3, D-4"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Consider statements about Article 31C: 1. It was inserted by the 25th Amendment (1971). 2. It originally protected only laws implementing Articles 39(b) and 39(c). 3. The 42nd Amendment expanded it to protect ALL DPSPs — this expansion was upheld by the SC. 4. After Minerva Mills Case, only the original Article 31C (25th Amendment version) remains valid. Which are CORRECT?",
+    "options": {
+      "a": "1, 2 and 3",
+      "b": "1, 2 and 4",
+      "c": "2, 3 and 4",
+      "d": "All four"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "The concept of \"material resources of the community\" in Article 39(b) was interpreted by the SC in:",
+    "options": {
+      "a": "Minerva Mills Case (1980)",
+      "b": "Property Owners' Association v. State of Maharashtra (2024)",
+      "c": "Kesavananda Bharati Case (1973)",
+      "d": "State of Gujarat v. Mirzapur Moti Kureshi (2005)"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "In Property Owners' Association v. State of Maharashtra (2024), the Supreme Court (9-judge bench) held:",
+    "options": {
+      "a": "ALL private property is \"material resource of community\" under Art. 39(b)",
+      "b": "NOT all privately owned resources qualify as \"material resources of the community\" — it depends on specific facts and nature of the resource",
+      "c": "Private property can never be acquired under Art. 39(b)",
+      "d": "Art. 39(b) applies only to natural resources"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Consider statements on the classification of DPSPs: Which Article does NOT belong to the Gandhian category?",
+    "options": {
+      "a": "Article 40 — village panchayats",
+      "b": "Article 43 — cottage industries",
+      "c": "Article 46 — weaker sections",
+      "d": "Article 39A — free legal aid"
+    },
+    "correct": "d",
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Article 37 says DPSPs are \"fundamental in the governance of the country.\" This means:",
+    "options": {
+      "a": "Courts can enforce them directly",
+      "b": "They create enforceable rights for citizens",
+      "c": "It shall be the duty of the State to apply these principles in making laws",
+      "d": "Violation of DPSPs by the State is punishable by courts"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Consider: \"The State passes a law nationalising private schools, invoking Article 39(b) (distribution of material resources for common good). A citizen challenges it under Article 19(1)(g) (right to profession).\" Post-Minerva Mills, how would a court decide?",
+    "options": {
+      "a": "Article 39(b) automatically overrides Article 19 under Article 31C",
+      "b": "The court will examine if the law passes the test of reasonable restriction AND whether Article 31C's protection applies after Minerva Mills",
+      "c": "The citizen always wins — FRs are supreme",
+      "d": "The nationalisation law is automatically invalid"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Assertion (A): The 44th Amendment added a clause to Article 38 about minimising inequalities not just in income but also in status, facilities, and opportunities. Reason (R): The 44th Amendment was passed to restore democratic values after the Emergency and strengthen economic equality provisions.",
+    "options": {
+      "a": "Both A and R are true; R correctly explains A",
+      "b": "Both are true; R does not explain A",
+      "c": "A is true; R is false",
+      "d": "A is false; R is true"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Consider statements about Article 51 (promotion of international peace): 1. It directs India to foster respect for international law and treaty obligations. 2. It has been used to support India's ratification of international environmental treaties. 3. It forms the constitutional basis for India's \"Panchsheel\" principles. 4. It makes international treaties automatically enforceable in Indian courts. Which are CORRECT?",
+    "options": {
+      "a": "1, 2 and 3",
+      "b": "All four",
+      "c": "1 and 3 only",
+      "d": "2, 3 and 4"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "The Maternity Benefit (Amendment) Act, 2017 extending maternity leave to 26 weeks directly implements:",
+    "options": {
+      "a": "Article 41",
+      "b": "Article 42",
+      "c": "Article 43",
+      "d": "Article 39(d)"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Consider statements about the relationship between DPSPs and Preamble: 1. DPSPs implement the \"social and economic justice\" objectives of the Preamble. 2. Article 38 most directly reflects the Preamble's \"justice — social, economic and political.\" 3. Article 51 directly implements the \"fraternity\" objective of the Preamble. 4. Article 44 (UCC) implements the \"liberty\" objective of the Preamble. Which are CORRECT?",
+    "options": {
+      "a": "1 and 2",
+      "b": "1, 2 and 3",
+      "c": "All four",
+      "d": "2 and 4"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "In the context of Article 44 (Uniform Civil Code), which of the following statements is INCORRECT?",
+    "options": {
+      "a": "It is a non-justiciable DPSP",
+      "b": "Supreme Court has repeatedly directed Parliament to enact UCC",
+      "c": "Goa has a UCC in force",
+      "d": "UCC has been fully enacted by Parliament as of 2024"
+    },
+    "correct": "d",
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Which of the following CORRECTLY represents the hierarchy of constitutional provisions after Kesavananda Bharati and Minerva Mills?",
+    "options": {
+      "a": "Basic Structure > All DPSPs > Fundamental Rights",
+      "b": "Basic Structure > Fundamental Rights + DPSPs (harmoniously balanced)",
+      "c": "Fundamental Rights > DPSPs > Basic Structure",
+      "d": "DPSPs > Fundamental Rights > Basic Structure"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Consider: Which DPSP Articles were added AFTER the original Constitution in 1950? | Amendment | Article Added | | -------------------- | ---------------------------- | | 42nd Amendment, 1976 | Article 39A, 43A, 48A | | 44th Amendment, 1978 | Clause (2) to Article 38 | | 86th Amendment, 2002 | New Article 45 (substituted) | | 97th Amendment, 2011 | Article 43B | Which of the above is INCORRECT?",
+    "options": {
+      "a": "All are correctly matched",
+      "b": "44th Amendment adding clause to Article 38",
+      "c": "86th Amendment substituting Article 45",
+      "d": "97th Amendment adding Article 43B"
+    },
+    "correct": "a",
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Consider the following and identify which DPSP has been MOST expanded by judicial interpretation through Article 21:",
+    "options": {
+      "a": "Article 39 — distribution of resources",
+      "b": "Article 45 — education (leading to recognition of Right to Education as FR)",
+      "c": "Article 44 — UCC",
+      "d": "Article 51 — international peace"
+    },
+    "correct": "b",
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Assertion (A): DPSPs are sometimes called \"positive rights\" and Fundamental Rights \"negative rights.\" Reason (R): DPSPs impose positive obligations on the State to act, while Fundamental Rights mostly restrain the State from acting.",
+    "options": {
+      "a": "A is false; R is true",
+      "b": "Both are false",
+      "c": "Both A and R are true; R correctly explains A",
+      "d": "A is true; R is false"
+    },
+    "correct": "c",
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "tag": "H",
+    "topic": "DPSP",
+    "question": "Which of the following BEST describes the current constitutional position on FRs vs DPSPs? 1. FRs and DPSPs are complementary — together they form the \"Conscience of the Constitution.\" 2. Courts use DPSPs to interpret and expand FRs, especially Article 21. 3. Laws implementing DPSPs cannot override FRs EXCEPT those protected by Article 31C. 4. DPSPs form part of the basic structure of the Constitution. Which are CORRECT?",
+    "options": {
+      "a": "1, 2 and 3",
+      "b": "All four",
+      "c": "2 and 3 only",
+      "d": "1 and 4 only"
+    },
+    "correct": "a",
+    "explanation": ""
+  }
+]
